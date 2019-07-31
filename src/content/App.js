@@ -1,12 +1,10 @@
 import React, {Component} from 'react';
 import { BrowserRouter, Route } from 'react-router-dom'
-import Books from './components/books.js';
+import Book from './components/book.js';
 import BookList from './data/bookList.js';
-
 
 const booksDropdown = {
  }
-
 
 class App extends Component {
   constructor(props){
@@ -17,17 +15,18 @@ class App extends Component {
     this.handleChange = this.handleChange.bind(this);
   };
   handleChange(event) {
-    this.setState({stylesContent: "waka"});
+    this.setState({});
   }
   render() {
+    const data = this.state.books;
     return (
       <div className="container">
 
         <div className="left-panel">
           <h3>Books</h3>
           <ul style={booksDropdown}>
-            <li><a href="Anatomy">Anatomy</a></li>
-            <li><a href="Chemistry">Chemistry</a></li>
+            <li><a href="anatomy">Anatomy</a></li>
+            <li><a href="chemistry">Chemistry</a></li>
           </ul>
           <label>Select a book</label>
           <select >
@@ -37,10 +36,15 @@ class App extends Component {
         </div>
 
         <div className="right-panel">
-
-            <BrowserRouter>
-            <Route path={["/home", "/chemistry", "/anatomy"]} component={Books} />
-            </BrowserRouter>
+          <BrowserRouter>
+          {
+            data.map((book, index) => (
+              <Route path={book.path}>
+                <Book key={index} data={book} />
+              </Route>
+            ))
+          }
+          </BrowserRouter>
           </div>
       </div>
     )

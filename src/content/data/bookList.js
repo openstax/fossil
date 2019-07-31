@@ -2,6 +2,7 @@ const BookList = [
   {
     name: "Chemistry",
     style: "chemistry-rex-web.css",
+    path: "chemistry",
     pages: [
       "https://archive.cnx.org/contents/7fccc9cf-9b71-44f6-800b-f9457fd64335@7.4:E4Y07W7Q@7/Preface.json",
       "https://archive.cnx.org/contents/7fccc9cf-9b71-44f6-800b-f9457fd64335@7.1:DY-noYmh@7/Introduction.json",
@@ -11,6 +12,7 @@ const BookList = [
   {
     name: "Anatomy",
     style: "anatomy-rex-web.css",
+    path: "anatomy",
     pages: [
       "https://archive.cnx.org/contents/7fccc9cf-9b71-44f6-800b-f9457fd64335@7.4:E4Y07W7Q@7/Preface.json",
       "https://archive.cnx.org/contents/7fccc9cf-9b71-44f6-800b-f9457fd64335@7.1:DY-noYmh@7/Introduction.json",
