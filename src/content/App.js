@@ -1,10 +1,9 @@
 import React, {Component} from 'react';
-import { BrowserRouter, Route } from 'react-router-dom'
 import Book from './components/book.js';
+import IndexPage from './components/index_page.js';
 import BookList from './data/bookList.js';
 
-const booksDropdown = {
- }
+const booksDropdown = {}
 
 class App extends Component {
   constructor(props){
@@ -14,40 +13,37 @@ class App extends Component {
     }
     this.handleChange = this.handleChange.bind(this);
   };
-  handleChange(event) {
-    this.setState({});
+  handleChange(book) {
+    this.setState({book: book});
   }
   render() {
-    const data = this.state.books;
+    const books = this.state.books;
     return (
       <div className="container">
 
         <div className="left-panel">
           <h3>Books</h3>
           <ul style={booksDropdown}>
-            <li><a href="anatomy">Anatomy</a></li>
-            <li><a href="chemistry">Chemistry</a></li>
+            {
+              books.map((book, index) => (
+                <li key={book.key}>
+                  <a onClick={this.handleChange.bind(null, book)}>
+                    {book.name}
+                  </a>
+                </li>
+              ))
+            }
           </ul>
-          <label>Select a book</label>
-          <select >
-
-          </select>
-            <button> </button>
         </div>
 
         <div className="right-panel">
-          <BrowserRouter>
           {
-            data.map((book, index) => (
-              <Route path={book.path}>
-                <Book key={index} data={book} />
-              </Route>
-            ))
+            this.state.book && <Book key={this.state.book.key} data={this.state.book} />
           }
-          </BrowserRouter>
-          </div>
+        </div>
       </div>
     )
+    
   }
 }
 
