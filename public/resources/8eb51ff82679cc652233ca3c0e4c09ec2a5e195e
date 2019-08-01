@@ -1,0 +1,204 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:q="http://cnx.rice.edu/qml/1.0" id="new" cnxml-version="0.7" module-id="new" class="introduction">
+
+<title>Introduction</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+  <!-- WARNING! The 'metadata' section is read only. Do not edit below.
+       Changes to the metadata section in the source will not be saved. -->
+  <md:repository>http://legacy.cnx.org/content</md:repository>
+  <md:content-url>http://legacy.cnx.org/content/m46450/latest</md:content-url>
+  <md:content-id>m46450</md:content-id>
+  <md:title>Introduction</md:title>
+  <md:version>1.8</md:version>
+  <md:created>2013/03/19 16:53:04 -0500</md:created>
+  <md:revised>2018/10/17 09:34:46 -0500</md:revised>
+  <md:actors>
+    <md:organization userid="OpenStaxCollege">
+      <md:shortname>OpenStax</md:shortname>
+      <md:fullname>OpenStax</md:fullname>
+      <md:email>info@openstax.org</md:email>
+    </md:organization>
+    <md:person userid="OSCRiceUniversity">
+      <md:firstname>Rice</md:firstname>
+      <md:surname>University</md:surname>
+      <md:fullname>Rice University</md:fullname>
+      <md:email>info@openstaxcollege.org</md:email>
+    </md:person>
+    <md:person userid="cnxap">
+      <md:firstname>CNX</md:firstname>
+      <md:surname>Anatomy and Physiology</md:surname>
+      <md:fullname>OpenStax Anatomy and Physiology</md:fullname>
+      <md:email>info@openstaxcollege.org</md:email>
+    </md:person>
+  </md:actors>
+  <md:roles>
+    <md:role type="author">OpenStaxCollege</md:role>
+    <md:role type="maintainer">OpenStaxCollege cnxap</md:role>
+    <md:role type="licensor">OSCRiceUniversity</md:role>
+  </md:roles>
+  <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>
+  <!-- For information on license requirements for use or modification, see license url in the
+       above <md:license> element.
+       For information on formatting required attribution, see the URL:
+         CONTENT_URL/content_info#cnx_cite_header
+       where CONTENT_URL is the value provided above in the <md:content-url> element.
+  -->
+  <md:keywordlist>
+    <md:keyword>A band</md:keyword>
+    <md:keyword>acetylcholine</md:keyword>
+    <md:keyword>ACh</md:keyword>
+    <md:keyword>actin</md:keyword>
+    <md:keyword>action potential</md:keyword>
+    <md:keyword>aerobic respiration</md:keyword>
+    <md:keyword>angiogenesis</md:keyword>
+    <md:keyword>aponeurosis</md:keyword>
+    <md:keyword>ATPase</md:keyword>
+    <md:keyword>atrophy</md:keyword>
+    <md:keyword>autorhythmicity</md:keyword>
+    <md:keyword>calmodulin</md:keyword>
+    <md:keyword>cardiac muscle</md:keyword>
+    <md:keyword>cardiac muscle tissue</md:keyword>
+    <md:keyword>concentric contraction</md:keyword>
+    <md:keyword>contractility</md:keyword>
+    <md:keyword>contraction phase</md:keyword>
+    <md:keyword>creatine phosphate</md:keyword>
+    <md:keyword>dense body</md:keyword>
+    <md:keyword>depolarize</md:keyword>
+    <md:keyword>desmosome</md:keyword>
+    <md:keyword>Duchenne muscular dystrophy</md:keyword>
+    <md:keyword>eccentric contraction</md:keyword>
+    <md:keyword>elasticity</md:keyword>
+    <md:keyword>electric coupling</md:keyword>
+    <md:keyword>endomysium</md:keyword>
+    <md:keyword>endurance exercise</md:keyword>
+    <md:keyword>epimysium</md:keyword>
+    <md:keyword>excitability</md:keyword>
+    <md:keyword>excitation-contraction coupling</md:keyword>
+    <md:keyword>exercise</md:keyword>
+    <md:keyword>extensibility</md:keyword>
+    <md:keyword>fascicle</md:keyword>
+    <md:keyword>fast glycolytic fiber</md:keyword>
+    <md:keyword>fast oxidative fiber</md:keyword>
+    <md:keyword>fibrosis</md:keyword>
+    <md:keyword>gap junction</md:keyword>
+    <md:keyword>glycolysis</md:keyword>
+    <md:keyword>graded muscle response</md:keyword>
+    <md:keyword>hyperplasia</md:keyword>
+    <md:keyword>hypertonia</md:keyword>
+    <md:keyword>hypertrophy</md:keyword>
+    <md:keyword>hypotonia</md:keyword>
+    <md:keyword>H zone</md:keyword>
+    <md:keyword>I band</md:keyword>
+    <md:keyword>ideal sarcomere length</md:keyword>
+    <md:keyword>intercalated disc</md:keyword>
+    <md:keyword>isometric contraction</md:keyword>
+    <md:keyword>isotonic contraction</md:keyword>
+    <md:keyword>lactic acid</md:keyword>
+    <md:keyword>latch-bridge</md:keyword>
+    <md:keyword>latent period</md:keyword>
+    <md:keyword>mesoderm</md:keyword>
+    <md:keyword>motor end-plate</md:keyword>
+    <md:keyword>motor neuron stimulation frequency</md:keyword>
+    <md:keyword>motor unit</md:keyword>
+    <md:keyword>multinucleated</md:keyword>
+    <md:keyword>multiunit cell</md:keyword>
+    <md:keyword>muscle contraction</md:keyword>
+    <md:keyword>muscle contraction type</md:keyword>
+    <md:keyword>muscle fiber contraction</md:keyword>
+    <md:keyword>muscle fiber relaxation</md:keyword>
+    <md:keyword>muscle fiber type</md:keyword>
+    <md:keyword>muscle metabolism</md:keyword>
+    <md:keyword>muscle performance</md:keyword>
+    <md:keyword>muscle strength</md:keyword>
+    <md:keyword>muscle tension</md:keyword>
+    <md:keyword>muscle tissue development</md:keyword>
+    <md:keyword>muscle tissue overview</md:keyword>
+    <md:keyword>muscle tissue regeneration</md:keyword>
+    <md:keyword>muscle tissue type</md:keyword>
+    <md:keyword>muscle tone</md:keyword>
+    <md:keyword>muscle twitch myogram</md:keyword>
+    <md:keyword>myoblast</md:keyword>
+    <md:keyword>myofibril</md:keyword>
+    <md:keyword>myofilament</md:keyword>
+    <md:keyword>myogram</md:keyword>
+    <md:keyword>myotube</md:keyword>
+    <md:keyword>mysia</md:keyword>
+    <md:keyword>nervous system control of muscle tension</md:keyword>
+    <md:keyword>neuromuscular junction</md:keyword>
+    <md:keyword>neurotransmitter</md:keyword>
+    <md:keyword>NMJ</md:keyword>
+    <md:keyword>oxygen debt</md:keyword>
+    <md:keyword>pacesetter cell</md:keyword>
+    <md:keyword>performance-enhancing substance</md:keyword>
+    <md:keyword>pericyte</md:keyword>
+    <md:keyword>perimysium</md:keyword>
+    <md:keyword>physical therapist</md:keyword>
+    <md:keyword>power stroke</md:keyword>
+    <md:keyword>pyruvic acid</md:keyword>
+    <md:keyword>recruitment</md:keyword>
+    <md:keyword>relaxation phase</md:keyword>
+    <md:keyword>resistance exercise</md:keyword>
+    <md:keyword>sarcolemma</md:keyword>
+    <md:keyword>sarcomere</md:keyword>
+    <md:keyword>sarcomere length-tension range</md:keyword>
+    <md:keyword>sarcopenia</md:keyword>
+    <md:keyword>sarcoplasm</md:keyword>
+    <md:keyword>satellite cell</md:keyword>
+    <md:keyword>single-unit cell</md:keyword>
+    <md:keyword>skeletal muscle</md:keyword>
+    <md:keyword>skeletal muscle contraction</md:keyword>
+    <md:keyword>skeletal muscle fiber</md:keyword>
+    <md:keyword>skeletal muscle relaxation</md:keyword>
+    <md:keyword>sliding filament model of contraction</md:keyword>
+    <md:keyword>slow oxidative fiber</md:keyword>
+    <md:keyword>smooth muscle</md:keyword>
+    <md:keyword>smooth muscle hyperplasia</md:keyword>
+    <md:keyword>smooth muscle tissue</md:keyword>
+    <md:keyword>somite</md:keyword>
+    <md:keyword>staircase effect</md:keyword>
+    <md:keyword>stress-relaxation response</md:keyword>
+    <md:keyword>synaptic cleft</md:keyword>
+    <md:keyword>syncytium</md:keyword>
+    <md:keyword>tetanus</md:keyword>
+    <md:keyword>treppe</md:keyword>
+    <md:keyword>triad</md:keyword>
+    <md:keyword>tropomyosin</md:keyword>
+    <md:keyword>troponin</md:keyword>
+    <md:keyword>T-tubule</md:keyword>
+    <md:keyword>twitch</md:keyword>
+    <md:keyword>varicosity</md:keyword>
+    <md:keyword>visceral muscle</md:keyword>
+    <md:keyword>voltage-gated sodium channel</md:keyword>
+    <md:keyword>wave summation</md:keyword>
+  </md:keywordlist>
+  <md:subjectlist>
+    <md:subject>Science and Technology</md:subject>
+  </md:subjectlist>
+  <md:abstract/>
+  <md:language>en</md:language>
+  <!-- WARNING! The 'metadata' section is read only. Do not edit above.
+       Changes to the metadata section in the source will not be saved. -->
+</metadata>
+
+<content>
+<?cnx.eoc class="summary" title="Chapter Review"?>
+<?cnx.eoc class="interactive-exercise" title="Interactive Link Questions"?>
+<?cnx.eoc class="multiple-choice" title="Review Questions" ?>
+<?cnx.eoc class="free-response" title="Critical Thinking Questions"?>
+
+
+<figure id="fig-ch10_00_01" class="splash"><title>Tennis Player </title><media id="fs-id2230218" alt="This photograph shows a man playing tennis.">
+<image mime-type="image/jpg" src="1000_Tennis_Player.jpg" width="600"/>
+</media>
+<caption>Athletes rely on toned skeletal muscles to supply the force required for movement. (credit: Emmanuel Huybrechts/flickr)</caption></figure><note id="eip-275" class="chapter-objectives"><title>Chapter Objectives</title><para id="eip-id5069169">After studying this chapter, you will be able to:</para>
+<list id="eip-id1165744650424">
+<item>Explain the organization of muscle tissue</item>
+<item>Describe the function and structure of skeletal, cardiac muscle, and smooth muscle</item>
+<item>Explain how muscles work with tendons to move the body</item>
+<item>Describe how muscles contract and relax</item>
+<item>Define the process of muscle metabolism</item>
+<item>Explain how the nervous system controls muscle tension</item>
+<item>Relate the connections between exercise and muscle performance</item>
+<item>Explain the development and regeneration of muscle tissue</item>
+</list></note><para id="fs-id1574141">When most people think of muscles, they think of the muscles that are visible just under the skin, particularly of the limbs. These are skeletal muscles, so-named because most of them move the skeleton. But there are two other types of muscle in the body, with distinctly different jobs. Cardiac muscle, found in the heart, is concerned with pumping blood through the circulatory system. Smooth muscle is concerned with various involuntary movements, such as having one’s hair stand on end when cold or frightened, or moving food through the digestive system. This chapter will examine the structure and function of these three types of muscles.</para>
+</content>
+</document>

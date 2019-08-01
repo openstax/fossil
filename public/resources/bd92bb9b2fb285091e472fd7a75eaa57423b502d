@@ -1,0 +1,164 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:q="http://cnx.rice.edu/qml/1.0" id="new" class="appendix" cnxml-version="0.7" module-id="new">
+<title>Formation Constants for Complex Ions</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+  <!-- WARNING! The 'metadata' section is read only. Do not edit below.
+       Changes to the metadata section in the source will not be saved. -->
+  <md:repository>https://legacy.cnx.org/content</md:repository>
+  <md:content-url>https://legacy.cnx.org/content/m68869/latest/</md:content-url>
+  <md:content-id>m68869</md:content-id>
+  <md:title>Formation Constants for Complex Ions</md:title>
+  <md:version>1.6</md:version>
+  <md:created>2018/09/06 18:35:20 -0500</md:created>
+  <md:revised>2018/11/13 10:40:56.620 US/Central</md:revised>
+  <md:actors>
+    <md:person userid="cnxchem2">
+      <md:firstname>OpenStax</md:firstname>
+      <md:surname>Chemistry 2e</md:surname>
+      <md:fullname>OpenStax Chemistry 2e</md:fullname>
+      <md:email>info@openstax.org</md:email>
+    </md:person>
+    <md:organization userid="OpenStaxCollege">
+      <md:shortname>OpenStax</md:shortname>
+      <md:fullname>OpenStax</md:fullname>
+      <md:email>info@openstax.org</md:email>
+    </md:organization>
+    <md:person userid="OSCRiceUniversity">
+      <md:firstname>Rice</md:firstname>
+      <md:surname>University</md:surname>
+      <md:fullname>Rice University</md:fullname>
+      <md:email>info@openstaxcollege.org</md:email>
+    </md:person>
+  </md:actors>
+  <md:roles>
+    <md:role type="author">OpenStaxCollege</md:role>
+    <md:role type="maintainer">OpenStaxCollege cnxchem2</md:role>
+    <md:role type="licensor">OSCRiceUniversity</md:role>
+  </md:roles>
+  <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
+  <!-- For information on license requirements for use or modification, see license url in the
+       above <md:license> element.
+       For information on formatting required attribution, see the URL:
+         CONTENT_URL/content_info#cnx_cite_header
+       where CONTENT_URL is the value provided above in the <md:content-url> element.
+  -->
+  <md:subjectlist>
+    <md:subject>Science and Technology</md:subject>
+  </md:subjectlist>
+  <md:abstract/>
+  <md:language>en</md:language>
+  <!-- WARNING! The 'metadata' section is read only. Do not edit above.
+       Changes to the metadata section in the source will not be saved. -->
+</metadata>
+
+<content class="appendix">
+<table id="fs-idm42176688" summary="2" class="span-all">
+<tgroup cols="2">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<thead>
+<row valign="middle">
+<entry namest="c1" nameend="c2" align="center">Formation Constants for Complex Ions</entry>
+</row>
+<row valign="middle">
+<entry align="left">Equilibrium</entry>
+<entry align="left"><emphasis effect="italics">K</emphasis><sub>f</sub></entry>
+</row>
+</thead>
+<tbody>
+<row valign="middle">
+<entry align="left"><m:math><m:mrow><m:msup><m:mrow><m:mtext>Al</m:mtext></m:mrow><m:mrow><m:mtext>3+</m:mtext></m:mrow></m:msup><m:mo>+</m:mo><m:mn>6</m:mn><m:msup><m:mtext>F</m:mtext><m:mtext>−</m:mtext></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⇌</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mo stretchy="false">[</m:mo><m:msub><m:mrow><m:mtext>AlF</m:mtext></m:mrow><m:mn>6</m:mn></m:msub><m:mo stretchy="false">]</m:mo></m:mrow><m:mrow><m:mtext>3−</m:mtext></m:mrow></m:msup></m:mrow></m:math></entry>
+<entry align="left">7 <m:math><m:mo>×</m:mo></m:math> 10<sup>19</sup></entry>
+</row>
+<row valign="middle">
+<entry align="left"><m:math><m:mrow><m:msup><m:mrow><m:mtext>Cd</m:mtext></m:mrow><m:mrow><m:mtext>2+</m:mtext></m:mrow></m:msup><m:mo>+</m:mo><m:mn>4</m:mn><m:msub><m:mrow><m:mtext>NH</m:mtext></m:mrow><m:mtext>3</m:mtext></m:msub><m:mspace width="0.2em"/><m:mo stretchy="false">⇌</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mrow><m:mo>[</m:mo><m:mrow><m:mtext>Cd</m:mtext><m:msub><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:msub><m:mrow><m:mtext>NH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow><m:mn>4</m:mn></m:msub></m:mrow><m:mo>]</m:mo></m:mrow></m:mrow><m:mrow><m:mtext>2</m:mtext><m:mtext>+</m:mtext></m:mrow></m:msup></m:mrow></m:math></entry>
+<entry align="left">1.3 <m:math><m:mo>×</m:mo></m:math> 10<sup>7</sup></entry>
+</row>
+<row valign="middle">
+<entry align="left"><m:math><m:mrow><m:msup><m:mrow><m:mtext>Cd</m:mtext></m:mrow><m:mrow><m:mtext>2+</m:mtext></m:mrow></m:msup><m:mo>+</m:mo><m:mn>4</m:mn><m:msup><m:mrow><m:mtext>CN</m:mtext></m:mrow><m:mtext>−</m:mtext></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⇌</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mrow><m:mo>[</m:mo><m:mrow><m:mtext>Cd</m:mtext><m:msub><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mtext>CN</m:mtext></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow><m:mn>4</m:mn></m:msub></m:mrow><m:mo>]</m:mo></m:mrow></m:mrow><m:mrow><m:mn>2−</m:mn></m:mrow></m:msup></m:mrow></m:math></entry>
+<entry align="left">3 <m:math><m:mo>×</m:mo></m:math> 10<sup>18</sup></entry>
+</row>
+<row valign="middle">
+<entry align="left"><m:math><m:mrow><m:msup><m:mrow><m:mtext>Co</m:mtext></m:mrow><m:mrow><m:mtext>2+</m:mtext></m:mrow></m:msup><m:mo>+</m:mo><m:mn>6</m:mn><m:msub><m:mrow><m:mtext>NH</m:mtext></m:mrow><m:mtext>3</m:mtext></m:msub><m:mspace width="0.2em"/><m:mo stretchy="false">⇌</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mrow><m:mo>[</m:mo><m:mrow><m:mtext>Co</m:mtext><m:msub><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:msub><m:mrow><m:mtext>NH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow><m:mn>6</m:mn></m:msub></m:mrow><m:mo>]</m:mo></m:mrow></m:mrow><m:mrow><m:mn>2+</m:mn></m:mrow></m:msup></m:mrow></m:math></entry>
+<entry align="left">1.3 <m:math><m:mo>×</m:mo></m:math> 10<sup>5</sup></entry>
+</row>
+<row valign="middle">
+<entry align="left"><m:math><m:mrow><m:msup><m:mrow><m:mtext>Co</m:mtext></m:mrow><m:mrow><m:mtext>3+</m:mtext></m:mrow></m:msup><m:mo>+</m:mo><m:mn>6</m:mn><m:msub><m:mrow><m:mtext>NH</m:mtext></m:mrow><m:mtext>3</m:mtext></m:msub><m:mspace width="0.2em"/><m:mo stretchy="false">⇌</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mrow><m:mo>[</m:mo><m:mrow><m:mtext>Co</m:mtext><m:msub><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:msub><m:mrow><m:mtext>NH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow><m:mn>6</m:mn></m:msub></m:mrow><m:mo>]</m:mo></m:mrow></m:mrow><m:mrow><m:mn>3+</m:mn></m:mrow></m:msup></m:mrow></m:math></entry>
+<entry align="left">2.3 <m:math><m:mo>×</m:mo></m:math> 10<sup>33</sup></entry>
+</row>
+<row valign="middle">
+<entry align="left"><m:math><m:mrow><m:msup><m:mrow><m:mtext>Cu</m:mtext></m:mrow><m:mo>+</m:mo></m:msup><m:mo>+</m:mo><m:mn>2</m:mn><m:mtext>CN</m:mtext><m:mspace width="0.2em"/><m:mo stretchy="false">⇌</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mrow><m:mo>[</m:mo><m:mrow><m:mtext>Cu</m:mtext><m:msub><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mtext>CN</m:mtext></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow><m:mn>2</m:mn></m:msub></m:mrow><m:mo>]</m:mo></m:mrow></m:mrow><m:mo>−</m:mo></m:msup></m:mrow></m:math></entry>
+<entry align="left">1.0 <m:math><m:mo>×</m:mo></m:math> 10<sup>16</sup></entry>
+</row>
+<row valign="middle">
+<entry align="left"><m:math><m:mrow><m:msup><m:mrow><m:mtext>Cu</m:mtext></m:mrow><m:mrow><m:mtext>2+</m:mtext></m:mrow></m:msup><m:mo>+</m:mo><m:mn>4</m:mn><m:msub><m:mrow><m:mtext>NH</m:mtext></m:mrow><m:mtext>3</m:mtext></m:msub><m:mspace width="0.2em"/><m:mo stretchy="false">⇌</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mrow><m:mo>[</m:mo><m:mrow><m:mtext>Cu</m:mtext><m:msub><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:msub><m:mrow><m:mtext>NH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow><m:mn>4</m:mn></m:msub></m:mrow><m:mo>]</m:mo></m:mrow></m:mrow><m:mrow><m:mn>2+</m:mn></m:mrow></m:msup></m:mrow></m:math></entry>
+<entry align="left">1.7 <m:math><m:mo>×</m:mo></m:math> 10<sup>13</sup></entry>
+</row>
+<row valign="middle">
+<entry align="left"><m:math><m:mrow><m:msup><m:mrow><m:mtext>Fe</m:mtext></m:mrow><m:mrow><m:mtext>2+</m:mtext></m:mrow></m:msup><m:mo>+</m:mo><m:mn>6</m:mn><m:msup><m:mrow><m:mtext>CN</m:mtext></m:mrow><m:mtext>−</m:mtext></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⇌</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mrow><m:mo>[</m:mo><m:mrow><m:mtext>Fe</m:mtext><m:msub><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mtext>CN</m:mtext></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow><m:mn>6</m:mn></m:msub></m:mrow><m:mo>]</m:mo></m:mrow></m:mrow><m:mrow><m:mn>4−</m:mn></m:mrow></m:msup></m:mrow></m:math></entry>
+<entry align="left">1.5 <m:math><m:mo>×</m:mo></m:math> 10<sup>35</sup></entry>
+</row>
+<row valign="middle">
+<entry align="left"><m:math><m:mrow><m:msup><m:mrow><m:mtext>Fe</m:mtext></m:mrow><m:mrow><m:mtext>3+</m:mtext></m:mrow></m:msup><m:mo>+</m:mo><m:mn>6</m:mn><m:msup><m:mrow><m:mtext>CN</m:mtext></m:mrow><m:mtext>−</m:mtext></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⇌</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mrow><m:mo>[</m:mo><m:mrow><m:mtext>Fe</m:mtext><m:msub><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mtext>CN</m:mtext></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow><m:mn>6</m:mn></m:msub></m:mrow><m:mo>]</m:mo></m:mrow></m:mrow><m:mrow><m:mn>3−</m:mn></m:mrow></m:msup></m:mrow></m:math></entry>
+<entry align="left">2 <m:math><m:mo>×</m:mo></m:math> 10<sup>43</sup></entry>
+</row>
+<row valign="middle">
+<entry align="left"><m:math><m:mrow><m:msup><m:mrow><m:mtext>Fe</m:mtext></m:mrow><m:mrow><m:mtext>3+</m:mtext></m:mrow></m:msup><m:mo>+</m:mo><m:mn>6</m:mn><m:msup><m:mrow><m:mtext>SCN</m:mtext></m:mrow><m:mtext>−</m:mtext></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⇌</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mrow><m:mo>[</m:mo><m:mrow><m:mtext>Fe</m:mtext><m:msub><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mtext>SCN</m:mtext></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow><m:mn>6</m:mn></m:msub></m:mrow><m:mo>]</m:mo></m:mrow></m:mrow><m:mrow><m:mn>3−</m:mn></m:mrow></m:msup></m:mrow></m:math></entry>
+<entry align="left">3.2 <m:math><m:mo>×</m:mo></m:math> 10<sup>3</sup></entry>
+</row>
+<row valign="middle">
+<entry align="left"><m:math><m:mrow><m:msup><m:mrow><m:mtext>Hg</m:mtext></m:mrow><m:mrow><m:mtext>2+</m:mtext></m:mrow></m:msup><m:mo>+</m:mo><m:mn>4</m:mn><m:msup><m:mrow><m:mtext>Cl</m:mtext></m:mrow><m:mtext>−</m:mtext></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⇌</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mrow><m:mo>[</m:mo><m:mrow><m:msub><m:mrow><m:mtext>HgCl</m:mtext></m:mrow><m:mn>4</m:mn></m:msub></m:mrow><m:mo>]</m:mo></m:mrow></m:mrow><m:mrow><m:mn>2−</m:mn></m:mrow></m:msup></m:mrow></m:math></entry>
+<entry align="left">1.1 <m:math><m:mo>×</m:mo></m:math> 10<sup>16</sup></entry>
+</row>
+<row valign="middle">
+<entry align="left"><m:math><m:mrow><m:msup><m:mrow><m:mtext>Ni</m:mtext></m:mrow><m:mrow><m:mtext>2+</m:mtext></m:mrow></m:msup><m:mo>+</m:mo><m:mn>6</m:mn><m:msub><m:mrow><m:mtext>NH</m:mtext></m:mrow><m:mtext>3</m:mtext></m:msub><m:mspace width="0.2em"/><m:mo stretchy="false">⇌</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mrow><m:mo>[</m:mo><m:mrow><m:mtext>Ni</m:mtext><m:msub><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:msub><m:mrow><m:mtext>NH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow><m:mn>6</m:mn></m:msub></m:mrow><m:mo>]</m:mo></m:mrow></m:mrow><m:mrow><m:mn>2+</m:mn></m:mrow></m:msup></m:mrow></m:math></entry>
+<entry align="left">2.0 <m:math><m:mo>×</m:mo></m:math> 10<sup>8</sup></entry>
+</row>
+<row valign="middle">
+<entry align="left"><m:math><m:mrow><m:msup><m:mrow><m:mtext>Ag</m:mtext></m:mrow><m:mtext>+</m:mtext></m:msup><m:mo>+</m:mo><m:mn>2</m:mn><m:msup><m:mrow><m:mtext>Cl</m:mtext></m:mrow><m:mtext>−</m:mtext></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⇌</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mrow><m:mo>[</m:mo><m:mrow><m:msub><m:mrow><m:mtext>AgCl</m:mtext></m:mrow><m:mn>2</m:mn></m:msub></m:mrow><m:mo>]</m:mo></m:mrow></m:mrow><m:mo>−</m:mo></m:msup></m:mrow></m:math></entry>
+<entry align="left">1.8 <m:math><m:mo>×</m:mo></m:math> 10<sup>5</sup></entry>
+</row>
+<row valign="middle">
+<entry align="left"><m:math><m:mrow><m:msup><m:mrow><m:mtext>Ag</m:mtext></m:mrow><m:mtext>+</m:mtext></m:msup><m:mo>+</m:mo><m:mn>2</m:mn><m:msup><m:mrow><m:mtext>CN</m:mtext></m:mrow><m:mtext>−</m:mtext></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⇌</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mrow><m:mo>[</m:mo><m:mrow><m:mtext>Ag</m:mtext><m:msub><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mtext>CN</m:mtext></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow><m:mn>2</m:mn></m:msub></m:mrow><m:mo>]</m:mo></m:mrow></m:mrow><m:mo>−</m:mo></m:msup></m:mrow></m:math></entry>
+<entry align="left">1 <m:math><m:mo>×</m:mo></m:math> 10<sup>21</sup></entry>
+</row>
+<row valign="middle">
+<entry align="left"><m:math><m:mrow><m:msup><m:mrow><m:mtext>Ag</m:mtext></m:mrow><m:mtext>+</m:mtext></m:msup><m:mo>+</m:mo><m:mn>2</m:mn><m:msub><m:mrow><m:mtext>NH</m:mtext></m:mrow><m:mtext>3</m:mtext></m:msub><m:mspace width="0.2em"/><m:mo stretchy="false">⇌</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mrow><m:mo>[</m:mo><m:mrow><m:mtext>Ag</m:mtext><m:msub><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:msub><m:mrow><m:mtext>NH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow><m:mn>2</m:mn></m:msub></m:mrow><m:mo>]</m:mo></m:mrow></m:mrow><m:mo>+</m:mo></m:msup></m:mrow></m:math></entry>
+<entry align="left">1.7 <m:math><m:mo>×</m:mo></m:math> 10<sup>7</sup></entry>
+</row>
+<row valign="middle">
+<entry align="left"><m:math><m:mrow><m:msup><m:mrow><m:mtext>Zn</m:mtext></m:mrow><m:mrow><m:mtext>2+</m:mtext></m:mrow></m:msup><m:mo>+</m:mo><m:mn>4</m:mn><m:msup><m:mrow><m:mtext>CN</m:mtext></m:mrow><m:mtext>−</m:mtext></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⇌</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mrow><m:mo>[</m:mo><m:mrow><m:mtext>Zn</m:mtext><m:msub><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mtext>CN</m:mtext></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow><m:mn>4</m:mn></m:msub></m:mrow><m:mo>]</m:mo></m:mrow></m:mrow><m:mrow><m:mn>2−</m:mn></m:mrow></m:msup></m:mrow></m:math></entry>
+<entry align="left">2.1 <m:math><m:mo>×</m:mo></m:math> 10<sup>19</sup></entry>
+</row>
+<row valign="middle">
+<entry align="left"><m:math><m:mrow><m:msup><m:mrow><m:mtext>Zn</m:mtext></m:mrow><m:mrow><m:mtext>2+</m:mtext></m:mrow></m:msup><m:mo>+</m:mo><m:mn>4</m:mn><m:msup><m:mrow><m:mtext>OH</m:mtext></m:mrow><m:mtext>−</m:mtext></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⇌</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mrow><m:mo>[</m:mo><m:mrow><m:mtext>Zn</m:mtext><m:msub><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mtext>OH</m:mtext></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow><m:mn>4</m:mn></m:msub></m:mrow><m:mo>]</m:mo></m:mrow></m:mrow><m:mrow><m:mn>2−</m:mn></m:mrow></m:msup></m:mrow></m:math></entry>
+<entry align="left">2 <m:math><m:mo>×</m:mo></m:math> 10<sup>15</sup></entry>
+</row>
+<row valign="middle">
+<entry align="left"><m:math><m:mrow><m:msup><m:mrow><m:mtext>Fe</m:mtext></m:mrow><m:mrow><m:mtext>3+</m:mtext></m:mrow></m:msup><m:mo>+</m:mo><m:msup><m:mrow><m:mtext>SCN</m:mtext></m:mrow><m:mtext>−</m:mtext></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⇌</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mrow><m:mo>[</m:mo><m:mrow><m:mtext>Fe</m:mtext><m:mrow><m:mo>(</m:mo><m:mrow><m:mtext>SCN</m:mtext></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow><m:mo>]</m:mo></m:mrow></m:mrow><m:mrow><m:mn>2+</m:mn></m:mrow></m:msup></m:mrow></m:math></entry>
+<entry align="left">8.9 <m:math><m:mo>×</m:mo></m:math> 10<sup>2</sup></entry>
+</row>
+<row valign="middle">
+<entry align="left"><m:math><m:mrow><m:msup><m:mrow><m:mtext>Ag</m:mtext></m:mrow><m:mtext>+</m:mtext></m:msup><m:mo>+</m:mo><m:mn>4</m:mn><m:msup><m:mrow><m:mtext>SCN</m:mtext></m:mrow><m:mtext>−</m:mtext></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⇌</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mrow><m:mo>[</m:mo><m:mrow><m:mtext>Ag</m:mtext><m:msub><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mtext>SCN</m:mtext></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow><m:mn>4</m:mn></m:msub></m:mrow><m:mo>]</m:mo></m:mrow></m:mrow><m:mrow><m:mn>3−</m:mn></m:mrow></m:msup></m:mrow></m:math></entry>
+<entry align="left">1.2 <m:math><m:mo>×</m:mo></m:math> 10<sup>10</sup></entry>
+</row>
+<row valign="middle">
+<entry align="left"><m:math><m:mrow><m:msup><m:mrow><m:mtext>Pb</m:mtext></m:mrow><m:mrow><m:mtext>2+</m:mtext></m:mrow></m:msup><m:mo>+</m:mo><m:mn>4</m:mn><m:msup><m:mtext>I</m:mtext><m:mtext>−</m:mtext></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⇌</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mrow><m:mo>[</m:mo><m:mrow><m:msub><m:mrow><m:mtext>PbI</m:mtext></m:mrow><m:mn>4</m:mn></m:msub></m:mrow><m:mo>]</m:mo></m:mrow></m:mrow><m:mrow><m:mn>2−</m:mn></m:mrow></m:msup></m:mrow></m:math></entry>
+<entry align="left">3.0 <m:math><m:mo>×</m:mo></m:math> 10<sup>4</sup></entry>
+</row>
+<row valign="middle">
+<entry align="left"><m:math><m:mrow><m:msup><m:mrow><m:mtext>Pt</m:mtext></m:mrow><m:mrow><m:mtext>2+</m:mtext></m:mrow></m:msup><m:mo>+</m:mo><m:mn>4</m:mn><m:msup><m:mrow><m:mtext>Cl</m:mtext></m:mrow><m:mtext>−</m:mtext></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⇌</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mrow><m:mo>[</m:mo><m:mrow><m:msub><m:mrow><m:mtext>PtCl</m:mtext></m:mrow><m:mn>4</m:mn></m:msub></m:mrow><m:mo>]</m:mo></m:mrow></m:mrow><m:mrow><m:mn>2−</m:mn></m:mrow></m:msup></m:mrow></m:math></entry>
+<entry align="left">1 <m:math><m:mo>×</m:mo></m:math> 10<sup>16</sup></entry>
+</row>
+<row valign="middle">
+<entry align="left"><m:math><m:mrow><m:msup><m:mrow><m:mtext>Cu</m:mtext></m:mrow><m:mrow><m:mtext>2+</m:mtext></m:mrow></m:msup><m:mo>+</m:mo><m:mn>4</m:mn><m:mtext>CN</m:mtext><m:mspace width="0.2em"/><m:mo stretchy="false">⇌</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mrow><m:mo>[</m:mo><m:mrow><m:mtext>Cu</m:mtext><m:msub><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mtext>CN</m:mtext></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow><m:mn>4</m:mn></m:msub></m:mrow><m:mo>]</m:mo></m:mrow></m:mrow><m:mrow><m:mn>2−</m:mn></m:mrow></m:msup></m:mrow></m:math></entry>
+<entry align="left">1.0 <m:math><m:mo>×</m:mo></m:math> 10<sup>25</sup></entry>
+</row>
+<row valign="middle">
+<entry align="left"><m:math><m:mrow><m:msup><m:mrow><m:mtext>Co</m:mtext></m:mrow><m:mrow><m:mtext>2+</m:mtext></m:mrow></m:msup><m:mo>+</m:mo><m:mn>4</m:mn><m:msup><m:mrow><m:mtext>SCN</m:mtext></m:mrow><m:mtext>−</m:mtext></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⇌</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mrow><m:mo>[</m:mo><m:mrow><m:mtext>Co</m:mtext><m:msub><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mtext>SCN</m:mtext></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow><m:mn>4</m:mn></m:msub></m:mrow><m:mo>]</m:mo></m:mrow></m:mrow><m:mrow><m:mn>2−</m:mn></m:mrow></m:msup></m:mrow></m:math></entry>
+<entry align="left">1 <m:math><m:mo>×</m:mo></m:math> 10<sup>3</sup></entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</content>
+</document>

@@ -1,0 +1,264 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:q="http://cnx.rice.edu/qml/1.0" id="new" cnxml-version="0.7" module-id="new" class="introduction">
+
+<title>Introduction</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+  <!-- WARNING! The 'metadata' section is read only. Do not edit below.
+       Changes to the metadata section in the source will not be saved. -->
+  <md:repository>http://legacy.cnx.org/content</md:repository>
+  <md:content-url>http://legacy.cnx.org/content/m46561/latest</md:content-url>
+  <md:content-id>m46561</md:content-id>
+  <md:title>Introduction</md:title>
+  <md:version>1.7</md:version>
+  <md:created>2013/03/20 10:26:13 -0500</md:created>
+  <md:revised>2018/10/17 09:34:46 -0500</md:revised>
+  <md:actors>
+    <md:organization userid="OpenStaxCollege">
+      <md:shortname>OpenStax</md:shortname>
+      <md:fullname>OpenStax</md:fullname>
+      <md:email>info@openstax.org</md:email>
+    </md:organization>
+    <md:person userid="OSCRiceUniversity">
+      <md:firstname>Rice</md:firstname>
+      <md:surname>University</md:surname>
+      <md:fullname>Rice University</md:fullname>
+      <md:email>info@openstaxcollege.org</md:email>
+    </md:person>
+    <md:person userid="cnxap">
+      <md:firstname>CNX</md:firstname>
+      <md:surname>Anatomy and Physiology</md:surname>
+      <md:fullname>OpenStax Anatomy and Physiology</md:fullname>
+      <md:email>info@openstaxcollege.org</md:email>
+    </md:person>
+  </md:actors>
+  <md:roles>
+    <md:role type="author">OpenStaxCollege</md:role>
+    <md:role type="maintainer">OpenStaxCollege cnxap</md:role>
+    <md:role type="licensor">OSCRiceUniversity</md:role>
+  </md:roles>
+  <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>
+  <!-- For information on license requirements for use or modification, see license url in the
+       above <md:license> element.
+       For information on formatting required attribution, see the URL:
+         CONTENT_URL/content_info#cnx_cite_header
+       where CONTENT_URL is the value provided above in the <md:content-url> element.
+  -->
+  <md:keywordlist>
+    <md:keyword>alkaloid</md:keyword>
+    <md:keyword>amacrine cell</md:keyword>
+    <md:keyword>ampulla</md:keyword>
+    <md:keyword>anosmia</md:keyword>
+    <md:keyword>anterior corticospinal tract</md:keyword>
+    <md:keyword>appendicular control</md:keyword>
+    <md:keyword>aqueous humor</md:keyword>
+    <md:keyword>ascending pathway</md:keyword>
+    <md:keyword>association area</md:keyword>
+    <md:keyword>audition</md:keyword>
+    <md:keyword>auditory brain stem mechanism</md:keyword>
+    <md:keyword>auricle</md:keyword>
+    <md:keyword>axial control</md:keyword>
+    <md:keyword>basilar membrane</md:keyword>
+    <md:keyword>Betz cell</md:keyword>
+    <md:keyword>binocular depth cue</md:keyword>
+    <md:keyword>bipolar cell</md:keyword>
+    <md:keyword>central processing</md:keyword>
+    <md:keyword>cerebral peduncle</md:keyword>
+    <md:keyword>cervical enlargement</md:keyword>
+    <md:keyword>chemoreceptor</md:keyword>
+    <md:keyword>chief sensory nucleus</md:keyword>
+    <md:keyword>choroid</md:keyword>
+    <md:keyword>ciliary body</md:keyword>
+    <md:keyword>circadian rhythm</md:keyword>
+    <md:keyword>cochlea</md:keyword>
+    <md:keyword>cochlea cross section</md:keyword>
+    <md:keyword>cochlear duct</md:keyword>
+    <md:keyword>color sensitivity</md:keyword>
+    <md:keyword>cone photoreceptor</md:keyword>
+    <md:keyword>conjunctiva</md:keyword>
+    <md:keyword>contralateral</md:keyword>
+    <md:keyword>cornea</md:keyword>
+    <md:keyword>corneal reflex</md:keyword>
+    <md:keyword>cortical processing</md:keyword>
+    <md:keyword>cortical response</md:keyword>
+    <md:keyword>corticobulbar tract</md:keyword>
+    <md:keyword>corticospinal tract</md:keyword>
+    <md:keyword>cupula</md:keyword>
+    <md:keyword>decussate</md:keyword>
+    <md:keyword>depth perception</md:keyword>
+    <md:keyword>descending pathway</md:keyword>
+    <md:keyword>dorsal column system</md:keyword>
+    <md:keyword>dorsal stream</md:keyword>
+    <md:keyword>ear structure</md:keyword>
+    <md:keyword>encapsulated ending</md:keyword>
+    <md:keyword>equilibrium</md:keyword>
+    <md:keyword>executive function</md:keyword>
+    <md:keyword>external ear</md:keyword>
+    <md:keyword>exteroceptor</md:keyword>
+    <md:keyword>extraocular muscle</md:keyword>
+    <md:keyword>extrapyramidal control</md:keyword>
+    <md:keyword>extrapyramidal system</md:keyword>
+    <md:keyword>eye structure</md:keyword>
+    <md:keyword>fasciculus cuneatus</md:keyword>
+    <md:keyword>fasciculus gracilis</md:keyword>
+    <md:keyword>fibrous tunic</md:keyword>
+    <md:keyword>fovea</md:keyword>
+    <md:keyword>free nerve ending</md:keyword>
+    <md:keyword>frequency coding</md:keyword>
+    <md:keyword>frontal eye field</md:keyword>
+    <md:keyword>general sense</md:keyword>
+    <md:keyword>gustation</md:keyword>
+    <md:keyword>gustatory receptor cell</md:keyword>
+    <md:keyword>hair cell</md:keyword>
+    <md:keyword>incus</md:keyword>
+    <md:keyword>inner ear</md:keyword>
+    <md:keyword>inner segment</md:keyword>
+    <md:keyword>inner synaptic layer</md:keyword>
+    <md:keyword>interaural intensity difference</md:keyword>
+    <md:keyword>interaural time difference</md:keyword>
+    <md:keyword>internal capsule</md:keyword>
+    <md:keyword>interoceptor</md:keyword>
+    <md:keyword>ipsilateral</md:keyword>
+    <md:keyword>iris</md:keyword>
+    <md:keyword>lacrimal duct</md:keyword>
+    <md:keyword>lacrimal gland</md:keyword>
+    <md:keyword>lateral corticospinal tract</md:keyword>
+    <md:keyword>lateral geniculate nucleus</md:keyword>
+    <md:keyword>lens</md:keyword>
+    <md:keyword>linear acceleration coding</md:keyword>
+    <md:keyword>lumbar enlargement</md:keyword>
+    <md:keyword>macula</md:keyword>
+    <md:keyword>malleus</md:keyword>
+    <md:keyword>mechanoreceptor</md:keyword>
+    <md:keyword>medial geniculate nucleus</md:keyword>
+    <md:keyword>medial lemniscus</md:keyword>
+    <md:keyword>medial rectus</md:keyword>
+    <md:keyword>mesencephalic nucleus</md:keyword>
+    <md:keyword>middle ear</md:keyword>
+    <md:keyword>motor response</md:keyword>
+    <md:keyword>multimodal integration area</md:keyword>
+    <md:keyword>neural tunic</md:keyword>
+    <md:keyword>nociceptor</md:keyword>
+    <md:keyword>nucleus cuneatus</md:keyword>
+    <md:keyword>nucleus gracilis</md:keyword>
+    <md:keyword>odorant molecule</md:keyword>
+    <md:keyword>olfaction</md:keyword>
+    <md:keyword>olfactory bulb</md:keyword>
+    <md:keyword>olfactory epithelium</md:keyword>
+    <md:keyword>olfactory sensory neuron</md:keyword>
+    <md:keyword>olfactory system</md:keyword>
+    <md:keyword>opsin</md:keyword>
+    <md:keyword>optical illusion</md:keyword>
+    <md:keyword>optic chiasm</md:keyword>
+    <md:keyword>optic disc</md:keyword>
+    <md:keyword>optic tract</md:keyword>
+    <md:keyword>organ of Corti</md:keyword>
+    <md:keyword>osmoreceptor</md:keyword>
+    <md:keyword>ossicle</md:keyword>
+    <md:keyword>otolith</md:keyword>
+    <md:keyword>outer segment</md:keyword>
+    <md:keyword>outer synaptic layer</md:keyword>
+    <md:keyword>oval window</md:keyword>
+    <md:keyword>papilla</md:keyword>
+    <md:keyword>Phineas Gage</md:keyword>
+    <md:keyword>photoisomerization</md:keyword>
+    <md:keyword>photon</md:keyword>
+    <md:keyword>photoreceptor</md:keyword>
+    <md:keyword>premotor cortex</md:keyword>
+    <md:keyword>primary motor cortex</md:keyword>
+    <md:keyword>primary sensory cortex</md:keyword>
+    <md:keyword>proprioceptor</md:keyword>
+    <md:keyword>pupil</md:keyword>
+    <md:keyword>pyramid</md:keyword>
+    <md:keyword>pyramidal decussation</md:keyword>
+    <md:keyword>receptor cell</md:keyword>
+    <md:keyword>receptor classification</md:keyword>
+    <md:keyword>red nucleus</md:keyword>
+    <md:keyword>reticulospinal tract</md:keyword>
+    <md:keyword>retina</md:keyword>
+    <md:keyword>retinal</md:keyword>
+    <md:keyword>retinal disparity</md:keyword>
+    <md:keyword>retinal ganglion cell</md:keyword>
+    <md:keyword>retinal isomer</md:keyword>
+    <md:keyword>rhodopsin</md:keyword>
+    <md:keyword>rod photoreceptor</md:keyword>
+    <md:keyword>rotational coding</md:keyword>
+    <md:keyword>round window</md:keyword>
+    <md:keyword>rubrospinal tract</md:keyword>
+    <md:keyword>saccule</md:keyword>
+    <md:keyword>scala tympani</md:keyword>
+    <md:keyword>scala vestibuli</md:keyword>
+    <md:keyword>sclera</md:keyword>
+    <md:keyword>secondary motor cortex</md:keyword>
+    <md:keyword>semicircular canal</md:keyword>
+    <md:keyword>sensory homunculus</md:keyword>
+    <md:keyword>sensory modality</md:keyword>
+    <md:keyword>sensory pathway</md:keyword>
+    <md:keyword>sensory perception</md:keyword>
+    <md:keyword>sensory receptor</md:keyword>
+    <md:keyword>solitary nucleus</md:keyword>
+    <md:keyword>sound wave transmission</md:keyword>
+    <md:keyword>special sense</md:keyword>
+    <md:keyword>spinal trigeminal nucleus</md:keyword>
+    <md:keyword>spinothalamic tract</md:keyword>
+    <md:keyword>spiral ganglion</md:keyword>
+    <md:keyword>stapes</md:keyword>
+    <md:keyword>stereocilia</md:keyword>
+    <md:keyword>stretch reflex</md:keyword>
+    <md:keyword>supplemental motor area</md:keyword>
+    <md:keyword>suprachiasmatic nucleus</md:keyword>
+    <md:keyword>taste bud</md:keyword>
+    <md:keyword>tectorial membrane</md:keyword>
+    <md:keyword>tectospinal tract</md:keyword>
+    <md:keyword>thermoreceptor</md:keyword>
+    <md:keyword>tongue</md:keyword>
+    <md:keyword>topographical</md:keyword>
+    <md:keyword>transduction</md:keyword>
+    <md:keyword>trochlea</md:keyword>
+    <md:keyword>tympanic membrane</md:keyword>
+    <md:keyword>umami</md:keyword>
+    <md:keyword>utricle</md:keyword>
+    <md:keyword>vascular tunic</md:keyword>
+    <md:keyword>ventral horn output</md:keyword>
+    <md:keyword>ventral posterior nucleus</md:keyword>
+    <md:keyword>ventral stream</md:keyword>
+    <md:keyword>vestibular ganglion</md:keyword>
+    <md:keyword>vestibular nucleus</md:keyword>
+    <md:keyword>vestibule</md:keyword>
+    <md:keyword>vestibulo-ocular reflex</md:keyword>
+    <md:keyword>vestibulospinal tract</md:keyword>
+    <md:keyword>visceral sense</md:keyword>
+    <md:keyword>vision</md:keyword>
+    <md:keyword>visual acuity</md:keyword>
+    <md:keyword>vitreous humor</md:keyword>
+    <md:keyword>working memory</md:keyword>
+    <md:keyword>zonule fiber</md:keyword>
+  </md:keywordlist>
+  <md:subjectlist>
+    <md:subject>Science and Technology</md:subject>
+  </md:subjectlist>
+  <md:abstract/>
+  <md:language>en</md:language>
+  <!-- WARNING! The 'metadata' section is read only. Do not edit above.
+       Changes to the metadata section in the source will not be saved. -->
+</metadata>
+
+<content>
+<?cnx.eoc class="summary" title="Chapter Review"?>
+<?cnx.eoc class="interactive-exercise" title="Interactive Link Questions"?>
+<?cnx.eoc class="multiple-choice" title="Review Questions" ?>
+<?cnx.eoc class="free-response" title="Critical Thinking Questions"?>
+
+<figure id="fig-ch14_00_01" class="splash"><title>Too Hot to Touch </title><media id="fs-id2421265" alt="This photo shows a red hot electric stove top.">
+<image mime-type="image/jpg" src="1400_CO_Photo.jpg" width="500"/>
+</media>
+<caption>When high temperature is sensed in the skin, a reflexive withdrawal is initiated by the muscles of the arm. Sensory neurons are activated by a stimulus, which is sent to the central nervous system, and a motor response is sent out to the skeletal muscles that control this movement.</caption></figure><note id="eip-131" class="chapter-objectives"><title>Chapter Objectives</title><para id="eip-id1171735176241">After studying this chapter, you will be able to:</para>
+<list id="eip-id1171702051916">
+<item>Describe the components of the somatic nervous system</item>
+<item>Name the modalities and submodalities of the sensory systems</item>
+<item>Distinguish between general and special senses</item>
+<item>Describe regions of the central nervous system that contribute to somatic functions</item>
+<item>Explain the stimulus-response motor pathway</item>
+</list></note><para id="fs-id2525142">The somatic nervous system is traditionally considered a division within the peripheral nervous system. However, this misses an important point: somatic refers to a functional division, whereas peripheral refers to an anatomic division. The somatic nervous system is responsible for our conscious perception of the environment and for our voluntary responses to that perception by means of skeletal muscles. Peripheral sensory neurons receive input from environmental stimuli, but the neurons that produce motor responses originate in the central nervous system. The distinction between the structures (i.e., anatomy) of the peripheral and central nervous systems and functions (i.e., physiology) of the somatic and autonomic systems can most easily be demonstrated through a simple reflex action. When you touch a hot stove, you pull your hand away. Sensory receptors in the skin sense extreme temperature and the early signs of tissue damage. This triggers an action potential, which travels along the sensory fiber from the skin, through the dorsal spinal root to the spinal cord, and directly activates a ventral horn motor neuron. That neuron sends a signal along its axon to excite the biceps brachii, causing contraction of the muscle and flexion of the forearm at the elbow to withdraw the hand from the hot stove. The withdrawal reflex has more components, such as inhibiting the opposing muscle and balancing posture while the arm is forcefully withdrawn, which will be further explored at the end of this chapter.</para>
+<para id="fs-id2372350">The basic withdrawal reflex explained above includes sensory input (the painful stimulus), central processing (the synapse in the spinal cord), and motor output (activation of a ventral motor neuron that causes contraction of the biceps brachii). Expanding the explanation of the withdrawal reflex can include inhibition of the opposing muscle, or cross extension, either of which increase the complexity of the example by involving more central neurons. A collateral branch of the sensory axon would inhibit another ventral horn motor neuron so that the triceps brachii do not contract and slow the withdrawal down. The cross extensor reflex provides a counterbalancing movement on the other side of the body, which requires another collateral of the sensory axon to activate contraction of the extensor muscles in the contralateral limb.</para>
+<para id="fs-id2336201">A more complex example of somatic function is conscious muscle movement. For example, reading of this text starts with visual sensory input to the retina, which then projects to the thalamus, and on to the cerebral cortex. A sequence of regions of the cerebral cortex process the visual information, starting in the primary visual cortex of the occipital lobe, and resulting in the conscious perception of these letters. Subsequent cognitive processing results in understanding of the content. As you continue reading, regions of the cerebral cortex in the frontal lobe plan how to move the eyes to follow the lines of text. The output from the cortex causes activity in motor neurons in the brain stem that cause movement of the extraocular muscles through the third, fourth, and sixth cranial nerves. This example also includes sensory input (the retinal projection to the thalamus), central processing (the thalamus and subsequent cortical activity), and motor output (activation of neurons in the brain stem that lead to coordinated contraction of extraocular muscles).</para>
+</content>
+</document>

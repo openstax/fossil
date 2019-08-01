@@ -1,0 +1,169 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:q="http://cnx.rice.edu/qml/1.0" id="new" class="preface" cnxml-version="0.7" module-id="new">
+
+<title>Preface</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+  <!-- WARNING! The 'metadata' section is read only. Do not edit below.
+       Changes to the metadata section in the source will not be saved. -->
+  <md:repository>https://legacy.cnx.org/content</md:repository>
+  <md:content-url>https://legacy.cnx.org/content/m68662/latest/</md:content-url>
+  <md:content-id>m68662</md:content-id>
+  <md:title>Preface</md:title>
+  <md:version>1.6</md:version>
+  <md:created>2018/09/06 15:16:28 -0500</md:created>
+  <md:revised>2018/11/13 10:42:40.282 US/Central</md:revised>
+  <md:actors>
+    <md:person userid="cnxchem2">
+      <md:firstname>OpenStax</md:firstname>
+      <md:surname>Chemistry 2e</md:surname>
+      <md:fullname>OpenStax Chemistry 2e</md:fullname>
+      <md:email>info@openstax.org</md:email>
+    </md:person>
+    <md:organization userid="OpenStaxCollege">
+      <md:shortname>OpenStax</md:shortname>
+      <md:fullname>OpenStax</md:fullname>
+      <md:email>info@openstax.org</md:email>
+    </md:organization>
+    <md:person userid="OSCRiceUniversity">
+      <md:firstname>Rice</md:firstname>
+      <md:surname>University</md:surname>
+      <md:fullname>Rice University</md:fullname>
+      <md:email>info@openstaxcollege.org</md:email>
+    </md:person>
+  </md:actors>
+  <md:roles>
+    <md:role type="author">OpenStaxCollege</md:role>
+    <md:role type="maintainer">OpenStaxCollege cnxchem2</md:role>
+    <md:role type="licensor">OSCRiceUniversity</md:role>
+  </md:roles>
+  <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
+  <!-- For information on license requirements for use or modification, see license url in the
+       above <md:license> element.
+       For information on formatting required attribution, see the URL:
+         CONTENT_URL/content_info#cnx_cite_header
+       where CONTENT_URL is the value provided above in the <md:content-url> element.
+  -->
+  <md:subjectlist>
+    <md:subject>Science and Technology</md:subject>
+  </md:subjectlist>
+  <md:abstract/>
+  <md:language>en</md:language>
+  <!-- WARNING! The 'metadata' section is read only. Do not edit above.
+       Changes to the metadata section in the source will not be saved. -->
+</metadata>
+
+<content class="preface">
+  <para xmlns:data="http://www.w3.org/TR/html5/dom.html#custom-data-attribute" id="eip-420">Welcome to <emphasis effect="italics">Chemistry 2e</emphasis>, an OpenStax resource. This textbook was written to increase student access to high-quality learning materials, maintaining highest standards of academic rigor at little to no cost. </para><section id="eip-260"><title>About OpenStax</title><para xmlns:data="http://www.w3.org/TR/html5/dom.html#custom-data-attribute" id="eip-616">OpenStax is a nonprofit based at Rice University, and it’s our mission to improve student access to education. Our first openly licensed college textbook was published in 2012, and our library has since scaled to over 25 books for college and AP<sup>®</sup> courses used by hundreds of thousands of students. OpenStax Tutor, our low-cost personalized learning tool, is being used in college courses throughout the country. Through our partnerships with philanthropic foundations and our alliance with other educational resource organizations, OpenStax is breaking down the most common barriers to learning and empowering students and instructors to succeed.
+</para></section><section xmlns:data="http://www.w3.org/TR/html5/dom.html#custom-data-attribute" id="eip-479"><title>About OpenStax resources</title><section id="eip-475"><title>Customization</title><para id="eip-849">
+<emphasis effect="italics">Chemistry 2e</emphasis> is licensed under a Creative Commons Attribution 4.0 International (CC BY) license, which means that you can distribute, remix, and build upon the content, as long as you provide attribution to OpenStax and its content contributors.
+</para><para id="eip-338">Because our books are openly licensed, you are free to use the entire book or pick and choose the sections that are most relevant to the needs of your course. Feel free to remix the content by assigning your students certain chapters and sections in your syllabus, in the order that you prefer. You can even provide a direct link in your syllabus to the sections in the web view of your book.
+</para><para id="eip-23">Instructors also have the option of creating a customized version of their OpenStax book. The custom version can be made available to students in low-cost print or digital form through their campus bookstore. Visit the Instructor Resources section of your book page on OpenStax.org for more information.</para></section><section id="eip-597"><title>Errata</title><para id="eip-42">All OpenStax textbooks undergo a rigorous review process. However, like any professional-grade textbook, errors sometimes occur. Since our books are web based, we can make updates periodically when deemed pedagogically necessary. If you have a correction to suggest, submit it through the link on your book page on OpenStax.org. Subject matter experts review all errata suggestions. OpenStax is committed to remaining transparent about all updates, so you will also find a list of past errata changes on your book page on OpenStax.org.
+
+</para></section><section id="eip-255"><title>Format</title><para id="eip-109">You can access this textbook for free in web view or PDF through OpenStax.org, and for a low cost in print.
+</para></section></section><section id="eip-905"><title>About <emphasis effect="italics">Chemistry 2e</emphasis></title><para xmlns:data="http://www.w3.org/TR/html5/dom.html#custom-data-attribute" id="eip-35"><emphasis effect="italics">Chemistry 2e</emphasis> is designed to meet the scope and sequence requirements of the two-semester general chemistry course. The textbook provides an important opportunity for students to learn the core concepts of chemistry and understand how those concepts apply to their lives and the world around them. The book also includes a number of innovative features, including interactive exercises and real-world applications, designed to enhance student learning. The second edition has been revised to incorporate clearer, more current, and more dynamic explanations, while maintaining the same organization as the first edition.  Substantial improvements have been made in the figures, illustrations, and example exercises that support the text narrative.</para><section xmlns:data="http://www.w3.org/TR/html5/dom.html#custom-data-attribute" id="eip-667"><title>Coverage and scope</title><para id="eip-862">Our <emphasis effect="italics">Chemistry 2e</emphasis> textbook adheres to the scope and sequence of most general chemistry courses nationwide. We strive to make chemistry, as a discipline, interesting and accessible to students. With this objective in mind, the content of this textbook has been developed and arranged to provide a logical progression from fundamental to more advanced concepts of chemical science. Topics are introduced within the context of familiar experiences whenever possible, treated with an appropriate rigor to satisfy the intellect of the learner, and reinforced in subsequent discussions of related content. The organization and pedagogical features were developed and vetted with feedback from chemistry educators dedicated to the project.</para></section>
+<section id="fs-idm167914352"><title>Changes to the second edition</title>
+<para id="fs-idm178020288">OpenStax only undertakes second editions when significant modifications to the text are necessary. In the case of <emphasis effect="italics">Chemistry 2e</emphasis>, user feedback indicated that we needed to focus on a few key areas, which we have done in the following ways:</para>
+<para id="fs-idm212040832"><term>Content revisions for clarity and accuracy.</term> The revision plan varied by chapter based on need. About five chapters were extensively rewritten and another twelve chapters were substantially revised to improve the readability and clarity of the narrative.</para>
+<para id="fs-idm224576736"><term>Example and end-of-chapter exercises.</term> The example and end-of-chapter exercises in several chapters were subjected to a rigorous accuracy check and revised to correct any errors, and additional exercises were added to several chapters to more fully support chapter content.</para>
+<para id="fs-idm163049808"><term>Art and illustrations.</term> Under the guidance of the authors and expert scientific illustrators, especially those well-versed in creating accessible art, the OpenStax team made changes to much of the art in the first edition of <emphasis effect="italics">Chemistry</emphasis>. The revisions included correcting errors, redesigning illustrations to improve understanding, and recoloring for overall consistency.</para>
+<para id="fs-idm213719232"><term>Accessibility improvements.</term> As with all OpenStax books, the first edition of <emphasis effect="italics">Chemistry</emphasis> was created with a focus on accessibility. We have emphasized and improved that approach in the second edition. To accommodate users of specific assistive technologies, all alternative text was reviewed and revised for comprehensiveness and clarity. Many illustrations were revised to improve the color contrast, which is important for some visually impaired students. Overall, the OpenStax platform has been continually upgraded to improve accessibility.</para>
+</section>
+<section xmlns:data="http://www.w3.org/TR/html5/dom.html#custom-data-attribute" id="eip-951"><title>Pedagogical foundation and features</title><para id="eip-193">Throughout <emphasis effect="italics">Chemistry 2e</emphasis>, you will find features that draw the students into scientific inquiry by taking selected topics a step further. Students and educators alike will appreciate discussions in these feature boxes.
+<list id="eip-806"><item><emphasis effect="bold">Chemistry in Everyday Life</emphasis> ties chemistry concepts to everyday issues and real-world applications of science that students encounter in their lives. Topics include cell phones, solar thermal energy power plants, plastics recycling, and measuring blood pressure.</item>
+<item><emphasis effect="bold">How Sciences Interconnect</emphasis> feature boxes discuss chemistry in context of its interconnectedness with other scientific disciplines. Topics include neurotransmitters, greenhouse gases and climate change, and proteins and enzymes.</item>
+<item><emphasis effect="bold">Portrait of a Chemist</emphasis> presents a short bio and an introduction to the work of prominent figures from history and present day so that students can see the “faces” of contributors in this field as well as science in action.</item>
+</list></para></section><section xmlns:data="http://www.w3.org/TR/html5/dom.html#custom-data-attribute" id="eip-88"><title>Comprehensive art program</title><para id="eip-87">Our art program is designed to enhance students’ understanding of concepts through clear, effective illustrations, diagrams, and photographs. </para><para id="eip-715"><media id="Chem_Preface_01" alt=".."><image mime-type="image/jpg" src="CNX_Chem_01_02_Cellulose.jpg"/> </media>
+
+<media id="Chem_Preface_02" alt=".."><image mime-type="image/jpg" src="CNX_Chem_02_02_Rutherford.jpg"/> </media>
+
+<media id="Chem_Preface_03" alt=".."><image mime-type="image/jpg" src="CNX_Chem_04_02_HClsoln.jpg"/> </media>
+
+<media id="Chem_Preface_04" alt=".."><image mime-type="image/jpg" src="CNX_Chem_06_03_3dOrbitals.jpg"/> </media>
+
+<media id="Chem_Preface_05" alt=".."><image mime-type="image/jpg" src="CNX_Chem_20_01_alkanes.jpg"/> </media>
+
+<media id="Chem_Preface_06" alt=".."><image mime-type="image/jpg" src="CNX_Chem_10_06_FcCntrdCb.jpg"/> </media>
+
+<media id="Chem_Preface_07" alt=".."><image mime-type="image/jpg" src="CNX_Chem_21_03_Reaction1.jpg"/> </media></para></section><section xmlns:data="http://www.w3.org/TR/html5/dom.html#custom-data-attribute" id="eip-819"><title>Interactives that engage</title><para id="eip-16"><emphasis effect="italics">Chemistry 2e</emphasis> incorporates links to relevant interactive exercises and animations that help bring topics to life through our <emphasis effect="bold">Link to Learning</emphasis> feature. Examples include:
+<list id="eip-id1165023493302"><item>PhET simulations</item>
+<item>IUPAC data and interactives</item>
+<item>TED Talks</item></list></para></section><section xmlns:data="http://www.w3.org/TR/html5/dom.html#custom-data-attribute" id="eip-638"><title>Assessments that reinforce key concepts</title><para id="eip-963">In-chapter <emphasis effect="bold">Examples</emphasis> walk students through problems by posing a question, stepping out a solution, and then asking students to practice the skill with a “Check Your Learning” component. The book also includes assessments at the end of each chapter so students can apply what they’ve learned through practice problems. </para></section></section><section xmlns:data="http://www.w3.org/TR/html5/dom.html#custom-data-attribute" id="eip-138"><title>Additional resources</title><section id="eip-idm1034689360"><title>Student and instructor resources</title><para id="eip-idm1037301216">We’ve compiled additional resources for both students and instructors, including Getting Started Guides, an instructor solutions manual, and PowerPoint slides. Instructor resources require a verified instructor account, which you can apply for when you log in or create your account on OpenStax.org. Take advantage of these resources to supplement your OpenStax book.</para></section>
+
+<section id="eip-300"><title>Community Hubs</title><para id="eip-363">
+OpenStax partners with the Institute for the Study of Knowledge Management in Education (ISKME) to offer Community Hubs on OER Commons — a platform for instructors to share community-created resources that support OpenStax books, free of charge. Through our Community Hubs, instructors can upload their own materials or download resources to use in their own courses, including additional ancillaries, teaching material, multimedia, and relevant course content. We encourage instructors to join the hubs for the subjects most relevant to your teaching and research as an opportunity both to enrich your courses and to engage with other faculty.  
+</para><para id="eip-idm617177904">
+To reach the Community Hubs, visit <link url="https://www.oercommons.org/hubs/OpenStax">www.oercommons.org/hubs/OpenStax</link>.
+</para></section><section id="eip-idm1165935696"><title>Technology partners</title><para id="eip-idm216230720">As allies in making high-quality learning materials accessible, our technology partners offer optional low-cost tools that are integrated with OpenStax books. To access the technology options for your text, visit your book page on OpenStax.org.</para></section>
+</section><section xmlns:data="http://www.w3.org/TR/html5/dom.html#custom-data-attribute" id="eip-384"><title>About the authors</title><section id="eip-4" class="sr-contrib-auth"><title>Senior contributing authors</title><para id="eip-205"><emphasis>Paul Flowers, University of North Carolina at Pembroke</emphasis><newline/>
+Dr. Paul Flowers earned a BS in Chemistry from St. Andrews Presbyterian College in 1983 and a PhD in Analytical Chemistry from the University of Tennessee in 1988. After a one-year postdoctoral appointment at Los Alamos National Laboratory, he joined the University of North Carolina at Pembroke in the fall of 1989. Dr. Flowers teaches courses in general and analytical chemistry, and conducts experimental research involving the development of new devices and methods for microscale chemical analysis.</para><para id="eip-id8053827"><emphasis>Klaus Theopold, University of Delaware</emphasis><newline/>
+Dr. Klaus Theopold (born in Berlin, Germany) received his Vordiplom from the Universität Hamburg in 1977. He then decided to pursue his graduate studies in the United States, where he received his PhD in inorganic chemistry from UC Berkeley in 1982. After a year of postdoctoral research at MIT, he joined the faculty at Cornell University. In 1990, he moved to the University of Delaware, where he is a Professor in the Department of Chemistry and Biochemistry and serves as an Associate Director of the University’s Center for Catalytic Science and Technology. Dr. Theopold regularly teaches graduate courses in inorganic and organometallic chemistry as well as general chemistry.</para><para id="eip-id1170475791741"><emphasis>Richard Langley, Stephen F. Austin State University</emphasis><newline/>
+Dr. Richard Langley earned BS degrees in Chemistry and Mineralogy from Miami University of Ohio in the early 1970s and went on to receive his PhD in Chemistry from the University of Nebraska in 1977. After a postdoctoral fellowship at the Arizona State University Center for Solid State Studies, Dr. Langley taught in the University of Wisconsin system and participated in research at Argonne National Laboratory. Moving to Stephen F. Austin State University in 1982, Dr. Langley today serves as Professor of Chemistry. His areas of specialization are solid state chemistry, synthetic inorganic chemistry, fluorine chemistry, and chemical education. </para><para id="eip-858"><emphasis>William R. Robinson, PhD</emphasis></para></section><section id="eip-693" class="contrib-auth"><title>Contributing authors</title><para id="eip-837">Mark Blaser, Shasta College<newline/>
+Simon Bott, University of Houston<newline/>
+Donald Carpenetti, Craven Community College<newline/>
+Andrew Eklund, Alfred University<newline/>
+Emad El-Giar, University of Louisiana at Monroe<newline/>
+Don Frantz, Wilfrid Laurier University<newline/>
+Paul Hooker, Westminster College<newline/>
+Jennifer Look, Mercer University<newline/>
+George Kaminski, Worcester Polytechnic Institute<newline/>
+Carol Martinez, Central New Mexico Community College<newline/>
+Troy Milliken, Jackson State University<newline/>
+Vicki Moravec, Trine University<newline/>
+Jason Powell, Ferrum College<newline/>
+Thomas Sorensen, University of Wisconsin–Milwaukee<newline/>
+Allison Soult, University of Kentucky<newline/></para></section><section id="eip-554"><title>Reviewers</title><para id="eip-641">Casey Akin, College Station Independent School District<newline/>
+Lara AL-Hariri, University of Massachusetts–Amherst<newline/>
+Sahar Atwa, University of Louisiana at Monroe<newline/>
+Todd Austell, University of North Carolina–Chapel Hill<newline/>
+Bobby Bailey, University of Maryland–University College<newline/>
+Robert Baker, Trinity College<newline/>
+Jeffrey Bartz, Kalamazoo College<newline/>
+Greg Baxley, Cuesta College<newline/>
+Ashley Beasley Green, National Institute of Standards and Technology<newline/>
+Patricia Bianconi, University of Massachusetts<newline/>
+Lisa Blank, Lyme Central School District<newline/>
+Daniel Branan, Colorado Community College System<newline/>
+Dorian Canelas, Duke University<newline/>
+Emmanuel Chang, York College<newline/>
+Carolyn Collins, College of Southern Nevada<newline/>
+Colleen Craig, University of Washington<newline/>
+Yasmine Daniels, Montgomery College–Germantown<newline/>
+Patricia Dockham, Grand Rapids Community College<newline/>
+Erick Fuoco, Richard J. Daley College<newline/>
+Andrea Geyer, University of Saint Francis<newline/>
+Daniel Goebbert, University of Alabama<newline/>
+John Goodwin, Coastal Carolina University<newline/>
+Stephanie Gould, Austin College<newline/>
+Patrick Holt, Bellarmine University<newline/>
+George A. Kaminski, Worcester Polytechnic Institute<newline/>
+Kevin Kolack, Queensborough Community College<newline/>
+Amy Kovach, Roberts Wesleyan College<newline/>
+Judit Kovacs Beagle, University of Dayton<newline/>
+Krzysztof Kuczera, University of Kansas<newline/>
+Marcus Lay, University of Georgia<newline/>
+Pamela Lord, University of Saint Francis<newline/>
+Oleg Maksimov, Excelsior College<newline/>
+John Matson, Virginia Tech<newline/>
+Katrina Miranda, University of Arizona<newline/>
+Douglas Mulford, Emory University<newline/>
+Mark Ott, Jackson College<newline/>
+Adrienne Oxley, Columbia College<newline/>
+Richard Pennington, Georgia Gwinnett College<newline/>
+Rodney Powell, Coastal Carolina Community College<newline/>
+Jeanita Pritchett, Montgomery College–Rockville <newline/>
+Aheda Saber, University of Illinois at Chicago<newline/>
+Raymond Sadeghi, University of Texas at San Antonio<newline/>
+Nirmala Shankar, Rutgers University<newline/>
+Jonathan Smith, Temple University<newline/>
+Bryan Spiegelberg, Rider University<newline/>
+Ron Sternfels, Roane State Community College<newline/>
+Cynthia Strong, Cornell College<newline/>
+Kris Varazo, Francis Marion University<newline/>
+Victor Vilchiz, Virginia State University<newline/>
+Alex Waterson, Vanderbilt University<newline/>
+JuchaoYan, Eastern New Mexico University<newline/>
+Mustafa Yatin, Salem State University<newline/>
+Kazushige Yokoyama, State University of New York at Geneseo<newline/>
+Curtis Zaleski, Shippensburg University<newline/>
+Wei Zhang, University of Colorado–Boulder<newline/></para></section></section></content>
+
+</document>

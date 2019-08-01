@@ -1,0 +1,216 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:q="http://cnx.rice.edu/qml/1.0" id="new" cnxml-version="0.7" module-id="new" class="introduction">
+
+<title>Introduction</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+  <!-- WARNING! The 'metadata' section is read only. Do not edit below.
+       Changes to the metadata section in the source will not be saved. -->
+  <md:repository>http://legacy.cnx.org/content</md:repository>
+  <md:content-url>http://legacy.cnx.org/content/m46385/latest</md:content-url>
+  <md:content-id>m46385</md:content-id>
+  <md:title>Introduction</md:title>
+  <md:version>1.8</md:version>
+  <md:created>2013/03/20 15:44:47 -0500</md:created>
+  <md:revised>2018/10/17 09:34:46 -0500</md:revised>
+  <md:actors>
+    <md:organization userid="OpenStaxCollege">
+      <md:shortname>OpenStax</md:shortname>
+      <md:fullname>OpenStax</md:fullname>
+      <md:email>info@openstax.org</md:email>
+    </md:organization>
+    <md:person userid="OSCRiceUniversity">
+      <md:firstname>Rice</md:firstname>
+      <md:surname>University</md:surname>
+      <md:fullname>Rice University</md:fullname>
+      <md:email>info@openstaxcollege.org</md:email>
+    </md:person>
+    <md:person userid="cnxap">
+      <md:firstname>CNX</md:firstname>
+      <md:surname>Anatomy and Physiology</md:surname>
+      <md:fullname>OpenStax Anatomy and Physiology</md:fullname>
+      <md:email>info@openstaxcollege.org</md:email>
+    </md:person>
+  </md:actors>
+  <md:roles>
+    <md:role type="author">OpenStaxCollege</md:role>
+    <md:role type="maintainer">OpenStaxCollege cnxap</md:role>
+    <md:role type="licensor">OSCRiceUniversity</md:role>
+  </md:roles>
+  <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>
+  <!-- For information on license requirements for use or modification, see license url in the
+       above <md:license> element.
+       For information on formatting required attribution, see the URL:
+         CONTENT_URL/content_info#cnx_cite_header
+       where CONTENT_URL is the value provided above in the <md:content-url> element.
+  -->
+  <md:keywordlist>
+    <md:keyword>alveoli</md:keyword>
+    <md:keyword>ampulla</md:keyword>
+    <md:keyword>andropause</md:keyword>
+    <md:keyword>antral follicle</md:keyword>
+    <md:keyword>antrum</md:keyword>
+    <md:keyword>areola</md:keyword>
+    <md:keyword>Bartholin’s gland</md:keyword>
+    <md:keyword>benign prostate hyperplasia</md:keyword>
+    <md:keyword>blood–testis barrier</md:keyword>
+    <md:keyword>body of uterus</md:keyword>
+    <md:keyword>breast anatomy</md:keyword>
+    <md:keyword>broad ligament</md:keyword>
+    <md:keyword>bulbourethral gland</md:keyword>
+    <md:keyword>Cervarix</md:keyword>
+    <md:keyword>cervical cancer</md:keyword>
+    <md:keyword>cervical cancer development</md:keyword>
+    <md:keyword>cervix</md:keyword>
+    <md:keyword>circumcision</md:keyword>
+    <md:keyword>clitoris</md:keyword>
+    <md:keyword>corpus albicans</md:keyword>
+    <md:keyword>corpus cavernosum</md:keyword>
+    <md:keyword>corpus luteum</md:keyword>
+    <md:keyword>corpus spongiosum</md:keyword>
+    <md:keyword>Cowper’s gland</md:keyword>
+    <md:keyword>cryptorchidism</md:keyword>
+    <md:keyword>duct system</md:keyword>
+    <md:keyword>ductus deferens</md:keyword>
+    <md:keyword>ejaculatory duct</md:keyword>
+    <md:keyword>endometrium</md:keyword>
+    <md:keyword>epididymides</md:keyword>
+    <md:keyword>epididymis</md:keyword>
+    <md:keyword>erectile dysfunction</md:keyword>
+    <md:keyword>female reproductive system</md:keyword>
+    <md:keyword>female reproductive system development</md:keyword>
+    <md:keyword>fimbriae</md:keyword>
+    <md:keyword>follicle</md:keyword>
+    <md:keyword>folliculogenesis</md:keyword>
+    <md:keyword>fundus</md:keyword>
+    <md:keyword>gamete</md:keyword>
+    <md:keyword>Gardasil</md:keyword>
+    <md:keyword>glans penis</md:keyword>
+    <md:keyword>GnRH</md:keyword>
+    <md:keyword>gonad</md:keyword>
+    <md:keyword>gonadotropin-releasing hormone</md:keyword>
+    <md:keyword>granulosa cell</md:keyword>
+    <md:keyword>hormonal birth control</md:keyword>
+    <md:keyword>hormone</md:keyword>
+    <md:keyword>hormone level</md:keyword>
+    <md:keyword>hormone therapy</md:keyword>
+    <md:keyword>human papillomavirus</md:keyword>
+    <md:keyword>hymen</md:keyword>
+    <md:keyword>infundibulum</md:keyword>
+    <md:keyword>inguinal canal</md:keyword>
+    <md:keyword>isthmus</md:keyword>
+    <md:keyword>labia majora</md:keyword>
+    <md:keyword>labia minora</md:keyword>
+    <md:keyword>lactiferous duct</md:keyword>
+    <md:keyword>lactiferous sinus</md:keyword>
+    <md:keyword>lactobacillus</md:keyword>
+    <md:keyword>Leydig cell</md:keyword>
+    <md:keyword>male reproductive system</md:keyword>
+    <md:keyword>male reproductive system development</md:keyword>
+    <md:keyword>mammary gland</md:keyword>
+    <md:keyword>menarche</md:keyword>
+    <md:keyword>menopause</md:keyword>
+    <md:keyword>menses</md:keyword>
+    <md:keyword>menses phase</md:keyword>
+    <md:keyword>menstrual cycle</md:keyword>
+    <md:keyword>mitochondrial DNA</md:keyword>
+    <md:keyword>mons pubis</md:keyword>
+    <md:keyword>Müllerian duct</md:keyword>
+    <md:keyword>myometrium</md:keyword>
+    <md:keyword>oocyte</md:keyword>
+    <md:keyword>oogenesis</md:keyword>
+    <md:keyword>oogonia</md:keyword>
+    <md:keyword>ovarian cycle</md:keyword>
+    <md:keyword>ovary</md:keyword>
+    <md:keyword>ovulation</md:keyword>
+    <md:keyword>ovum</md:keyword>
+    <md:keyword>pelvic inflammatory disease</md:keyword>
+    <md:keyword>penis</md:keyword>
+    <md:keyword>perimetrium</md:keyword>
+    <md:keyword>polar body</md:keyword>
+    <md:keyword>prepuce</md:keyword>
+    <md:keyword>primary follicle</md:keyword>
+    <md:keyword>primordial follicle</md:keyword>
+    <md:keyword>proliferative phase</md:keyword>
+    <md:keyword>prostate gland</md:keyword>
+    <md:keyword>puberty</md:keyword>
+    <md:keyword>raphae</md:keyword>
+    <md:keyword>rugae</md:keyword>
+    <md:keyword>scrotum</md:keyword>
+    <md:keyword>secondary follicle</md:keyword>
+    <md:keyword>secondary sexual characteristic</md:keyword>
+    <md:keyword>secretory phase</md:keyword>
+    <md:keyword>semen</md:keyword>
+    <md:keyword>seminal vesicle</md:keyword>
+    <md:keyword>seminiferous tubule</md:keyword>
+    <md:keyword>Sertoli cell</md:keyword>
+    <md:keyword>sex-determining region</md:keyword>
+    <md:keyword>sperm</md:keyword>
+    <md:keyword>spermatic cord</md:keyword>
+    <md:keyword>spermatid</md:keyword>
+    <md:keyword>spermatocyte</md:keyword>
+    <md:keyword>spermatogenesis</md:keyword>
+    <md:keyword>spermatogonia</md:keyword>
+    <md:keyword>spermatogonium</md:keyword>
+    <md:keyword>spermiogenesis</md:keyword>
+    <md:keyword>sperm structure</md:keyword>
+    <md:keyword>sperm transport</md:keyword>
+    <md:keyword>suspensory ligament</md:keyword>
+    <md:keyword>tertiary follicle</md:keyword>
+    <md:keyword>testes</md:keyword>
+    <md:keyword>testicle</md:keyword>
+    <md:keyword>testis</md:keyword>
+    <md:keyword>theca cell</md:keyword>
+    <md:keyword>tunica vaginalis</md:keyword>
+    <md:keyword>uterine tube</md:keyword>
+    <md:keyword>uterus</md:keyword>
+    <md:keyword>vagina</md:keyword>
+    <md:keyword>vasectomy</md:keyword>
+    <md:keyword>Viagra</md:keyword>
+    <md:keyword>vulva</md:keyword>
+    <md:keyword>Wolffian duct</md:keyword>
+  </md:keywordlist>
+  <md:subjectlist>
+    <md:subject>Science and Technology</md:subject>
+  </md:subjectlist>
+  <md:abstract/>
+  <md:language>en</md:language>
+  <!-- WARNING! The 'metadata' section is read only. Do not edit above.
+       Changes to the metadata section in the source will not be saved. -->
+</metadata>
+
+<content>
+<?cnx.eoc class="summary" title="Chapter Review"?>
+<?cnx.eoc class="interactive-exercise" title="Interactive Link Questions"?>
+<?cnx.eoc class="multiple-choice" title="Review Questions"?>
+<?cnx.eoc class="free-response" title="Critical Thinking Questions"?>
+<?cnx.eoc class="references" title="References"?>
+
+<figure id="fig-ch28_00_01" class="splash"><title>Ovulation </title><media id="fs-id2179752" alt="This photo shows an oocyte.">
+<image mime-type="image/jpg" src="Figure_28_00_01.JPG" height="400"/>
+</media>
+
+<caption>Following a surge of luteinizing hormone (LH), an oocyte (immature egg cell) will be released into the uterine tube, where it will then be available to be fertilized by a male’s sperm. Ovulation marks the end of the follicular phase of the ovarian cycle and the start of the luteal phase.
+</caption></figure>
+
+<note id="fs-id1168142552845" class="chapter-objectives">
+<title>Chapter Objectives</title>
+<para id="fs-id1168150211495"> After studying this chapter, you will be able to:
+</para>
+<list id="fs-id1168142568581"><item>
+Describe the anatomy of the male and female reproductive systems, including their accessory structures</item>
+<item>
+Explain the role of hypothalamic and pituitary hormones in male and female reproductive function</item>
+<item>
+Trace the path of a sperm cell from its initial production through fertilization of an oocyte</item>
+<item>
+Explain the events in the ovary prior to ovulation</item>
+<item>
+Describe the development and maturation of the sex organs and the emergence of secondary sex characteristics during puberty</item>
+</list>
+</note>
+
+<para id="fs-id2137418">Small, uncoordinated, and slick with amniotic fluid, a newborn encounters the world outside of her mother’s womb. We do not often consider that a child’s birth is proof of the healthy functioning of both her mother’s and father’s reproductive systems. Moreover, her parents’ endocrine systems had to secrete the appropriate regulating hormones to induce the production and release of unique male and female gametes, reproductive cells containing the parents’ genetic material (one set of 23 chromosomes). Her parent’s reproductive behavior had to facilitate the transfer of male gametes—the sperm—to the female reproductive tract at just the right time to encounter the female gamete, an oocyte (egg). Finally, combination of the gametes (fertilization) had to occur, followed by implantation and development. In this chapter, you will explore the male and female reproductive systems, whose healthy functioning can culminate in the powerful sound of a newborn’s first cry.</para>
+
+
+</content>
+
+</document>

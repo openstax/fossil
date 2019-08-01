@@ -1,0 +1,257 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:q="http://cnx.rice.edu/qml/1.0" id="new" cnxml-version="0.7" module-id="new" class="introduction">
+
+<title>Introduction</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+  <!-- WARNING! The 'metadata' section is read only. Do not edit below.
+       Changes to the metadata section in the source will not be saved. -->
+  <md:repository>http://legacy.cnx.org/content</md:repository>
+  <md:content-url>http://legacy.cnx.org/content/m46679/latest</md:content-url>
+  <md:content-id>m46679</md:content-id>
+  <md:title>Introduction</md:title>
+  <md:version>1.8</md:version>
+  <md:created>2013/03/20 12:49:20 -0500</md:created>
+  <md:revised>2018/10/17 09:34:46 -0500</md:revised>
+  <md:actors>
+    <md:organization userid="OpenStaxCollege">
+      <md:shortname>OpenStax</md:shortname>
+      <md:fullname>OpenStax</md:fullname>
+      <md:email>info@openstax.org</md:email>
+    </md:organization>
+    <md:person userid="OSCRiceUniversity">
+      <md:firstname>Rice</md:firstname>
+      <md:surname>University</md:surname>
+      <md:fullname>Rice University</md:fullname>
+      <md:email>info@openstaxcollege.org</md:email>
+    </md:person>
+    <md:person userid="cnxap">
+      <md:firstname>CNX</md:firstname>
+      <md:surname>Anatomy and Physiology</md:surname>
+      <md:fullname>OpenStax Anatomy and Physiology</md:fullname>
+      <md:email>info@openstaxcollege.org</md:email>
+    </md:person>
+  </md:actors>
+  <md:roles>
+    <md:role type="author">OpenStaxCollege</md:role>
+    <md:role type="maintainer">OpenStaxCollege cnxap</md:role>
+    <md:role type="licensor">OSCRiceUniversity</md:role>
+  </md:roles>
+  <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>
+  <!-- For information on license requirements for use or modification, see license url in the
+       above <md:license> element.
+       For information on formatting required attribution, see the URL:
+         CONTENT_URL/content_info#cnx_cite_header
+       where CONTENT_URL is the value provided above in the <md:content-url> element.
+  -->
+  <md:keywordlist>
+    <md:keyword>abnormal heart rate</md:keyword>
+    <md:keyword>afterload</md:keyword>
+    <md:keyword>anastomosis</md:keyword>
+    <md:keyword>anterior cardiac vein</md:keyword>
+    <md:keyword>anterior interventricular artery</md:keyword>
+    <md:keyword>anterior interventricular sulcus</md:keyword>
+    <md:keyword>aortic valve</md:keyword>
+    <md:keyword>artificial pacemaker</md:keyword>
+    <md:keyword>atrial diastole</md:keyword>
+    <md:keyword>atrial reflex</md:keyword>
+    <md:keyword>atrial systole</md:keyword>
+    <md:keyword>atrioventricular bundle</md:keyword>
+    <md:keyword>atrioventricular bundle branch</md:keyword>
+    <md:keyword>atrioventricular node</md:keyword>
+    <md:keyword>atrioventricular septum</md:keyword>
+    <md:keyword>atrioventricular valve</md:keyword>
+    <md:keyword>atrium</md:keyword>
+    <md:keyword>auricle</md:keyword>
+    <md:keyword>autonomic innervation of the heart</md:keyword>
+    <md:keyword>autonomic tone</md:keyword>
+    <md:keyword>autorhythmicity</md:keyword>
+    <md:keyword>AV</md:keyword>
+    <md:keyword>Bachmann’s bundle</md:keyword>
+    <md:keyword>Bainbridge reflex</md:keyword>
+    <md:keyword>baroreceptor reflex</md:keyword>
+    <md:keyword>bicuspid valve</md:keyword>
+    <md:keyword>bradycardia</md:keyword>
+    <md:keyword>broken heart syndrome</md:keyword>
+    <md:keyword>bulbus cordis</md:keyword>
+    <md:keyword>bundle of His</md:keyword>
+    <md:keyword>cardiac cycle</md:keyword>
+    <md:keyword>cardiac muscle</md:keyword>
+    <md:keyword>cardiac muscle structure</md:keyword>
+    <md:keyword>cardiac notch</md:keyword>
+    <md:keyword>cardiac output</md:keyword>
+    <md:keyword>cardiac physiology</md:keyword>
+    <md:keyword>cardiac reflex</md:keyword>
+    <md:keyword>cardiac reserve</md:keyword>
+    <md:keyword>cardiac skeleton</md:keyword>
+    <md:keyword>cardiac tamponade</md:keyword>
+    <md:keyword>cardiogenic area</md:keyword>
+    <md:keyword>cardiogenic cord</md:keyword>
+    <md:keyword>cardiomyocyte</md:keyword>
+    <md:keyword>cardiopulmonary resuscitation</md:keyword>
+    <md:keyword>chordae tendineae</md:keyword>
+    <md:keyword>circumflex artery</md:keyword>
+    <md:keyword>CO</md:keyword>
+    <md:keyword>conduction system firing</md:keyword>
+    <md:keyword>congenital heart defect</md:keyword>
+    <md:keyword>coronary artery</md:keyword>
+    <md:keyword>coronary sinus</md:keyword>
+    <md:keyword>coronary sulcus</md:keyword>
+    <md:keyword>coronary vein</md:keyword>
+    <md:keyword>CPR</md:keyword>
+    <md:keyword>defibrillator</md:keyword>
+    <md:keyword>diastole</md:keyword>
+    <md:keyword>dub or second heart sound S2</md:keyword>
+    <md:keyword>ECG</md:keyword>
+    <md:keyword>ECG abnormality</md:keyword>
+    <md:keyword>ECG lead placement</md:keyword>
+    <md:keyword>ECG tracing</md:keyword>
+    <md:keyword>EDV</md:keyword>
+    <md:keyword>ejection fraction</md:keyword>
+    <md:keyword>electrical activity</md:keyword>
+    <md:keyword>electrocardiogram</md:keyword>
+    <md:keyword>end diastolic volume</md:keyword>
+    <md:keyword>endocardial tube</md:keyword>
+    <md:keyword>endocardium</md:keyword>
+    <md:keyword>endothelium</md:keyword>
+    <md:keyword>end systolic volume</md:keyword>
+    <md:keyword>epicardial coronary artery</md:keyword>
+    <md:keyword>epicardium</md:keyword>
+    <md:keyword>Ernest Starling</md:keyword>
+    <md:keyword>ESV</md:keyword>
+    <md:keyword>external automated defibrillator</md:keyword>
+    <md:keyword>filling time</md:keyword>
+    <md:keyword>foramen ovale</md:keyword>
+    <md:keyword>fossa ovalis</md:keyword>
+    <md:keyword>Frank-Starling mechanism</md:keyword>
+    <md:keyword>great cardiac vein</md:keyword>
+    <md:keyword>heart block</md:keyword>
+    <md:keyword>heart bulge</md:keyword>
+    <md:keyword>heart conduction system</md:keyword>
+    <md:keyword>heart development</md:keyword>
+    <md:keyword>heart impulse conduction</md:keyword>
+    <md:keyword>heart rate</md:keyword>
+    <md:keyword>heart sound</md:keyword>
+    <md:keyword>HR</md:keyword>
+    <md:keyword>hypertrophic cardiomyopathy</md:keyword>
+    <md:keyword>inferior vena cava</md:keyword>
+    <md:keyword>interatrial band</md:keyword>
+    <md:keyword>interatrial septum</md:keyword>
+    <md:keyword>intercalated disc</md:keyword>
+    <md:keyword>internodal pathway</md:keyword>
+    <md:keyword>interventricular septum</md:keyword>
+    <md:keyword>isovolumic contraction</md:keyword>
+    <md:keyword>isovolumic ventricular relaxation phase</md:keyword>
+    <md:keyword>left atrioventricular valve</md:keyword>
+    <md:keyword>marginal artery</md:keyword>
+    <md:keyword>mesoderm</md:keyword>
+    <md:keyword>mesothelium</md:keyword>
+    <md:keyword>middle cardiac vein</md:keyword>
+    <md:keyword>mitral valve</md:keyword>
+    <md:keyword>moderator band</md:keyword>
+    <md:keyword>murmur</md:keyword>
+    <md:keyword>myocardial conducting cell</md:keyword>
+    <md:keyword>myocardial contractile cell</md:keyword>
+    <md:keyword>myocardium</md:keyword>
+    <md:keyword>NE</md:keyword>
+    <md:keyword>negative inotropic factor</md:keyword>
+    <md:keyword>norepinephrine</md:keyword>
+    <md:keyword>Otto Frank</md:keyword>
+    <md:keyword>pacemaker</md:keyword>
+    <md:keyword>papillary muscle</md:keyword>
+    <md:keyword>pectinate muscle</md:keyword>
+    <md:keyword>pericardial cavity</md:keyword>
+    <md:keyword>pericardial sac</md:keyword>
+    <md:keyword>pericardium</md:keyword>
+    <md:keyword>positive inotropic factor</md:keyword>
+    <md:keyword>posterior cardiac vein</md:keyword>
+    <md:keyword>posterior interventricular artery</md:keyword>
+    <md:keyword>posterior interventricular sulcus</md:keyword>
+    <md:keyword>preload</md:keyword>
+    <md:keyword>prepotential depolarization</md:keyword>
+    <md:keyword>primitive atrium</md:keyword>
+    <md:keyword>primitive heart tube</md:keyword>
+    <md:keyword>primitive ventricle</md:keyword>
+    <md:keyword>pulmonary artery</md:keyword>
+    <md:keyword>pulmonary capillary</md:keyword>
+    <md:keyword>pulmonary circuit</md:keyword>
+    <md:keyword>pulmonary trunk</md:keyword>
+    <md:keyword>pulmonary valve</md:keyword>
+    <md:keyword>pulmonary vein</md:keyword>
+    <md:keyword>Purkinje fiber</md:keyword>
+    <md:keyword>P wave</md:keyword>
+    <md:keyword>QRS complex</md:keyword>
+    <md:keyword>resting cardiac output</md:keyword>
+    <md:keyword>right atrioventricular valve</md:keyword>
+    <md:keyword>right atrium</md:keyword>
+    <md:keyword>right ventricle</md:keyword>
+    <md:keyword>SA</md:keyword>
+    <md:keyword>semilunar valve</md:keyword>
+    <md:keyword>septum</md:keyword>
+    <md:keyword>septum primum</md:keyword>
+    <md:keyword>sinoatrial node</md:keyword>
+    <md:keyword>sinus rhythm</md:keyword>
+    <md:keyword>sinus venosus</md:keyword>
+    <md:keyword>small cardiac vein</md:keyword>
+    <md:keyword>spontaneous depolarization</md:keyword>
+    <md:keyword>stethoscope placement</md:keyword>
+    <md:keyword>stroke volume</md:keyword>
+    <md:keyword>sulcus</md:keyword>
+    <md:keyword>superior vena cava</md:keyword>
+    <md:keyword>SV</md:keyword>
+    <md:keyword>systemic circuit</md:keyword>
+    <md:keyword>systole</md:keyword>
+    <md:keyword>tachycardia</md:keyword>
+    <md:keyword>target heart rate</md:keyword>
+    <md:keyword>trabeculae carneae</md:keyword>
+    <md:keyword>tricuspid valve</md:keyword>
+    <md:keyword>truncus arteriosus</md:keyword>
+    <md:keyword>T wave</md:keyword>
+    <md:keyword>valve</md:keyword>
+    <md:keyword>ventricle</md:keyword>
+    <md:keyword>ventricular diastole</md:keyword>
+    <md:keyword>ventricular ejection phase</md:keyword>
+    <md:keyword>ventricular systole</md:keyword>
+  </md:keywordlist>
+  <md:subjectlist>
+    <md:subject>Science and Technology</md:subject>
+  </md:subjectlist>
+  <md:abstract/>
+  <md:language>en</md:language>
+  <!-- WARNING! The 'metadata' section is read only. Do not edit above.
+       Changes to the metadata section in the source will not be saved. -->
+</metadata>
+
+<content>
+<?cnx.eoc class="summary" title="Chapter Review"?>
+<?cnx.eoc class="interactive-exercise" title="Interactive Link Questions"?>
+<?cnx.eoc class="multiple-choice" title="Review Questions" ?>
+<?cnx.eoc class="free-response" title="Critical Thinking Questions"?>
+
+<figure id="fig-ch20_00_01" class="splash"><title>Human Heart</title><media id="fs-id2001437" alt="This photo shows a human heart.">
+<image mime-type="image/jpg" src="2000_Human_Heart_Photo.jpg" width="500"/>
+</media>
+<caption>This artist’s conception of the human heart suggests a powerful engine—not inappropriate for a muscular pump that keeps the body continually supplied with blood. (credit: Patrick J. Lynch)</caption></figure>
+
+<note id="fs-id1169723562101" class="chapter-objectives">
+<title>Chapter Objectives</title>
+<para id="fs-id1169710929010"> After studying this chapter, you will be able to:
+</para>
+<list id="fs-id1169715901379">
+<item>Identify and describe the interior and exterior parts of the human heart</item>
+<item>Describe the path of blood through the cardiac circuits</item>
+<item>Describe the size, shape, and location of the heart</item>
+<item>Compare cardiac muscle to skeletal and smooth muscle</item>
+<item>Explain the cardiac conduction system</item>
+<item>Describe the process and purpose of an electrocardiogram</item>
+<item>Explain the cardiac cycle</item>
+<item>Calculate cardiac output</item>
+<item>Describe the effects of exercise on cardiac output and heart rate</item>
+<item>Name the centers of the brain that control heart rate and describe their function</item>
+<item>Identify other factors affecting heart rate</item>
+<item>Describe fetal heart development</item>
+</list>
+</note>
+
+<para id="fs-id3033659">In this chapter, you will explore the remarkable pump that propels the blood into the vessels. There is no single better word to describe the function of the heart other than “pump,” since its contraction develops the pressure that ejects blood into the major vessels: the aorta and pulmonary trunk. From these vessels, the blood is distributed to the remainder of the body. Although the connotation of the term “pump” suggests a mechanical device made of steel and plastic, the anatomical structure is a living, sophisticated muscle. As you read this chapter, try to keep these twin concepts in mind: pump and muscle.</para>
+<para id="fs-id2674748">Although the term “heart” is an English word, cardiac (heart-related) terminology can be traced back to the Latin term, “kardia.” Cardiology is the study of the heart, and cardiologists are the physicians who deal primarily with the heart.</para>
+</content>
+</document>

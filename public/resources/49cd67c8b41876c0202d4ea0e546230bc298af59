@@ -1,0 +1,176 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:q="http://cnx.rice.edu/qml/1.0" id="new" cnxml-version="0.7" module-id="new" class="introduction">
+
+<title>Introduction</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+  <!-- WARNING! The 'metadata' section is read only. Do not edit below.
+       Changes to the metadata section in the source will not be saved. -->
+  <md:repository>http://legacy.cnx.org/content</md:repository>
+  <md:content-url>http://legacy.cnx.org/content/m45996/latest</md:content-url>
+  <md:content-id>m45996</md:content-id>
+  <md:title>Introduction</md:title>
+  <md:version>1.8</md:version>
+  <md:created>2013/03/19 15:00:06 -0500</md:created>
+  <md:revised>2018/10/17 09:34:46 -0500</md:revised>
+  <md:actors>
+    <md:organization userid="OpenStaxCollege">
+      <md:shortname>OpenStax</md:shortname>
+      <md:fullname>OpenStax</md:fullname>
+      <md:email>info@openstax.org</md:email>
+    </md:organization>
+    <md:person userid="OSCRiceUniversity">
+      <md:firstname>Rice</md:firstname>
+      <md:surname>University</md:surname>
+      <md:fullname>Rice University</md:fullname>
+      <md:email>info@openstaxcollege.org</md:email>
+    </md:person>
+    <md:person userid="cnxap">
+      <md:firstname>CNX</md:firstname>
+      <md:surname>Anatomy and Physiology</md:surname>
+      <md:fullname>OpenStax Anatomy and Physiology</md:fullname>
+      <md:email>info@openstaxcollege.org</md:email>
+    </md:person>
+  </md:actors>
+  <md:roles>
+    <md:role type="author">OpenStaxCollege</md:role>
+    <md:role type="maintainer">OpenStaxCollege cnxap</md:role>
+    <md:role type="licensor">OSCRiceUniversity</md:role>
+  </md:roles>
+  <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>
+  <!-- For information on license requirements for use or modification, see license url in the
+       above <md:license> element.
+       For information on formatting required attribution, see the URL:
+         CONTENT_URL/content_info#cnx_cite_header
+       where CONTENT_URL is the value provided above in the <md:content-url> element.
+  -->
+  <md:keywordlist>
+    <md:keyword>acid</md:keyword>
+    <md:keyword>activation energy</md:keyword>
+    <md:keyword>adenosine triphosphate</md:keyword>
+    <md:keyword>amino acid</md:keyword>
+    <md:keyword>amino acid structure</md:keyword>
+    <md:keyword>anion</md:keyword>
+    <md:keyword>atom</md:keyword>
+    <md:keyword>atomic number</md:keyword>
+    <md:keyword>atomic structure</md:keyword>
+    <md:keyword>ATP</md:keyword>
+    <md:keyword>base</md:keyword>
+    <md:keyword>bond</md:keyword>
+    <md:keyword>buffer</md:keyword>
+    <md:keyword>carbohydrate</md:keyword>
+    <md:keyword>carbohydrate function</md:keyword>
+    <md:keyword>catalyst</md:keyword>
+    <md:keyword>cation</md:keyword>
+    <md:keyword>cellulose</md:keyword>
+    <md:keyword>chemical bond</md:keyword>
+    <md:keyword>chemical energy</md:keyword>
+    <md:keyword>chemical reaction</md:keyword>
+    <md:keyword>colloid</md:keyword>
+    <md:keyword>compound</md:keyword>
+    <md:keyword>concentration</md:keyword>
+    <md:keyword>covalent bond</md:keyword>
+    <md:keyword>decomposition reaction</md:keyword>
+    <md:keyword>dehydration synthesis</md:keyword>
+    <md:keyword>denaturation</md:keyword>
+    <md:keyword>deoxyribonucleic acid</md:keyword>
+    <md:keyword>disaccharide</md:keyword>
+    <md:keyword>disulfide bond</md:keyword>
+    <md:keyword>DNA</md:keyword>
+    <md:keyword>electrical energy</md:keyword>
+    <md:keyword>electron</md:keyword>
+    <md:keyword>electron shell</md:keyword>
+    <md:keyword>element</md:keyword>
+    <md:keyword>enzymatic reaction</md:keyword>
+    <md:keyword>enzyme</md:keyword>
+    <md:keyword>exchange reaction</md:keyword>
+    <md:keyword>fatty acid shape</md:keyword>
+    <md:keyword>functional group</md:keyword>
+    <md:keyword>glycogen</md:keyword>
+    <md:keyword>hydrogen bond</md:keyword>
+    <md:keyword>hydrogen isotope</md:keyword>
+    <md:keyword>hydrolysis</md:keyword>
+    <md:keyword>inorganic compound</md:keyword>
+    <md:keyword>interventional radiologist</md:keyword>
+    <md:keyword>ion</md:keyword>
+    <md:keyword>ionic bond</md:keyword>
+    <md:keyword>isotope</md:keyword>
+    <md:keyword>kinetic energy</md:keyword>
+    <md:keyword>lipid</md:keyword>
+    <md:keyword>macromolecule</md:keyword>
+    <md:keyword>mass number</md:keyword>
+    <md:keyword>matter</md:keyword>
+    <md:keyword>mechanical energy</md:keyword>
+    <md:keyword>molecule</md:keyword>
+    <md:keyword>monosaccharide</md:keyword>
+    <md:keyword>neutron</md:keyword>
+    <md:keyword>nonpolar covalent bond</md:keyword>
+    <md:keyword>nucleotide</md:keyword>
+    <md:keyword>organic compound</md:keyword>
+    <md:keyword>peptide bond</md:keyword>
+    <md:keyword>periodic table of the elements</md:keyword>
+    <md:keyword>PET</md:keyword>
+    <md:keyword>PET scan</md:keyword>
+    <md:keyword>pH</md:keyword>
+    <md:keyword>phospholipid</md:keyword>
+    <md:keyword>phosphorylation</md:keyword>
+    <md:keyword>pH scale</md:keyword>
+    <md:keyword>polar covalent bond</md:keyword>
+    <md:keyword>polar molecule</md:keyword>
+    <md:keyword>polysaccharide</md:keyword>
+    <md:keyword>positron emission tomography</md:keyword>
+    <md:keyword>potential energy</md:keyword>
+    <md:keyword>product</md:keyword>
+    <md:keyword>prostaglandin</md:keyword>
+    <md:keyword>protein</md:keyword>
+    <md:keyword>protein microstructure</md:keyword>
+    <md:keyword>protein shape</md:keyword>
+    <md:keyword>proton</md:keyword>
+    <md:keyword>purine</md:keyword>
+    <md:keyword>pyrimidine</md:keyword>
+    <md:keyword>radiant energy</md:keyword>
+    <md:keyword>radioactive isotope</md:keyword>
+    <md:keyword>reactant</md:keyword>
+    <md:keyword>ribonucleic acid</md:keyword>
+    <md:keyword>RNA</md:keyword>
+    <md:keyword>solute concentration</md:keyword>
+    <md:keyword>solution</md:keyword>
+    <md:keyword>starch</md:keyword>
+    <md:keyword>steroid</md:keyword>
+    <md:keyword>substrate</md:keyword>
+    <md:keyword>suspension</md:keyword>
+    <md:keyword>synthesis reaction</md:keyword>
+    <md:keyword>triglyceride</md:keyword>
+    <md:keyword>valence shell</md:keyword>
+  </md:keywordlist>
+  <md:subjectlist>
+    <md:subject>Science and Technology</md:subject>
+  </md:subjectlist>
+  <md:abstract/>
+  <md:language>en</md:language>
+  <!-- WARNING! The 'metadata' section is read only. Do not edit above.
+       Changes to the metadata section in the source will not be saved. -->
+</metadata>
+
+<content>
+<?cnx.eoc class="summary" title="Chapter Review"?>
+<?cnx.eoc class="interactive-exercise" title="Interactive Link Questions"?>
+<?cnx.eoc class="multiple-choice" title="Review Questions" ?>
+<?cnx.eoc class="free-response" title="Critical Thinking Questions"?>
+
+<figure id="fig-ch02_00_01" class="splash"><title>Human DNA </title><media id="fs-id1254484" alt="This figure shows a double helix.">
+<image mime-type="image/jpg" src="200_DNA_Double_Helix-02.jpg" width="500"/>
+</media>
+<caption>Human DNA is described as a double helix that resembles a molecular spiral staircase. In humans the DNA is organized into 46 chromosomes.</caption></figure><note id="eip-142" class="chapter-objectives"><title>Chapter Objectives</title><para id="eip-id1165581627026">After studying this chapter, you will be able to: </para>
+<list id="eip-id1165578232768">
+<item>Describe the fundamental composition of matter</item>
+<item>Identify the three subatomic particles</item>
+<item>Identify the four most abundant elements in the body</item>
+<item>Explain the relationship between an atom’s number of electrons and its relative stability</item>
+<item>Distinguish between ionic bonds, covalent bonds, and hydrogen bonds</item>
+<item>Explain how energy is invested, stored, and released via chemical reactions, particularly those reactions that are critical to life</item>
+<item>Explain the importance of the inorganic compounds that contribute to life, such as water, salts, acids, and bases</item>
+<item>Compare and contrast the four important classes of organic (carbon-based) compounds—proteins, carbohydrates, lipids and nucleic acids—according to their composition and functional importance to human life</item>
+</list></note><para id="fs-id2033651">The smallest, most fundamental material components of the human body are basic chemical elements. In fact, chemicals called nucleotide bases are the foundation of the genetic code with the instructions on how to build and maintain the human body from conception through old age. There are about three billion of these base pairs in human DNA.</para>
+<para id="fs-id1478322">Human chemistry includes organic molecules (carbon-based) and biochemicals (those produced by the body). Human chemistry also includes elements. In fact, life cannot exist without many of the elements that are part of the earth. All of the elements that contribute to chemical reactions, to the transformation of energy, and to electrical activity and muscle contraction—elements that include phosphorus, carbon, sodium, and calcium, to name a few—originated in stars.</para>
+<para id="fs-id1406290">These elements, in turn, can form both the inorganic and organic chemical compounds important to life, including, for example, water, glucose, and proteins. This chapter begins by examining elements and how the structures of atoms, the basic units of matter, determine the characteristics of elements by the number of protons, neutrons, and electrons in the atoms. The chapter then builds the framework of life from there.</para>
+</content>
+</document>

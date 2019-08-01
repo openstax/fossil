@@ -1,0 +1,30 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head xmlns:c="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml"><title>Introduction</title><meta name="created-time" content="2018/09/06 17:09:06 -0500"/><meta name="revised-time" content="2018/10/19 10:45:00 -0500"/><meta name="author" content="OpenStaxCollege"/><meta name="licensor" content="OSCRiceUniversity"/><meta name="license" content="http://creativecommons.org/licenses/by/4.0/"/><meta name="keywords" content="kinetics"/><meta name="subject" content="Science and Technology"/><meta name="subject" content="Science and Technology"/><meta name="subject" content="Science and Technology"/><meta name="subject" content="Science and Technology"/></head>
+
+<body xmlns="http://www.w3.org/1999/xhtml" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:qml="http://cnx.rice.edu/qml/1.0" xmlns:mod="http://cnx.rice.edu/#moduleIds" xmlns:bib="http://bibtexml.sf.net/" xmlns:data="http://www.w3.org/TR/html5/dom.html#custom-data-attribute" class="introduction" data-cnxml-to-html-ver="1.5.0"><div data-type="document-title">Introduction</div><cnx-pi data-type="cnx.flag.introduction">
+        class="introduction"
+      </cnx-pi><div data-type="abstract"><ul>
+<li>Chemical Reaction Rates</li>
+<li>Factors Affecting Reaction Rates</li>
+<li>Rate Laws</li>
+<li>Integrated Rate Laws</li>
+<li>Collision Theory</li>
+<li>Reaction Mechanisms</li>
+<li>Catalysis</li>
+</ul></div>
+<cnx-pi data-type="cnx.eoc">class="key-equations" title="Key-Equations"</cnx-pi>
+<cnx-pi data-type="cnx.eoc">class="summary" title="Chapter Summary"</cnx-pi>
+<cnx-pi data-type="cnx.eoc">class="exercises" title="Exercises"</cnx-pi>
+<cnx-pi data-type="cnx.eoc">class="references" title="References"</cnx-pi>
+<figure id="CNX_Chem_12_00_Ectotherm" class="splash"><figcaption>An agama lizard basks in the sun. As its body warms, the chemical reactions of its metabolism speed up.</figcaption>
+<span data-type="media" id="fs-idm5395072" data-alt="A photograph shows the head and part of the body of a lizard on a rock in a well-lit area.">
+<img src="/resources/8fc507a6e0d6fb03a39edcf1c65bf17e708e7236/CNX_Chem_12_00_Ectotherm.jpg" data-media-type="image/jpeg" alt="A photograph shows the head and part of the body of a lizard on a rock in a well-lit area."/>
+</span>
+
+</figure>
+<p id="fs-idp115543984">The lizard in the photograph is not simply enjoying the sunshine or working on its tan. The heat from the sun&#8217;s rays is critical to the lizard&#8217;s survival. A warm lizard can move faster than a cold one because the chemical reactions that allow its muscles to move occur more rapidly at higher temperatures. A cold lizard is a slower lizard and an easier meal for predators.</p>
+<p id="fs-idp54243872">From baking a cake to determining the useful lifespan of a bridge, rates of chemical reactions play important roles in our understanding of processes that involve chemical changes. Two questions are typically posed when planning to carry out a chemical reaction. The first is: &#8220;Will the reaction produce the desired products in useful quantities?&#8221; The second question is: &#8220;How rapidly will the reaction occur?&#8221; A third question is often asked when investigating reactions in greater detail: &#8220;What specific molecular-level processes take place as the reaction occurs?&#8221; Knowing the answer to this question is of practical importance when the yield or rate of a reaction needs to be controlled.</p>
+<p id="fs-idp260947472">The study of chemical kinetics concerns the second and third questions&#8212;that is, the rate at which a reaction yields products and the molecular-scale means by which a reaction occurs. This chapter examines the factors that influence the rates of chemical reactions, the mechanisms by which reactions proceed, and the quantitative techniques used to describe the rates at which reactions occur.</p>
+</body>
+
+</html>

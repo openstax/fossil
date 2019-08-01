@@ -1,0 +1,72 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:q="http://cnx.rice.edu/qml/1.0" id="new" cnxml-version="0.7" module-id="new" class="introduction">
+
+<title>Introduction</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+  <!-- WARNING! The 'metadata' section is read only. Do not edit below.
+       Changes to the metadata section in the source will not be saved. -->
+  <md:repository>http://legacy.cnx.org/content</md:repository>
+  <md:content-url>http://legacy.cnx.org/content/m68699/latest</md:content-url>
+  <md:content-id>m68699</md:content-id>
+  <md:title>Introduction</md:title>
+  <md:version>1.5</md:version>
+  <md:created>2018/09/06 15:45:07 -0500</md:created>
+  <md:revised>2018/10/19 10:33:08 -0500</md:revised>
+  <md:actors>
+    <md:person userid="cnxchem2">
+      <md:firstname>OpenStax</md:firstname>
+      <md:surname>Chemistry 2e</md:surname>
+      <md:fullname>OpenStax Chemistry 2e</md:fullname>
+      <md:email>info@openstax.org</md:email>
+    </md:person>
+    <md:organization userid="OpenStaxCollege">
+      <md:shortname>OpenStax</md:shortname>
+      <md:fullname>OpenStax</md:fullname>
+      <md:email>info@openstax.org</md:email>
+    </md:organization>
+    <md:person userid="OSCRiceUniversity">
+      <md:firstname>Rice</md:firstname>
+      <md:surname>University</md:surname>
+      <md:fullname>Rice University</md:fullname>
+      <md:email>info@openstaxcollege.org</md:email>
+    </md:person>
+  </md:actors>
+  <md:roles>
+    <md:role type="author">OpenStaxCollege</md:role>
+    <md:role type="maintainer">cnxchem2 OpenStaxCollege</md:role>
+    <md:role type="licensor">OSCRiceUniversity</md:role>
+  </md:roles>
+  <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
+  <!-- For information on license requirements for use or modification, see license url in the
+       above <md:license> element.
+       For information on formatting required attribution, see the URL:
+         CONTENT_URL/content_info#cnx_cite_header
+       where CONTENT_URL is the value provided above in the <md:content-url> element.
+  -->
+  <md:keywordlist>
+    <md:keyword>mixtures</md:keyword>
+    <md:keyword>solutions</md:keyword>
+    <md:keyword>stoichiometry</md:keyword>
+  </md:keywordlist>
+  <md:subjectlist>
+    <md:subject>Science and Technology</md:subject>
+    <md:subject>Science and Technology</md:subject>
+    <md:subject>Science and Technology</md:subject>
+    <md:subject>Science and Technology</md:subject>
+  </md:subjectlist>
+  <md:abstract/>
+  <md:language>en</md:language>
+  <!-- WARNING! The 'metadata' section is read only. Do not edit above.
+       Changes to the metadata section in the source will not be saved. -->
+</metadata>
+
+<content>
+<?cnx.eoc class="key-equations" title="Key-Equations"?>
+<?cnx.eoc class="summary" title="Chapter Summary"?>
+<?cnx.eoc class="exercises" title="Exercises"?>
+<?cnx.eoc class="references" title="References"?>
+<figure id="CNX_Chem_03_00_Pool" class="splash"><media id="fs-idp99819248" alt="This figure shows a swimming pool that is full of water and surrounded by a concrete patio.">
+<image mime-type="image/jpeg" src="CNX_Chem_03_00_Pool.jpg"/>
+</media>
+
+<caption>The water in a swimming pool is a complex mixture of substances whose relative amounts must be carefully maintained to ensure the health and comfort of people using the pool. (credit: modification of work by Vic Brincat)</caption></figure><para id="fs-idp44036064">Swimming pools have long been a popular means of recreation, exercise, and physical therapy. Since it is impractical to refill large pools with fresh water on a frequent basis, pool water is regularly treated with chemicals to prevent the growth of harmful bacteria and algae. Proper pool maintenance requires regular additions of various chemical compounds in carefully measured amounts. For example, the relative amount of calcium ion, Ca<sup>2+</sup>, in the water should be maintained within certain limits to prevent eye irritation and avoid damage to the pool bed and plumbing. To maintain proper calcium levels, calcium cations are added to the water in the form of an ionic compound that also contains anions; thus, it is necessary to know both the relative amount of Ca<sup>2+</sup> in the compound and the volume of water in the pool in order to achieve the proper calcium level. Quantitative aspects of the composition of substances (such as the calcium-containing compound) and mixtures (such as the pool water) are the subject of this chapter.</para></content>
+</document>

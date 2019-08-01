@@ -1,0 +1,78 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:q="http://cnx.rice.edu/qml/1.0" id="new" cnxml-version="0.7" module-id="new" class="introduction">
+<title>Introduction</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+  <!-- WARNING! The 'metadata' section is read only. Do not edit below.
+       Changes to the metadata section in the source will not be saved. -->
+  <md:repository>http://legacy.cnx.org/content</md:repository>
+  <md:content-url>http://legacy.cnx.org/content/m68796/latest</md:content-url>
+  <md:content-id>m68796</md:content-id>
+  <md:title>Introduction</md:title>
+  <md:version>1.5</md:version>
+  <md:created>2018/09/06 17:20:42 -0500</md:created>
+  <md:revised>2018/10/19 10:46:32 -0500</md:revised>
+  <md:actors>
+    <md:person userid="cnxchem2">
+      <md:firstname>OpenStax</md:firstname>
+      <md:surname>Chemistry 2e</md:surname>
+      <md:fullname>OpenStax Chemistry 2e</md:fullname>
+      <md:email>info@openstax.org</md:email>
+    </md:person>
+    <md:organization userid="OpenStaxCollege">
+      <md:shortname>OpenStax</md:shortname>
+      <md:fullname>OpenStax</md:fullname>
+      <md:email>info@openstax.org</md:email>
+    </md:organization>
+    <md:person userid="OSCRiceUniversity">
+      <md:firstname>Rice</md:firstname>
+      <md:surname>University</md:surname>
+      <md:fullname>Rice University</md:fullname>
+      <md:email>info@openstaxcollege.org</md:email>
+    </md:person>
+  </md:actors>
+  <md:roles>
+    <md:role type="author">OpenStaxCollege</md:role>
+    <md:role type="maintainer">cnxchem2 OpenStaxCollege</md:role>
+    <md:role type="licensor">OSCRiceUniversity</md:role>
+  </md:roles>
+  <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
+  <!-- For information on license requirements for use or modification, see license url in the
+       above <md:license> element.
+       For information on formatting required attribution, see the URL:
+         CONTENT_URL/content_info#cnx_cite_header
+       where CONTENT_URL is the value provided above in the <md:content-url> element.
+  -->
+  <md:keywordlist>
+    <md:keyword>equilibria</md:keyword>
+    <md:keyword>Equilibrium</md:keyword>
+  </md:keywordlist>
+  <md:subjectlist>
+    <md:subject>Science and Technology</md:subject>
+    <md:subject>Science and Technology</md:subject>
+    <md:subject>Science and Technology</md:subject>
+    <md:subject>Science and Technology</md:subject>
+  </md:subjectlist>
+  <md:abstract><list>
+<item>Chemical Equilibria</item>
+<item>Equilibrium Constants</item>
+<item>Shifting Equilibria: Le Châtelier’s Principle</item>
+<item>Equilibrium Calculations</item>
+</list></md:abstract>
+  <md:language>en</md:language>
+  <!-- WARNING! The 'metadata' section is read only. Do not edit above.
+       Changes to the metadata section in the source will not be saved. -->
+</metadata>
+
+<content>
+<?cnx.eoc class="key-equations" title="Key-Equations"?>
+<?cnx.eoc class="summary" title="Chapter Summary"?>
+<?cnx.eoc class="exercises" title="Exercises"?>
+<?cnx.eoc class="references" title="References"?>
+<figure id="CNX_Chem_13_00_Blood" class="splash">
+<media id="fs-idm45772400" alt="An image depicts three tan squares, lying side-by-side along the upper left corner. Two of the same squares also lie side-by-side in the lower right corner. Each square has a black dot in the center. One of the squares is labeled, “C O subscript 2,” and has a double-headed arrow pointing from it to a red tube-like structure that runs between the squares across the image from the upper right to the lower left. This arrow is labeled, “C O subscript 2 dissolved in plasma.” The red tube has two round red shapes in it, and the upper one is labeled, “C O subscript 2 carried in red blood cells.” The gaps between the squares and the red tube are colored light blue. One of the squares along the top of the image is labeled, “C O subscript 2,” and is connected by a double-headed arrow to an equation in the red tube that is labeled, “C O subscript 2, a plus sign, H subscript 2 O, right-facing arrow, H subscript 2 C O subscript 3, right-facing arrow, H C O subscript 3 superscript negative sign, plus sign, H superscript positive sign.” The compound “H C O subscript 3 superscript negative sign” is then connected by a double-headed arrow to the space in the red tube and is labeled, “H C O subscript 3 superscript negative sign dissolved in plasma as carbonic acid.”">
+<image mime-type="image/jpeg" src="CNX_Chem_13_00_Blood.jpg"/>
+</media>
+<caption>Transport of carbon dioxide in the body involves several reversible chemical reactions, including hydrolysis and acid ionization (among others).</caption>
+</figure>
+<para id="fs-idp51855856">Imagine a beach populated with sunbathers and swimmers. As those basking in the sun get too hot, they enter the surf to swim and cool off. As the swimmers tire, they return to the beach to rest. If the rate at which sunbathers enter the surf were to equal the rate at which swimmers return to the sand, then the numbers (though not the identities) of sunbathers and swimmers would remain constant. This scenario illustrates a dynamic phenomenon known as <emphasis effect="italics">equilibrium</emphasis>, in which opposing processes occur at equal rates. Chemical and physical processes are subject to this phenomenon; these processes are at equilibrium when the forward and reverse reaction rates are equal. Equilibrium systems are pervasive in nature; the various reactions involving carbon dioxide dissolved in blood are examples (see <link target-id="CNX_Chem_13_00_Blood"/>). This chapter provides a thorough introduction to the essential aspects of chemical equilibria.</para>
+</content>
+</document>

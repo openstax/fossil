@@ -1,0 +1,2209 @@
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml"
+                xmlns:cnx="http://cnx.rice.edu/cnxml"
+                xmlns:cnxorg="http://cnx.rice.edu/system-info"
+                xmlns:md="http://cnx.rice.edu/mdml"
+                xmlns:col="http://cnx.rice.edu/collxml"
+                xmlns:cnxml="http://cnx.rice.edu/cnxml"
+                xmlns:m="http://www.w3.org/1998/Math/MathML"
+                xmlns:q="http://cnx.rice.edu/qml/1.0"
+                xmlns:xhtml="http://www.w3.org/1999/xhtml"
+                xmlns:bib="http://bibtexml.sf.net/"
+                xmlns:cc="http://web.resource.org/cc/"
+                xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+                xml:lang="en">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml"
+          mdml-version="0.5">
+  <!-- WARNING! The 'metadata' section is read only. Do not edit below.
+       Changes to the metadata section in the source will not be saved. -->
+
+  <md:repository>https://legacy.cnx.org/content</md:repository>
+  <md:content-url>https://legacy.cnx.org/content/col26069/1.4</md:content-url>
+  <md:content-id>col26069</md:content-id>
+  <md:title>Chemistry 2e DRAFT</md:title>
+  
+  
+  <md:version>1.4</md:version>
+  <md:created>2018/10/19 09:41:13.524 GMT-5</md:created>
+  <md:revised>2019/01/28 14:59:49.355 US/Central</md:revised>
+
+  <md:actors>
+    
+    
+    <md:person userid="cnxchem2">
+      <md:firstname>OpenStax</md:firstname>
+      <md:surname>Chemistry 2e</md:surname>
+      <md:fullname>OpenStax Chemistry 2e</md:fullname>
+      <md:email>info@openstax.org</md:email>
+    </md:person>
+    
+    
+    <md:organization userid="OpenStaxCollege">
+      <md:shortname>OpenStax</md:shortname>
+      <md:fullname>OpenStax</md:fullname>
+      <md:email>info@openstax.org</md:email>
+    </md:organization>
+    
+    
+    
+    
+    <md:person userid="OSCRiceUniversity">
+      <md:firstname>Rice</md:firstname>
+      <md:surname>University</md:surname>
+      <md:fullname>Rice University</md:fullname>
+      <md:email>info@openstaxcollege.org</md:email>
+    </md:person>
+    
+  </md:actors>
+  <md:roles>
+    <md:role type="author">OpenStaxCollege</md:role>
+    <md:role type="maintainer">OpenStaxCollege cnxchem2</md:role>
+    <md:role type="licensor">OSCRiceUniversity</md:role>
+    
+    
+  </md:roles>
+
+  <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
+  <!-- For information on license requirements for use or modification, see license url in the
+       above <md:license> element.
+       For information on formatting required attribution, see the URL:
+         CONTENT_URL/content_info#cnx_cite_header
+       where CONTENT_URL is the value provided above in the <md:content-url> element.
+  -->
+  
+  
+  
+  
+
+  
+
+  
+
+  <md:subjectlist>
+    <md:subject>Science and Technology</md:subject>
+  </md:subjectlist>
+
+  <md:abstract></md:abstract>
+
+  <md:language>en</md:language>
+
+  
+
+  
+  
+  
+  
+  
+
+  <!-- WARNING! The 'metadata' section is read only. Do not edit above.
+       Changes to the metadata section in the source will not be saved. -->
+</metadata>
+
+  <col:parameters>
+    <col:param name="real-imaginary-notation" value="font"/>
+    <col:param name="and-or-notation"
+               value="propositional-logic"/>
+    <col:param name="gradient-notation" value="text"/>
+    <col:param name="mean-notation" value="bar"/>
+    <col:param name="remainder-notation" value="text"/>
+    <col:param name="conjugate-notation" value="bar"/>
+    <col:param name="imaginary-i-notation" value="i"/>
+    <col:param name="scalar-product-notation"
+               value="angle-bracket"/>
+    <col:param name="print-font-size" value="10pt"/>
+    <col:param name="curl-notation" value="text"/>
+    <col:param name="for-all-equation-layout"
+               value="symbolic"/>
+    <col:param name="vector-notation" value="bold"/>
+    <col:param name="print-paper-size" value="8.5x11"/>
+    <col:param name="print-font" value="computer-modern"/>
+    <col:param name="print-style" value="chemistry"/>
+    <col:param name="print-paragraph-spacing"
+               value="compact"/>
+  </col:parameters>
+  
+  <col:content>
+    
+      <col:module document="m68662" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.6">
+        <md:title>Preface</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Essential Ideas</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m68663" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>Introduction</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m68664" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.6">
+        <md:title>Chemistry in Context</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m68667" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.6">
+        <md:title>Phases and Classification of Matter</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m68670" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>Physical and Chemical Properties</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m68674" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>Measurements</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m68690" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>Measurement Uncertainty, Accuracy, and Precision</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m68683" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.6">
+        <md:title>Mathematical Treatment of Measurement Results</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Atoms, Molecules, and Ions</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m68684" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>Introduction</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m68685" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>Early Ideas in Atomic Theory</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m68687" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>Evolution of Atomic Theory</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m68692" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.8">
+        <md:title>Atomic Structure and Symbolism</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m68693" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.6">
+        <md:title>Chemical Formulas</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m68695" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>The Periodic Table</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m68696" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>Molecular and Ionic Compounds</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m68698" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>Chemical Nomenclature</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Composition of Substances and Solutions</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m68699" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>Introduction</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m68700" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.7">
+        <md:title>Formula Mass and the Mole Concept</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m68702" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.6">
+        <md:title>Determining Empirical and Molecular Formulas</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m68703" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.6">
+        <md:title>Molarity</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m68704" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.6">
+        <md:title>Other Units for Solution Concentrations</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Stoichiometry of Chemical Reactions</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m68730" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>Introduction</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m68709" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>Writing and Balancing Chemical Equations</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m68710" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.6">
+        <md:title>Classifying Chemical Reactions</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m68713" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>Reaction Stoichiometry</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m68714" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>Reaction Yields</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m68716" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>Quantitative Chemical Analysis</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Thermochemistry</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m68723" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>Introduction</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m68724" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>Energy Basics</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m68726" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.6">
+        <md:title>Calorimetry</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m68727" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.6">
+        <md:title>Enthalpy</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Electronic Structure and Periodic Properties of Elements</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m68728" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>Introduction</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m68729" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>Electromagnetic Energy</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m68732" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>The Bohr Model</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m68733" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.7">
+        <md:title>Development of Quantum Theory</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m68734" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.7">
+        <md:title>Electronic Structure of Atoms (Electron Configurations)</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m68735" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.6">
+        <md:title>Periodic Variations in Element Properties</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Chemical Bonding and Molecular Geometry</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m68736" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>Introduction</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m68737" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>Ionic Bonding</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m68738" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>Covalent Bonding</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m68739" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.8">
+        <md:title>Lewis Symbols and Structures</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m68740" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.6">
+        <md:title>Formal Charges and Resonance</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m68741" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.6">
+        <md:title>Strengths of Ionic and Covalent Bonds</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m68742" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.9">
+        <md:title>Molecular Structure and Polarity</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Advanced Theories of Covalent Bonding</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m68743" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>Introduction</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m68744" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.6">
+        <md:title>Valence Bond Theory</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m68745" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.6">
+        <md:title>Hybrid Atomic Orbitals</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m68746" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.7">
+        <md:title>Multiple Bonds</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m68747" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>Molecular Orbital Theory</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Gases</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m68748" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>Introduction</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m68750" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.7">
+        <md:title>Gas Pressure</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m68751" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.6">
+        <md:title>Relating Pressure, Volume, Amount, and Temperature: The Ideal Gas Law</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m68752" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.6">
+        <md:title>Stoichiometry of Gaseous Substances, Mixtures, and Reactions</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m68754" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.6">
+        <md:title>Effusion and Diffusion of Gases</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m68758" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.6">
+        <md:title>The Kinetic-Molecular Theory</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m68759" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>Non-Ideal Gas Behavior</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Liquids and Solids</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m68760" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>Introduction</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m68761" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>Intermolecular Forces</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m68764" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.7">
+        <md:title>Properties of Liquids</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m68768" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.7">
+        <md:title>Phase Transitions</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m68769" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.7">
+        <md:title>Phase Diagrams</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m68770" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>The Solid State of Matter</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m68773" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.7">
+        <md:title>Lattice Structures in Crystalline Solids</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Solutions and Colloids</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m68776" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>Introduction</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m68778" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>The Dissolution Process</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m68781" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>Electrolytes</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m68782" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>Solubility</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m68783" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.6">
+        <md:title>Colligative Properties</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m68784" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>Colloids</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Kinetics</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m68785" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>Introduction</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m68786" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>Chemical Reaction Rates</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m68787" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>Factors Affecting Reaction Rates</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m68789" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.7">
+        <md:title>Rate Laws</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m68791" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.7">
+        <md:title>Integrated Rate Laws</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m68793" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.9">
+        <md:title>Collision Theory</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m68794" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>Reaction Mechanisms</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m68795" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.6">
+        <md:title>Catalysis</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Fundamental Equilibrium Concepts</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m68796" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>Introduction</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m68797" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>Chemical Equilibria</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m68798" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.6">
+        <md:title>Equilibrium Constants</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m68799" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.6">
+        <md:title>Shifting Equilibria: Le Châtelier’s Principle</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m68801" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.7">
+        <md:title>Equilibrium Calculations</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Acid-Base Equilibria</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m68802" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.6">
+        <md:title>Introduction</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m68803" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.7">
+        <md:title>Brønsted-Lowry Acids and Bases</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m68804" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.6">
+        <md:title>pH and pOH</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m68805" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.9">
+        <md:title>Relative Strengths of Acids and Bases</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m68806" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>Hydrolysis of Salts</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m68807" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>Polyprotic Acids</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m68808" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.6">
+        <md:title>Buffers</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m68809" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.6">
+        <md:title>Acid-Base Titrations</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Equilibria of Other Reaction Classes</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m68810" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>Introduction</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m68811" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.6">
+        <md:title>Precipitation and Dissolution</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m68813" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.7">
+        <md:title>Lewis Acids and Bases</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m68814" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.7">
+        <md:title>Coupled Equilibria</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Thermodynamics</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m68815" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>Introduction</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m68816" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>Spontaneity</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m68817" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>Entropy</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m68818" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>The Second and Third Laws of Thermodynamics</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m68819" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.6">
+        <md:title>Free Energy</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Electrochemistry</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m68820" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>Introduction</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m68821" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>Review of Redox Chemistry</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m68822" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>Galvanic Cells</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m68823" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.6">
+        <md:title>Electrode and Cell Potentials</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m68824" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>Potential, Free Energy, and Equilibrium</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m68825" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>Batteries and Fuel Cells</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m68826" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>Corrosion</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m68827" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>Electrolysis</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Representative Metals, Metalloids, and Nonmetals</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m68828" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>Introduction</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m68829" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>Periodicity</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m68830" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>Occurrence and Preparation of the Representative Metals</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m68831" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.7">
+        <md:title>Structure and General Properties of the Metalloids</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m68832" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>Structure and General Properties of the Nonmetals</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m68833" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>Occurrence, Preparation, and Compounds of Hydrogen</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m68834" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>Occurrence, Preparation, and Properties of Carbonates</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m68835" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.7">
+        <md:title>Occurrence, Preparation, and Properties of Nitrogen</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m68836" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.7">
+        <md:title>Occurrence, Preparation, and Properties of Phosphorus</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m68837" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>Occurrence, Preparation, and Compounds of Oxygen</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m68838" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.6">
+        <md:title>Occurrence, Preparation, and Properties of Sulfur</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m68839" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.7">
+        <md:title>Occurrence, Preparation, and Properties of Halogens</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m68840" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.6">
+        <md:title>Occurrence, Preparation, and Properties of the Noble Gases</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Transition Metals and Coordination Chemistry</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m68841" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>Introduction</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m68842" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.6">
+        <md:title>Occurrence, Preparation, and Properties of Transition Metals and Their Compounds</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m68843" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.6">
+        <md:title>Coordination Chemistry of Transition Metals</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m68844" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.6">
+        <md:title>Spectroscopic and Magnetic Properties of Coordination Compounds</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Organic Chemistry</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m68845" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>Introduction</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m68846" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.6">
+        <md:title>Hydrocarbons</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m68847" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.6">
+        <md:title>Alcohols and Ethers</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m68848" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.6">
+        <md:title>Aldehydes, Ketones, Carboxylic Acids, and Esters</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m68849" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.7">
+        <md:title>Amines and Amides</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Nuclear Chemistry</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m68850" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>Introduction</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m68851" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>Nuclear Structure and Stability</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m68852" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>Nuclear Equations</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m68854" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.6">
+        <md:title>Radioactive Decay</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m68856" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.6">
+        <md:title>Transmutation and Nuclear Energy</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m68857" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>Uses of Radioisotopes</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m68858" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>Biological Effects of Radiation</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      <col:module document="m68859" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.7">
+        <md:title>The Periodic Table</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m68860" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.6">
+        <md:title>Essential Mathematics</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m68861" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.6">
+        <md:title>Units and Conversion Factors</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m68862" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.6">
+        <md:title>Fundamental Physical Constants</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m68863" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.6">
+        <md:title>Water Properties</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m68864" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.6">
+        <md:title>Composition of Commercial Acids and Bases</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m68865" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.6">
+        <md:title>Standard Thermodynamic Properties for Selected Substances</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m68866" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.6">
+        <md:title>Ionization Constants of Weak Acids</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m68867" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.6">
+        <md:title>Ionization Constants of Weak Bases</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m68868" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.7">
+        <md:title>Solubility Products</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m68869" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.6">
+        <md:title>Formation Constants for Complex Ions</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m68870" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.6">
+        <md:title>Standard Electrode (Half-Cell) Potentials</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m68871" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.6">
+        <md:title>Half-Lives for Several Radioactive Isotopes</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+  </col:content>
+</col:collection>

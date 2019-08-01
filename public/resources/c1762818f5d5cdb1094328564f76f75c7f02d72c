@@ -1,0 +1,286 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:q="http://cnx.rice.edu/qml/1.0" id="new" cnxml-version="0.7" module-id="new" class="introduction">
+
+<title>Introduction</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+  <!-- WARNING! The 'metadata' section is read only. Do not edit below.
+       Changes to the metadata section in the source will not be saved. -->
+  <md:repository>http://legacy.cnx.org/content</md:repository>
+  <md:content-url>http://legacy.cnx.org/content/m46528/latest</md:content-url>
+  <md:content-id>m46528</md:content-id>
+  <md:title>Introduction</md:title>
+  <md:version>1.8</md:version>
+  <md:created>2013/03/20 09:47:24 -0500</md:created>
+  <md:revised>2018/10/17 09:34:46 -0500</md:revised>
+  <md:actors>
+    <md:organization userid="OpenStaxCollege">
+      <md:shortname>OpenStax</md:shortname>
+      <md:fullname>OpenStax</md:fullname>
+      <md:email>info@openstax.org</md:email>
+    </md:organization>
+    <md:person userid="OSCRiceUniversity">
+      <md:firstname>Rice</md:firstname>
+      <md:surname>University</md:surname>
+      <md:fullname>Rice University</md:fullname>
+      <md:email>info@openstaxcollege.org</md:email>
+    </md:person>
+    <md:person userid="cnxap">
+      <md:firstname>CNX</md:firstname>
+      <md:surname>Anatomy and Physiology</md:surname>
+      <md:fullname>OpenStax Anatomy and Physiology</md:fullname>
+      <md:email>info@openstaxcollege.org</md:email>
+    </md:person>
+  </md:actors>
+  <md:roles>
+    <md:role type="author">OpenStaxCollege</md:role>
+    <md:role type="maintainer">OpenStaxCollege cnxap</md:role>
+    <md:role type="licensor">OSCRiceUniversity</md:role>
+  </md:roles>
+  <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>
+  <!-- For information on license requirements for use or modification, see license url in the
+       above <md:license> element.
+       For information on formatting required attribution, see the URL:
+         CONTENT_URL/content_info#cnx_cite_header
+       where CONTENT_URL is the value provided above in the <md:content-url> element.
+  -->
+  <md:keywordlist>
+    <md:keyword>abducens nerve</md:keyword>
+    <md:keyword>alar plate</md:keyword>
+    <md:keyword>amygdala</md:keyword>
+    <md:keyword>anosmia</md:keyword>
+    <md:keyword>anterior column</md:keyword>
+    <md:keyword>anterior horn</md:keyword>
+    <md:keyword>anterior median fissure</md:keyword>
+    <md:keyword>anterior nerve root</md:keyword>
+    <md:keyword>anterior spinal artery</md:keyword>
+    <md:keyword>arachnoid granulation</md:keyword>
+    <md:keyword>arachnoid mater</md:keyword>
+    <md:keyword>arachnoid trabeculae</md:keyword>
+    <md:keyword>arterial supply</md:keyword>
+    <md:keyword>ascending tract</md:keyword>
+    <md:keyword>axillary nerve</md:keyword>
+    <md:keyword>bacterial meningitis</md:keyword>
+    <md:keyword>basal forebrain</md:keyword>
+    <md:keyword>basal ganglia</md:keyword>
+    <md:keyword>basal nuclei</md:keyword>
+    <md:keyword>basal nuclei connection</md:keyword>
+    <md:keyword>basal plate</md:keyword>
+    <md:keyword>basilar artery</md:keyword>
+    <md:keyword>brachial plexus</md:keyword>
+    <md:keyword>brainstem</md:keyword>
+    <md:keyword>Broca’s area</md:keyword>
+    <md:keyword>Brodmann’s area</md:keyword>
+    <md:keyword>carotid canal</md:keyword>
+    <md:keyword>caudate</md:keyword>
+    <md:keyword>central canal</md:keyword>
+    <md:keyword>central nervous system</md:keyword>
+    <md:keyword>central nervous system circulation</md:keyword>
+    <md:keyword>central sulcus</md:keyword>
+    <md:keyword>cephalic flexure</md:keyword>
+    <md:keyword>cerebellum</md:keyword>
+    <md:keyword>cerebral aqueduct</md:keyword>
+    <md:keyword>cerebral cortex</md:keyword>
+    <md:keyword>cerebral hemisphere</md:keyword>
+    <md:keyword>cerebrospinal fluid</md:keyword>
+    <md:keyword>cerebrospinal fluid circulation</md:keyword>
+    <md:keyword>cerebrum</md:keyword>
+    <md:keyword>cervical plexus</md:keyword>
+    <md:keyword>choroid plexus</md:keyword>
+    <md:keyword>circle of Willis</md:keyword>
+    <md:keyword>common carotid artery</md:keyword>
+    <md:keyword>corpus callosum</md:keyword>
+    <md:keyword>cranial nerve</md:keyword>
+    <md:keyword>cranial nerve ganglion</md:keyword>
+    <md:keyword>descending tract</md:keyword>
+    <md:keyword>diencephalon</md:keyword>
+    <md:keyword>direct pathway</md:keyword>
+    <md:keyword>disinhibition</md:keyword>
+    <md:keyword>dorsal nerve root</md:keyword>
+    <md:keyword>dorsal root ganglion</md:keyword>
+    <md:keyword>dural sinus</md:keyword>
+    <md:keyword>dura mater</md:keyword>
+    <md:keyword>embryologic perspective</md:keyword>
+    <md:keyword>embryonic development</md:keyword>
+    <md:keyword>endoneurium</md:keyword>
+    <md:keyword>enteric nervous system</md:keyword>
+    <md:keyword>enteric plexus</md:keyword>
+    <md:keyword>epineurium</md:keyword>
+    <md:keyword>epithalamus</md:keyword>
+    <md:keyword>esophageal plexus</md:keyword>
+    <md:keyword>extraocular muscle</md:keyword>
+    <md:keyword>facial nerve</md:keyword>
+    <md:keyword>fascicle</md:keyword>
+    <md:keyword>femoral nerve</md:keyword>
+    <md:keyword>fibular nerve</md:keyword>
+    <md:keyword>foramen magnum</md:keyword>
+    <md:keyword>forebrain</md:keyword>
+    <md:keyword>fourth ventricle</md:keyword>
+    <md:keyword>frontal eye field</md:keyword>
+    <md:keyword>frontal lobe</md:keyword>
+    <md:keyword>ganglia</md:keyword>
+    <md:keyword>gastric plexus</md:keyword>
+    <md:keyword>globus pallidus</md:keyword>
+    <md:keyword>glossopharyngeal nerve</md:keyword>
+    <md:keyword>gray horn</md:keyword>
+    <md:keyword>gyrus</md:keyword>
+    <md:keyword>hindbrain</md:keyword>
+    <md:keyword>hippocampus</md:keyword>
+    <md:keyword>human neuraxis</md:keyword>
+    <md:keyword>hypoglossal nerve</md:keyword>
+    <md:keyword>hypothalamus</md:keyword>
+    <md:keyword>indirect pathway</md:keyword>
+    <md:keyword>inferior colliculus</md:keyword>
+    <md:keyword>inferior olive</md:keyword>
+    <md:keyword>intercostal nerve</md:keyword>
+    <md:keyword>internal carotid artery</md:keyword>
+    <md:keyword>interventricular foramina</md:keyword>
+    <md:keyword>ischemic event</md:keyword>
+    <md:keyword>jugular vein</md:keyword>
+    <md:keyword>kinesthesia</md:keyword>
+    <md:keyword>Korbinian Brodmann</md:keyword>
+    <md:keyword>lateral aperture</md:keyword>
+    <md:keyword>lateral column</md:keyword>
+    <md:keyword>lateral horn</md:keyword>
+    <md:keyword>lateral sulcus</md:keyword>
+    <md:keyword>lateral ventricle</md:keyword>
+    <md:keyword>left brain</md:keyword>
+    <md:keyword>limbic cortex</md:keyword>
+    <md:keyword>limbic system</md:keyword>
+    <md:keyword>longitudinal fissure</md:keyword>
+    <md:keyword>lumbar plexus</md:keyword>
+    <md:keyword>lumbar puncture</md:keyword>
+    <md:keyword>median aperture</md:keyword>
+    <md:keyword>median nerve</md:keyword>
+    <md:keyword>menigeal layer</md:keyword>
+    <md:keyword>meninge</md:keyword>
+    <md:keyword>meningitis</md:keyword>
+    <md:keyword>meningocele</md:keyword>
+    <md:keyword>mesencephalon</md:keyword>
+    <md:keyword>metencephalon</md:keyword>
+    <md:keyword>midbrain</md:keyword>
+    <md:keyword>myelencephalon</md:keyword>
+    <md:keyword>myelomeningocele</md:keyword>
+    <md:keyword>nerve plexus</md:keyword>
+    <md:keyword>nerve structure</md:keyword>
+    <md:keyword>nerve trunk</md:keyword>
+    <md:keyword>neural crest</md:keyword>
+    <md:keyword>neural fold</md:keyword>
+    <md:keyword>neural groove</md:keyword>
+    <md:keyword>neural plate</md:keyword>
+    <md:keyword>neural tube</md:keyword>
+    <md:keyword>neuraxis</md:keyword>
+    <md:keyword>occipital lobe</md:keyword>
+    <md:keyword>occipital sinus</md:keyword>
+    <md:keyword>oculomotor nerve</md:keyword>
+    <md:keyword>olfaction</md:keyword>
+    <md:keyword>olfactory nerve</md:keyword>
+    <md:keyword>optic nerve</md:keyword>
+    <md:keyword>orthostatic reflex</md:keyword>
+    <md:keyword>paravertebral ganglion</md:keyword>
+    <md:keyword>parietal lobe</md:keyword>
+    <md:keyword>parieto-occipital sulcus</md:keyword>
+    <md:keyword>Parkinson’s disease</md:keyword>
+    <md:keyword>perineurium</md:keyword>
+    <md:keyword>phrenic nerve</md:keyword>
+    <md:keyword>pia mater</md:keyword>
+    <md:keyword>plexus</md:keyword>
+    <md:keyword>postcentral gyrus</md:keyword>
+    <md:keyword>posterior column</md:keyword>
+    <md:keyword>posterior horn</md:keyword>
+    <md:keyword>posterior median sulcus</md:keyword>
+    <md:keyword>posterior nerve root</md:keyword>
+    <md:keyword>posterior root ganglion</md:keyword>
+    <md:keyword>posterolateral sulcus</md:keyword>
+    <md:keyword>precentral gyrus</md:keyword>
+    <md:keyword>prefrontal lobe</md:keyword>
+    <md:keyword>premotor area</md:keyword>
+    <md:keyword>prevertebral ganglion</md:keyword>
+    <md:keyword>primary vesicle</md:keyword>
+    <md:keyword>proprioception</md:keyword>
+    <md:keyword>prosencephalon</md:keyword>
+    <md:keyword>protective brain covering</md:keyword>
+    <md:keyword>putamen</md:keyword>
+    <md:keyword>radial nerve</md:keyword>
+    <md:keyword>reticular formation</md:keyword>
+    <md:keyword>rhombencephalon</md:keyword>
+    <md:keyword>right brain</md:keyword>
+    <md:keyword>sacral plexus</md:keyword>
+    <md:keyword>saphenous nerve</md:keyword>
+    <md:keyword>sciatica</md:keyword>
+    <md:keyword>sciatic nerve</md:keyword>
+    <md:keyword>secondary vesicle</md:keyword>
+    <md:keyword>sigmoid sinus</md:keyword>
+    <md:keyword>somatosensation</md:keyword>
+    <md:keyword>spina bifida</md:keyword>
+    <md:keyword>spina bifida occulta</md:keyword>
+    <md:keyword>spinal accessory nerve</md:keyword>
+    <md:keyword>spinal cord cross-section</md:keyword>
+    <md:keyword>spinal cord development</md:keyword>
+    <md:keyword>spinal nerve</md:keyword>
+    <md:keyword>straight sinus</md:keyword>
+    <md:keyword>striatum</md:keyword>
+    <md:keyword>stroke</md:keyword>
+    <md:keyword>subarachnoid space</md:keyword>
+    <md:keyword>subcortical nuclei</md:keyword>
+    <md:keyword>subcortical structure</md:keyword>
+    <md:keyword>substantia nigra pars compacta</md:keyword>
+    <md:keyword>substantia nigra pars reticulata</md:keyword>
+    <md:keyword>subthalamus</md:keyword>
+    <md:keyword>sulcus</md:keyword>
+    <md:keyword>superior colliculus</md:keyword>
+    <md:keyword>superior sagittal sinus</md:keyword>
+    <md:keyword>sympathetic chain ganglia</md:keyword>
+    <md:keyword>systemic nerve</md:keyword>
+    <md:keyword>tectum</md:keyword>
+    <md:keyword>tegmentum</md:keyword>
+    <md:keyword>telencephalon</md:keyword>
+    <md:keyword>temporal lobe</md:keyword>
+    <md:keyword>terminal ganglia</md:keyword>
+    <md:keyword>thalamus</md:keyword>
+    <md:keyword>third ventricle</md:keyword>
+    <md:keyword>tibial nerve</md:keyword>
+    <md:keyword>transverse sinus</md:keyword>
+    <md:keyword>trigeminal ganglion</md:keyword>
+    <md:keyword>trigeminal nerve</md:keyword>
+    <md:keyword>trochlear nerve</md:keyword>
+    <md:keyword>ulnar nerve</md:keyword>
+    <md:keyword>vagus nerve</md:keyword>
+    <md:keyword>venous return</md:keyword>
+    <md:keyword>ventral nerve root</md:keyword>
+    <md:keyword>ventricle</md:keyword>
+    <md:keyword>vertebral artery</md:keyword>
+    <md:keyword>vestibulocochlear nerve</md:keyword>
+    <md:keyword>viral meningitis</md:keyword>
+    <md:keyword>white column</md:keyword>
+    <md:keyword>white matter</md:keyword>
+  </md:keywordlist>
+  <md:subjectlist>
+    <md:subject>Science and Technology</md:subject>
+  </md:subjectlist>
+  <md:abstract/>
+  <md:language>en</md:language>
+  <!-- WARNING! The 'metadata' section is read only. Do not edit above.
+       Changes to the metadata section in the source will not be saved. -->
+</metadata>
+
+<content>
+<?cnx.eoc class="summary" title="Chapter Review"?>
+<?cnx.eoc class="interactive-exercise" title="Interactive Link Questions"?>
+<?cnx.eoc class="multiple-choice" title="Review Questions" ?>
+<?cnx.eoc class="free-response" title="Critical Thinking Questions"?>
+
+<figure id="fig-ch13_00_01" class="splash"><title>Human Nervous System </title><media id="fs-id1146438" alt="This photograph shows a man balancing on a tightrope.">
+<image mime-type="image/jpg" src="1300_Human_Nervous_System.jpg" width="600"/>
+</media>
+<caption>The ability to balance like an acrobat combines functions throughout the nervous system. The central and peripheral divisions coordinate control of the body using the senses of balance, body position, and touch on the soles of the feet. (credit: Rhett Sutphin)</caption></figure><note id="eip-897" class="chapter-objectives"><title>Chapter Objectives</title><para id="eip-id1168150591252">After studying this chapter, you will be able to:</para>
+<list id="eip-id1168149551179">
+<item>Relate the developmental processes of the embryonic nervous system to the adult structures</item>
+<item>Name the major regions of the adult nervous system</item>
+<item>Locate regions of the cerebral cortex on the basis of anatomical landmarks common to all human brains</item>
+<item>Describe the regions of the spinal cord in cross-section</item>
+<item>List the cranial nerves in order of anatomical location and provide the central and peripheral connections</item>
+<item>List the spinal nerves by vertebral region and by which nerve plexus each supplies</item>
+</list></note><para id="fs-id692340">The nervous system is responsible for controlling much of the body, both through somatic (voluntary) and autonomic (involuntary) functions. The structures of the nervous system must be described in detail to understand how many of these functions are possible. There is a physiological concept known as localization of function that states that certain structures are specifically responsible for prescribed functions. It is an underlying concept in all of anatomy and physiology, but the nervous system illustrates the concept very well.</para>
+<para id="fs-id1150380">Fresh, unstained nervous tissue can be described as gray or white matter, and within those two types of tissue it can be very hard to see any detail. However, as specific regions and structures have been described, they were related to specific functions. Understanding these structures and the functions they perform requires a detailed description of the anatomy of the nervous system, delving deep into what the central and peripheral structures are.</para>
+<para id="fs-id1956082">The place to start this study of the nervous system is the beginning of the individual human life, within the womb. The embryonic development of the nervous system allows for a simple framework on which progressively more complicated structures can be built. With this framework in place, a thorough investigation of the nervous system is possible.</para>
+</content>
+</document>

@@ -1,0 +1,80 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:q="http://cnx.rice.edu/qml/1.0" id="new" cnxml-version="0.7" module-id="new" class="introduction">
+<title>Introduction</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+  <!-- WARNING! The 'metadata' section is read only. Do not edit below.
+       Changes to the metadata section in the source will not be saved. -->
+  <md:repository>http://legacy.cnx.org/content</md:repository>
+  <md:content-url>http://legacy.cnx.org/content/m68748/latest</md:content-url>
+  <md:content-id>m68748</md:content-id>
+  <md:title>Introduction</md:title>
+  <md:version>1.5</md:version>
+  <md:created>2018/09/06 16:35:30 -0500</md:created>
+  <md:revised>2018/10/19 10:40:46 -0500</md:revised>
+  <md:actors>
+    <md:person userid="cnxchem2">
+      <md:firstname>OpenStax</md:firstname>
+      <md:surname>Chemistry 2e</md:surname>
+      <md:fullname>OpenStax Chemistry 2e</md:fullname>
+      <md:email>info@openstax.org</md:email>
+    </md:person>
+    <md:organization userid="OpenStaxCollege">
+      <md:shortname>OpenStax</md:shortname>
+      <md:fullname>OpenStax</md:fullname>
+      <md:email>info@openstax.org</md:email>
+    </md:organization>
+    <md:person userid="OSCRiceUniversity">
+      <md:firstname>Rice</md:firstname>
+      <md:surname>University</md:surname>
+      <md:fullname>Rice University</md:fullname>
+      <md:email>info@openstaxcollege.org</md:email>
+    </md:person>
+  </md:actors>
+  <md:roles>
+    <md:role type="author">OpenStaxCollege</md:role>
+    <md:role type="maintainer">cnxchem2 OpenStaxCollege</md:role>
+    <md:role type="licensor">OSCRiceUniversity</md:role>
+  </md:roles>
+  <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
+  <!-- For information on license requirements for use or modification, see license url in the
+       above <md:license> element.
+       For information on formatting required attribution, see the URL:
+         CONTENT_URL/content_info#cnx_cite_header
+       where CONTENT_URL is the value provided above in the <md:content-url> element.
+  -->
+  <md:keywordlist>
+    <md:keyword>gas</md:keyword>
+    <md:keyword>gases</md:keyword>
+  </md:keywordlist>
+  <md:subjectlist>
+    <md:subject>Science and Technology</md:subject>
+    <md:subject>Science and Technology</md:subject>
+    <md:subject>Science and Technology</md:subject>
+    <md:subject>Science and Technology</md:subject>
+  </md:subjectlist>
+  <md:abstract><list><item>Gas Pressure</item>
+<item>Relating Pressure, Volume, Amount, and Temperature: The Ideal Gas Law</item>
+<item>Stoichiometry of Gaseous Substances, Mixtures, and Reactions</item>
+<item>Effusion and Diffusion of Gases</item>
+<item>The Kinetic-Molecular Theory</item>
+<item>Non-Ideal Gas Behavior</item></list></md:abstract>
+  <md:language>en</md:language>
+  <!-- WARNING! The 'metadata' section is read only. Do not edit above.
+       Changes to the metadata section in the source will not be saved. -->
+</metadata>
+
+<content>
+<?cnx.eoc class="key-equations" title="Key-Equations"?>
+<?cnx.eoc class="summary" title="Chapter Summary"?>
+<?cnx.eoc class="exercises" title="Exercises"?>
+<?cnx.eoc class="references" title="References"?>
+<figure id="CNX_Chem_09_00_HotAirBall" class="splash">
+<media id="fs-idm132595392" alt="A photograph shows about twenty colorful hot air balloons at varying stages of inflation. Some are deflated, while others are inflated. Three of the balloons are off the ground and are visible against a bright blue sky.">
+<image mime-type="image/jpeg" src="CNX_Chem_09_00_HotAirBall.jpg"/>
+</media>
+<caption>The hot air inside these balloons is less dense than the surrounding cool air. This results in a buoyant force that causes the balloons to rise when their guy lines are untied. (credit: modification of work by Anthony Quintano)</caption>
+</figure>
+<para id="fs-idm58981280">We are surrounded by an ocean of gas—the atmosphere—and many of the properties of gases are familiar to us from our daily activities. Heated gases expand, which can make a hot air balloon rise (<link target-id="CNX_Chem_09_00_HotAirBall"/>) or cause a blowout in a bicycle tire left in the sun on a hot day.</para>
+<para id="fs-idm145175104">Gases have played an important part in the development of chemistry. In the seventeenth and eighteenth centuries, many scientists investigated gas behavior, providing the first mathematical descriptions of the behavior of matter.</para>
+<para id="fs-idm154865680">In this chapter, we will examine the relationships between gas temperature, pressure, amount, and volume. We will study a simple theoretical model and use it to analyze the experimental behavior of gases. The results of these analyses will show us the limitations of the theory and how to improve on it.</para>
+</content>
+</document>

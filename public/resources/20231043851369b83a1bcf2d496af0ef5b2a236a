@@ -1,0 +1,211 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:q="http://cnx.rice.edu/qml/1.0" id="new" cnxml-version="0.7" module-id="new" class="introduction">
+
+<title>Introduction</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+  <!-- WARNING! The 'metadata' section is read only. Do not edit below.
+       Changes to the metadata section in the source will not be saved. -->
+  <md:repository>http://legacy.cnx.org/content</md:repository>
+  <md:content-url>http://legacy.cnx.org/content/m46402/latest</md:content-url>
+  <md:content-id>m46402</md:content-id>
+  <md:title>Introduction</md:title>
+  <md:version>1.7</md:version>
+  <md:created>2013/03/19 16:25:27 -0500</md:created>
+  <md:revised>2018/10/17 09:34:46 -0500</md:revised>
+  <md:actors>
+    <md:organization userid="OpenStaxCollege">
+      <md:shortname>OpenStax</md:shortname>
+      <md:fullname>OpenStax</md:fullname>
+      <md:email>info@openstax.org</md:email>
+    </md:organization>
+    <md:person userid="OSCRiceUniversity">
+      <md:firstname>Rice</md:firstname>
+      <md:surname>University</md:surname>
+      <md:fullname>Rice University</md:fullname>
+      <md:email>info@openstaxcollege.org</md:email>
+    </md:person>
+    <md:person userid="cnxap">
+      <md:firstname>CNX</md:firstname>
+      <md:surname>Anatomy and Physiology</md:surname>
+      <md:fullname>OpenStax Anatomy and Physiology</md:fullname>
+      <md:email>info@openstaxcollege.org</md:email>
+    </md:person>
+  </md:actors>
+  <md:roles>
+    <md:role type="author">OpenStaxCollege</md:role>
+    <md:role type="maintainer">OpenStaxCollege cnxap</md:role>
+    <md:role type="licensor">OSCRiceUniversity</md:role>
+  </md:roles>
+  <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>
+  <!-- For information on license requirements for use or modification, see license url in the
+       above <md:license> element.
+       For information on formatting required attribution, see the URL:
+         CONTENT_URL/content_info#cnx_cite_header
+       where CONTENT_URL is the value provided above in the <md:content-url> element.
+  -->
+  <md:keywordlist>
+    <md:keyword>abduction</md:keyword>
+    <md:keyword>acetabular labrum</md:keyword>
+    <md:keyword>adduction</md:keyword>
+    <md:keyword>amphiarthrosis</md:keyword>
+    <md:keyword>ankle injury</md:keyword>
+    <md:keyword>annular ligament</md:keyword>
+    <md:keyword>anterior cruciate ligament</md:keyword>
+    <md:keyword>anterior talofibular ligament</md:keyword>
+    <md:keyword>arthritis</md:keyword>
+    <md:keyword>articular capsule</md:keyword>
+    <md:keyword>articular cartilage</md:keyword>
+    <md:keyword>articular disc</md:keyword>
+    <md:keyword>articulation</md:keyword>
+    <md:keyword>atlantoaxial joint</md:keyword>
+    <md:keyword>atlanto-occipital joint</md:keyword>
+    <md:keyword>ball-and-socket joint</md:keyword>
+    <md:keyword>biaxial</md:keyword>
+    <md:keyword>body movement</md:keyword>
+    <md:keyword>bursa</md:keyword>
+    <md:keyword>bursitis</md:keyword>
+    <md:keyword>calcaneofibular ligament</md:keyword>
+    <md:keyword>cartilaginous joint</md:keyword>
+    <md:keyword>circumduction</md:keyword>
+    <md:keyword>condyloid joint</md:keyword>
+    <md:keyword>coracohumeral ligament</md:keyword>
+    <md:keyword>deltoid ligament</md:keyword>
+    <md:keyword>depression</md:keyword>
+    <md:keyword>diarthrosis</md:keyword>
+    <md:keyword>dorsiflexion</md:keyword>
+    <md:keyword>elbow joint</md:keyword>
+    <md:keyword>elevation</md:keyword>
+    <md:keyword>eversion</md:keyword>
+    <md:keyword>extension</md:keyword>
+    <md:keyword>external rotation</md:keyword>
+    <md:keyword>extrinsic ligament</md:keyword>
+    <md:keyword>facet joint</md:keyword>
+    <md:keyword>femoropatellar joint</md:keyword>
+    <md:keyword>fibrous joint</md:keyword>
+    <md:keyword>fibular collateral ligament</md:keyword>
+    <md:keyword>flexion</md:keyword>
+    <md:keyword>fontanelle</md:keyword>
+    <md:keyword>glenohumeral joint</md:keyword>
+    <md:keyword>glenohumeral ligament</md:keyword>
+    <md:keyword>glenoid labrum</md:keyword>
+    <md:keyword>gomphosis</md:keyword>
+    <md:keyword>gout</md:keyword>
+    <md:keyword>hinge joint</md:keyword>
+    <md:keyword>humeroradial joint</md:keyword>
+    <md:keyword>humeroulnar joint</md:keyword>
+    <md:keyword>hyperextension</md:keyword>
+    <md:keyword>hyperflexion</md:keyword>
+    <md:keyword>iliofemoral ligament</md:keyword>
+    <md:keyword>inferior rotation</md:keyword>
+    <md:keyword>internal rotation</md:keyword>
+    <md:keyword>interosseous membrane</md:keyword>
+    <md:keyword>intervertebral disc</md:keyword>
+    <md:keyword>intracapsular ligament</md:keyword>
+    <md:keyword>intrinsic ligament</md:keyword>
+    <md:keyword>inversion</md:keyword>
+    <md:keyword>ischiofemoral ligament</md:keyword>
+    <md:keyword>joint</md:keyword>
+    <md:keyword>joint cavity</md:keyword>
+    <md:keyword>joint classification</md:keyword>
+    <md:keyword>joint development</md:keyword>
+    <md:keyword>joint interzone</md:keyword>
+    <md:keyword>joint movement</md:keyword>
+    <md:keyword>knee injury</md:keyword>
+    <md:keyword>knee joint</md:keyword>
+    <md:keyword>lateral excursion</md:keyword>
+    <md:keyword>lateral flexion</md:keyword>
+    <md:keyword>lateral meniscus</md:keyword>
+    <md:keyword>lateral rotation</md:keyword>
+    <md:keyword>lateral tibiofemoral joint</md:keyword>
+    <md:keyword>ligament of the head of the femur</md:keyword>
+    <md:keyword>medial meniscus</md:keyword>
+    <md:keyword>medial rotation</md:keyword>
+    <md:keyword>medial tibiofemoral joint</md:keyword>
+    <md:keyword>meniscus</md:keyword>
+    <md:keyword>multiaxial</md:keyword>
+    <md:keyword>multiaxial joint</md:keyword>
+    <md:keyword>newborn skull</md:keyword>
+    <md:keyword>opposition</md:keyword>
+    <md:keyword>osteoarthritis</md:keyword>
+    <md:keyword>patellar ligament</md:keyword>
+    <md:keyword>periodontal ligament</md:keyword>
+    <md:keyword>pivot joint</md:keyword>
+    <md:keyword>plane joint</md:keyword>
+    <md:keyword>plantar flexion</md:keyword>
+    <md:keyword>posterior cruciate ligament</md:keyword>
+    <md:keyword>posterior talofibular ligament</md:keyword>
+    <md:keyword>pronated position</md:keyword>
+    <md:keyword>pronation</md:keyword>
+    <md:keyword>protraction</md:keyword>
+    <md:keyword>proximal radioulnar joint</md:keyword>
+    <md:keyword>pubofemoral ligament</md:keyword>
+    <md:keyword>radial collateral ligament</md:keyword>
+    <md:keyword>reposition</md:keyword>
+    <md:keyword>retraction</md:keyword>
+    <md:keyword>rheumatoid arthritis</md:keyword>
+    <md:keyword>rotation</md:keyword>
+    <md:keyword>rotator cuff</md:keyword>
+    <md:keyword>saddle joint</md:keyword>
+    <md:keyword>shoulder joint</md:keyword>
+    <md:keyword>subacromial bursa</md:keyword>
+    <md:keyword>subcutaneous bursa</md:keyword>
+    <md:keyword>submuscular bursa</md:keyword>
+    <md:keyword>subscapular bursa</md:keyword>
+    <md:keyword>subtalar joint</md:keyword>
+    <md:keyword>subtendinous bursa</md:keyword>
+    <md:keyword>superior rotation</md:keyword>
+    <md:keyword>supinated position</md:keyword>
+    <md:keyword>supination</md:keyword>
+    <md:keyword>suture</md:keyword>
+    <md:keyword>suture joint</md:keyword>
+    <md:keyword>symphysis</md:keyword>
+    <md:keyword>synarthrosis</md:keyword>
+    <md:keyword>synchondrosis</md:keyword>
+    <md:keyword>syndesmosis</md:keyword>
+    <md:keyword>synostosis</md:keyword>
+    <md:keyword>synovia</md:keyword>
+    <md:keyword>synovial fluid</md:keyword>
+    <md:keyword>synovial joint</md:keyword>
+    <md:keyword>synovial joint anatomy</md:keyword>
+    <md:keyword>synovial joint structure</md:keyword>
+    <md:keyword>synovial joint type</md:keyword>
+    <md:keyword>synovial membrane</md:keyword>
+    <md:keyword>talocrural joint</md:keyword>
+    <md:keyword>temporomandibular joint</md:keyword>
+    <md:keyword>tendon</md:keyword>
+    <md:keyword>tendon sheath</md:keyword>
+    <md:keyword>tibial collateral ligament</md:keyword>
+    <md:keyword>TMJ</md:keyword>
+    <md:keyword>ulnar collateral ligament</md:keyword>
+    <md:keyword>uniaxial</md:keyword>
+    <md:keyword>zygapophysial joint</md:keyword>
+  </md:keywordlist>
+  <md:subjectlist>
+    <md:subject>Science and Technology</md:subject>
+  </md:subjectlist>
+  <md:abstract/>
+  <md:language>en</md:language>
+  <!-- WARNING! The 'metadata' section is read only. Do not edit above.
+       Changes to the metadata section in the source will not be saved. -->
+</metadata>
+
+<content>
+<?cnx.eoc class="summary" title="Chapter Review"?>
+<?cnx.eoc class="interactive-exercise" title="Interactive Link Questions"?>
+<?cnx.eoc class="multiple-choice" title="Review Questions" ?>
+<?cnx.eoc class="free-response" title="Critical Thinking Questions"?>
+
+<figure id="fig-ch09_00_01" class="splash"><title>Girl Kayaking </title><media id="fs-id2007084" alt="This picture shows a girl kayaking in the ocean.">
+<image mime-type="image/jpg" src="900_Girl_Kayaking.jpg" width="600"/>
+</media>
+<caption>Without joints, body movements would be impossible. (credit: Graham Richardson/flickr.com)</caption></figure><note id="eip-515" class="chapter-objectives"><title>Chapter Objectives</title><para id="eip-id6647131">After this chapter, you will be able to:</para>
+<list id="eip-id3923843">
+<item>Discuss both functional and structural classifications for body joints</item>
+<item>Describe the characteristic features for fibrous, cartilaginous, and synovial joints and give examples of each</item>
+<item>Define and identify the different body movements</item>
+<item>Discuss the structure of specific body joints and the movements allowed by each</item>
+<item>Explain the development of body joints</item>
+</list></note><para id="fs-id3037354">The adult human body has 206 bones, and with the exception of the hyoid bone in the neck, each bone is connected to at least one other bone. Joints are the location where bones come together. Many joints allow for movement between the bones. At these joints, the articulating surfaces of the adjacent bones can move smoothly against each other. However, the bones of other joints may be joined to each other by connective tissue or cartilage. These joints are designed for stability and provide for little or no movement. Importantly, joint stability and movement are related to each other. This means that stable joints allow for little or no mobility between the adjacent bones. Conversely, joints that provide the most movement between bones are the least stable. Understanding the relationship between joint structure and function will help to explain why particular types of joints are found in certain areas of the body.</para>
+<para id="fs-id2145421">The articulating surfaces of bones at stable types of joints, with little or no mobility, are strongly united to each other. For example, most of the joints of the skull are held together by fibrous connective tissue and do not allow for movement between the adjacent bones. This lack of mobility is important, because the skull bones serve to protect the brain. Similarly, other joints united by fibrous connective tissue allow for very little movement, which provides stability and weight-bearing support for the body. For example, the tibia and fibula of the leg are tightly united to give stability to the body when standing. At other joints, the bones are held together by cartilage, which permits limited movements between the bones. Thus, the joints of the vertebral column only allow for small movements between adjacent vertebrae, but when added together, these movements provide the flexibility that allows your body to twist, or bend to the front, back, or side. In contrast, at joints that allow for wide ranges of motion, the articulating surfaces of the bones are not directly united to each other. Instead, these surfaces are enclosed within a space filled with lubricating fluid, which allows the bones to move smoothly against each other. These joints provide greater mobility, but since the bones are free to move in relation to each other, the joint is less stable. Most of the joints between the bones of the appendicular skeleton are this freely moveable type of joint. These joints allow the muscles of the body to pull on a bone and thereby produce movement of that body region. Your ability to kick a soccer ball, pick up a fork, and dance the tango depend on mobility at these types of joints.</para>
+
+</content>
+</document>

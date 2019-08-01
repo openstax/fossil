@@ -1,0 +1,241 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:q="http://cnx.rice.edu/qml/1.0" id="new" cnxml-version="0.7" module-id="new" class="introduction">
+
+<title>Introduction</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+  <!-- WARNING! The 'metadata' section is read only. Do not edit below.
+       Changes to the metadata section in the source will not be saved. -->
+  <md:repository>http://legacy.cnx.org/content</md:repository>
+  <md:content-url>http://legacy.cnx.org/content/m46573/latest</md:content-url>
+  <md:content-id>m46573</md:content-id>
+  <md:title>Introduction</md:title>
+  <md:version>1.9</md:version>
+  <md:created>2013/03/20 13:40:08 -0500</md:created>
+  <md:revised>2018/10/17 09:34:46 -0500</md:revised>
+  <md:actors>
+    <md:organization userid="OpenStaxCollege">
+      <md:shortname>OpenStax</md:shortname>
+      <md:fullname>OpenStax</md:fullname>
+      <md:email>info@openstax.org</md:email>
+    </md:organization>
+    <md:person userid="OSCRiceUniversity">
+      <md:firstname>Rice</md:firstname>
+      <md:surname>University</md:surname>
+      <md:fullname>Rice University</md:fullname>
+      <md:email>info@openstaxcollege.org</md:email>
+    </md:person>
+    <md:person userid="cnxap">
+      <md:firstname>CNX</md:firstname>
+      <md:surname>Anatomy and Physiology</md:surname>
+      <md:fullname>OpenStax Anatomy and Physiology</md:fullname>
+      <md:email>info@openstaxcollege.org</md:email>
+    </md:person>
+  </md:actors>
+  <md:roles>
+    <md:role type="author">OpenStaxCollege</md:role>
+    <md:role type="maintainer">OpenStaxCollege cnxap</md:role>
+    <md:role type="licensor">OSCRiceUniversity</md:role>
+  </md:roles>
+  <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>
+  <!-- For information on license requirements for use or modification, see license url in the
+       above <md:license> element.
+       For information on formatting required attribution, see the URL:
+         CONTENT_URL/content_info#cnx_cite_header
+       where CONTENT_URL is the value provided above in the <md:content-url> element.
+  -->
+  <md:keywordlist>
+    <md:keyword>acquired immune deficiency syndrome</md:keyword>
+    <md:keyword>active immunity</md:keyword>
+    <md:keyword>acute inflammation</md:keyword>
+    <md:keyword>adaptive immune response</md:keyword>
+    <md:keyword>afferent lymphatic</md:keyword>
+    <md:keyword>AIDS</md:keyword>
+    <md:keyword>alpha-beta T cell receptor</md:keyword>
+    <md:keyword>antibody</md:keyword>
+    <md:keyword>antibody structure</md:keyword>
+    <md:keyword>antigen</md:keyword>
+    <md:keyword>antigenic determinant</md:keyword>
+    <md:keyword>antigen presentation</md:keyword>
+    <md:keyword>antigen processing</md:keyword>
+    <md:keyword>antigen receptor</md:keyword>
+    <md:keyword>autoimmune disease</md:keyword>
+    <md:keyword>autoimmune disorder</md:keyword>
+    <md:keyword>BALT</md:keyword>
+    <md:keyword>barrier defense</md:keyword>
+    <md:keyword>B cell</md:keyword>
+    <md:keyword>bone marrow</md:keyword>
+    <md:keyword>bronchus-associated lymphoid tissue</md:keyword>
+    <md:keyword>cancer immunology</md:keyword>
+    <md:keyword>central tolerance</md:keyword>
+    <md:keyword>chemokine</md:keyword>
+    <md:keyword>chronic inflammation</md:keyword>
+    <md:keyword>chyle</md:keyword>
+    <md:keyword>cisterna chyli</md:keyword>
+    <md:keyword>class switching</md:keyword>
+    <md:keyword>clonal anergy</md:keyword>
+    <md:keyword>clonal deletion</md:keyword>
+    <md:keyword>clone</md:keyword>
+    <md:keyword>complement</md:keyword>
+    <md:keyword>complement cascade</md:keyword>
+    <md:keyword>constant region domain</md:keyword>
+    <md:keyword>cytokine</md:keyword>
+    <md:keyword>cytotoxic T cell</md:keyword>
+    <md:keyword>delayed hypersensitivity</md:keyword>
+    <md:keyword>disinfectant</md:keyword>
+    <md:keyword>early induced response</md:keyword>
+    <md:keyword>effector cell</md:keyword>
+    <md:keyword>efferent lymphatic vessel</md:keyword>
+    <md:keyword>erythroblastosis fetalis</md:keyword>
+    <md:keyword>extracellular pathogen</md:keyword>
+    <md:keyword>fas ligand</md:keyword>
+    <md:keyword>Fc region</md:keyword>
+    <md:keyword>germinal center</md:keyword>
+    <md:keyword>graft-versus-host disease</md:keyword>
+    <md:keyword>granzyme</md:keyword>
+    <md:keyword>heavy chain</md:keyword>
+    <md:keyword>helper T cell</md:keyword>
+    <md:keyword>hematopoietic system</md:keyword>
+    <md:keyword>high endothelial venule</md:keyword>
+    <md:keyword>histamine</md:keyword>
+    <md:keyword>HIV</md:keyword>
+    <md:keyword>HIV progression</md:keyword>
+    <md:keyword>human immunodeficiency virus</md:keyword>
+    <md:keyword>hypersensivity</md:keyword>
+    <md:keyword>IgA</md:keyword>
+    <md:keyword>IgA immunity</md:keyword>
+    <md:keyword>IgD</md:keyword>
+    <md:keyword>IgE</md:keyword>
+    <md:keyword>IgG</md:keyword>
+    <md:keyword>IgM</md:keyword>
+    <md:keyword>immediate hypersensitivity</md:keyword>
+    <md:keyword>immune hypersensitivity</md:keyword>
+    <md:keyword>immune response</md:keyword>
+    <md:keyword>immune surveillance</md:keyword>
+    <md:keyword>immune system</md:keyword>
+    <md:keyword>immune system anatomy</md:keyword>
+    <md:keyword>immunodeficiency</md:keyword>
+    <md:keyword>immunoglobulin</md:keyword>
+    <md:keyword>immunological memory</md:keyword>
+    <md:keyword>inflammation</md:keyword>
+    <md:keyword>inflammatory process</md:keyword>
+    <md:keyword>inflammatory response</md:keyword>
+    <md:keyword>inherited immunodeficiency</md:keyword>
+    <md:keyword>innate immune response</md:keyword>
+    <md:keyword>interferon</md:keyword>
+    <md:keyword>intracellular pathogen</md:keyword>
+    <md:keyword>Karposi’s sarcoma</md:keyword>
+    <md:keyword>light chain</md:keyword>
+    <md:keyword>lupus</md:keyword>
+    <md:keyword>lymph</md:keyword>
+    <md:keyword>lymphatic capillary</md:keyword>
+    <md:keyword>lymphatic system</md:keyword>
+    <md:keyword>lymphatic system anatomy</md:keyword>
+    <md:keyword>lymphatic trunk</md:keyword>
+    <md:keyword>lymph node</md:keyword>
+    <md:keyword>lymph node structure</md:keyword>
+    <md:keyword>lymphocyte</md:keyword>
+    <md:keyword>lymphoid nodule</md:keyword>
+    <md:keyword>macrophage</md:keyword>
+    <md:keyword>macrophage oxidative metabolism</md:keyword>
+    <md:keyword>major histocompatibility complex</md:keyword>
+    <md:keyword>MALT</md:keyword>
+    <md:keyword>mast cell</md:keyword>
+    <md:keyword>MHC class I</md:keyword>
+    <md:keyword>MHC class II</md:keyword>
+    <md:keyword>MHC polygeny</md:keyword>
+    <md:keyword>MHC polymorphism</md:keyword>
+    <md:keyword>monocyte</md:keyword>
+    <md:keyword>mucosa-associated lymphoid tissue</md:keyword>
+    <md:keyword>mucosal immune response</md:keyword>
+    <md:keyword>naïve lymphocyte</md:keyword>
+    <md:keyword>natural killer cell</md:keyword>
+    <md:keyword>negative selection</md:keyword>
+    <md:keyword>neutralization</md:keyword>
+    <md:keyword>neutrophil</md:keyword>
+    <md:keyword>NK</md:keyword>
+    <md:keyword>opsonization</md:keyword>
+    <md:keyword>passive immunity</md:keyword>
+    <md:keyword>pattern recognition receptor</md:keyword>
+    <md:keyword>perforin</md:keyword>
+    <md:keyword>peripheral tolerance</md:keyword>
+    <md:keyword>phagocyte chemotaxis</md:keyword>
+    <md:keyword>phagocytosis</md:keyword>
+    <md:keyword>plasma cell</md:keyword>
+    <md:keyword>polyclonal response</md:keyword>
+    <md:keyword>primary adaptive response</md:keyword>
+    <md:keyword>primary antibody response</md:keyword>
+    <md:keyword>primary disease</md:keyword>
+    <md:keyword>primary lymphoid organ</md:keyword>
+    <md:keyword>PRR</md:keyword>
+    <md:keyword>psychoneuroimmunology</md:keyword>
+    <md:keyword>regulatory T cell</md:keyword>
+    <md:keyword>rheumatoid arthritis</md:keyword>
+    <md:keyword>right lymphatic duct</md:keyword>
+    <md:keyword>SCID</md:keyword>
+    <md:keyword>secondary adaptive response</md:keyword>
+    <md:keyword>secondary antibody response</md:keyword>
+    <md:keyword>secondary lymphoid organ</md:keyword>
+    <md:keyword>self recognition</md:keyword>
+    <md:keyword>seroconversion</md:keyword>
+    <md:keyword>severe combined immunodeficiency disease</md:keyword>
+    <md:keyword>spleen</md:keyword>
+    <md:keyword>stress</md:keyword>
+    <md:keyword>Tc</md:keyword>
+    <md:keyword>T cell</md:keyword>
+    <md:keyword>T cell-dependent antigen</md:keyword>
+    <md:keyword>T cell-independent antigen</md:keyword>
+    <md:keyword>T cell tolerance</md:keyword>
+    <md:keyword>Th1 cell</md:keyword>
+    <md:keyword>Th2 cell</md:keyword>
+    <md:keyword>thoracic duct</md:keyword>
+    <md:keyword>thymocyte</md:keyword>
+    <md:keyword>thymus</md:keyword>
+    <md:keyword>tissue typing</md:keyword>
+    <md:keyword>T lymphocyte</md:keyword>
+    <md:keyword>tonsil</md:keyword>
+    <md:keyword>transplantation</md:keyword>
+    <md:keyword>type II hypersensitivity</md:keyword>
+    <md:keyword>type III hypersensitivity</md:keyword>
+    <md:keyword>variable region domain</md:keyword>
+  </md:keywordlist>
+  <md:subjectlist>
+    <md:subject>Science and Technology</md:subject>
+  </md:subjectlist>
+  <md:abstract/>
+  <md:language>en</md:language>
+  <!-- WARNING! The 'metadata' section is read only. Do not edit above.
+       Changes to the metadata section in the source will not be saved. -->
+</metadata>
+
+<content>
+<?cnx.eoc class="summary" title="Chapter Review"?>
+<?cnx.eoc class="interactive-exercise" title="Interactive Link Questions"?>
+<?cnx.eoc class="multiple-choice" title="Review Questions" ?>
+<?cnx.eoc class="free-response" title="Critical Thinking Questions"?>
+<?cnx.eoc class=&#8221;references&#8221; title=&#8221;References&#8221;?>
+
+
+<figure id="fig-ch22_00_01" class="splash"><title>The Worldwide AIDS Epidemic</title><media id="fs-id2164026" alt="The top panel shows a color-coded world map. The bottom panel shows many viruses on a cell.">
+<image mime-type="image/jpg" src="2200_The_Worldwide_AIDS_Epidemic.jpg" width="600"/>
+</media>
+<caption> (a) As of 2008, more than 15 percent of adults were infected with HIV in certain African countries. This grim picture had changed little by 2012. (b) In this scanning electron micrograph, HIV virions (green particles) are budding off the surface of a macrophage (pink structure). (credit b: C. Goldsmith)</caption></figure>
+
+<note id="fs-id1165576382888" class="chapter-objectives">
+<title>Chapter Objectives</title>
+<para id="fs-id1119273"> After studying this chapter, you will be able to:
+</para>
+<list id="fs-id1165573179187">
+<item>Identify the components and anatomy of the lymphatic system</item>
+<item>Discuss the role of the innate immune response against pathogens</item>
+<item>Describe the power of the adaptive immune response to cure disease</item>
+<item>Explain immunological deficiencies and over-reactions of the immune system</item>
+<item>Discuss the role of the immune response in transplantation and cancer</item>
+<item>Describe the interaction of the immune and lymphatic systems with other body systems</item>
+</list>
+</note>
+
+<para id="fs-id2575470">In June 1981, the Centers for Disease Control and Prevention (CDC), in Atlanta, Georgia, published a report of an unusual cluster of five patients in Los Angeles, California. All five were diagnosed with a rare pneumonia caused by a fungus called <emphasis effect="italics">Pneumocystis jirovecii </emphasis>(formerly known as<emphasis effect="italics"> Pneumocystis carinii</emphasis>).</para>
+<para id="fs-id2094507">Why was this unusual? Although commonly found in the lungs of healthy individuals, this fungus is an opportunistic pathogen that causes disease in individuals with suppressed or underdeveloped immune systems. The very young, whose immune systems have yet to mature, and the elderly, whose immune systems have declined with age, are particularly susceptible. The five patients from LA, though, were between 29 and 36 years of age and should have been in the prime of their lives, immunologically speaking. What could be going on?</para>
+<para id="fs-id1399025">A few days later, a cluster of eight cases was reported in New York City, also involving young patients, this time exhibiting a rare form of skin cancer known as Kaposi’s sarcoma. This cancer of the cells that line the blood and lymphatic vessels was previously observed as a relatively innocuous disease of the elderly. The disease that doctors saw in 1981 was frighteningly more severe, with multiple, fast-growing lesions that spread to all parts of the body, including the trunk and face. Could the immune systems of these young patients have been compromised in some way? Indeed, when they were tested, they exhibited extremely low numbers of a specific type of white blood cell in their bloodstreams, indicating that they had somehow lost a major part of the immune system.</para>
+<para id="fs-id2237547">Acquired immune deficiency syndrome, or AIDS, turned out to be a new disease caused by the previously unknown human immunodeficiency virus (HIV). Although nearly 100 percent fatal in those with active HIV infections in the early years, the development of anti-HIV drugs has transformed HIV infection into a chronic, manageable disease and not the certain death sentence it once was. One positive outcome resulting from the emergence of HIV disease was that the public’s attention became focused as never before on the importance of having a functional and healthy immune system.</para>
+</content>
+</document>

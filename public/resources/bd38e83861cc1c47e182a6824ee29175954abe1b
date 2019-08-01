@@ -1,0 +1,216 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:q="http://cnx.rice.edu/qml/1.0" id="new" cnxml-version="0.7" module-id="new" class="introduction">
+
+<title>Introduction</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+  <!-- WARNING! The 'metadata' section is read only. Do not edit below.
+       Changes to the metadata section in the source will not be saved. -->
+  <md:repository>http://legacy.cnx.org/content</md:repository>
+  <md:content-url>http://legacy.cnx.org/content/m46339/latest</md:content-url>
+  <md:content-id>m46339</md:content-id>
+  <md:title>Introduction</md:title>
+  <md:version>1.8</md:version>
+  <md:created>2013/03/20 15:53:08 -0500</md:created>
+  <md:revised>2018/10/17 09:34:46 -0500</md:revised>
+  <md:actors>
+    <md:organization userid="OpenStaxCollege">
+      <md:shortname>OpenStax</md:shortname>
+      <md:fullname>OpenStax</md:fullname>
+      <md:email>info@openstax.org</md:email>
+    </md:organization>
+    <md:person userid="OSCRiceUniversity">
+      <md:firstname>Rice</md:firstname>
+      <md:surname>University</md:surname>
+      <md:fullname>Rice University</md:fullname>
+      <md:email>info@openstaxcollege.org</md:email>
+    </md:person>
+    <md:person userid="cnxap">
+      <md:firstname>CNX</md:firstname>
+      <md:surname>Anatomy and Physiology</md:surname>
+      <md:fullname>OpenStax Anatomy and Physiology</md:fullname>
+      <md:email>info@openstaxcollege.org</md:email>
+    </md:person>
+  </md:actors>
+  <md:roles>
+    <md:role type="author">OpenStaxCollege</md:role>
+    <md:role type="maintainer">OpenStaxCollege cnxap</md:role>
+    <md:role type="licensor">OSCRiceUniversity</md:role>
+  </md:roles>
+  <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>
+  <!-- For information on license requirements for use or modification, see license url in the
+       above <md:license> element.
+       For information on formatting required attribution, see the URL:
+         CONTENT_URL/content_info#cnx_cite_header
+       where CONTENT_URL is the value provided above in the <md:content-url> element.
+  -->
+  <md:keywordlist>
+    <md:keyword>acrosome</md:keyword>
+    <md:keyword>acrosome reaction</md:keyword>
+    <md:keyword>afterbirth</md:keyword>
+    <md:keyword>allantois</md:keyword>
+    <md:keyword>allele</md:keyword>
+    <md:keyword>amnion</md:keyword>
+    <md:keyword>amniotic cavity</md:keyword>
+    <md:keyword>Apgar score</md:keyword>
+    <md:keyword>autosomal chromosome</md:keyword>
+    <md:keyword>autosomal dominant</md:keyword>
+    <md:keyword>autosomal recessive</md:keyword>
+    <md:keyword>blastocoel</md:keyword>
+    <md:keyword>blastocyst</md:keyword>
+    <md:keyword>blastomere</md:keyword>
+    <md:keyword>Braxton Hicks contraction</md:keyword>
+    <md:keyword>breast milk composition</md:keyword>
+    <md:keyword>brown adipose tissue</md:keyword>
+    <md:keyword>capacitation</md:keyword>
+    <md:keyword>carrier</md:keyword>
+    <md:keyword>cervical dilation</md:keyword>
+    <md:keyword>chorion</md:keyword>
+    <md:keyword>chorionic membrane</md:keyword>
+    <md:keyword>chorionic villi</md:keyword>
+    <md:keyword>chromosomal complement</md:keyword>
+    <md:keyword>cleavage</md:keyword>
+    <md:keyword>codominance</md:keyword>
+    <md:keyword>colostrum</md:keyword>
+    <md:keyword>conceptus</md:keyword>
+    <md:keyword>corona radiata</md:keyword>
+    <md:keyword>cortical reaction</md:keyword>
+    <md:keyword>dilation</md:keyword>
+    <md:keyword>dominant</md:keyword>
+    <md:keyword>dominant lethal</md:keyword>
+    <md:keyword>ductus arteriosus</md:keyword>
+    <md:keyword>ductus venosus</md:keyword>
+    <md:keyword>ectoderm</md:keyword>
+    <md:keyword>ectopic pregnancy</md:keyword>
+    <md:keyword>embryo</md:keyword>
+    <md:keyword>embryogenesis</md:keyword>
+    <md:keyword>embryonic development</md:keyword>
+    <md:keyword>embryonic disc</md:keyword>
+    <md:keyword>embryonic folding</md:keyword>
+    <md:keyword>embryonic membrane</md:keyword>
+    <md:keyword>endoderm</md:keyword>
+    <md:keyword>epiblast</md:keyword>
+    <md:keyword>episiotomy</md:keyword>
+    <md:keyword>expulsion</md:keyword>
+    <md:keyword>fertilization</md:keyword>
+    <md:keyword>fertilization membrane</md:keyword>
+    <md:keyword>fetal circulatory system</md:keyword>
+    <md:keyword>fetal development</md:keyword>
+    <md:keyword>foramen ovale</md:keyword>
+    <md:keyword>foremilk</md:keyword>
+    <md:keyword>gastrulation</md:keyword>
+    <md:keyword>genetic counselor</md:keyword>
+    <md:keyword>genotype</md:keyword>
+    <md:keyword>germ layer</md:keyword>
+    <md:keyword>gestation</md:keyword>
+    <md:keyword>Gregor Mendel</md:keyword>
+    <md:keyword>hatching</md:keyword>
+    <md:keyword>hCG</md:keyword>
+    <md:keyword>heterozygous</md:keyword>
+    <md:keyword>hindmilk</md:keyword>
+    <md:keyword>homozygous</md:keyword>
+    <md:keyword>human chorionic gonadotropin</md:keyword>
+    <md:keyword>hypoblast</md:keyword>
+    <md:keyword>implantation</md:keyword>
+    <md:keyword>incomplete dominance</md:keyword>
+    <md:keyword>inner cell mass</md:keyword>
+    <md:keyword>in vitro fertilization</md:keyword>
+    <md:keyword>involution</md:keyword>
+    <md:keyword>IVF</md:keyword>
+    <md:keyword>karyotype</md:keyword>
+    <md:keyword>lactating breast structure</md:keyword>
+    <md:keyword>lactation</md:keyword>
+    <md:keyword>lanugo</md:keyword>
+    <md:keyword>let-down reflex</md:keyword>
+    <md:keyword>lightening</md:keyword>
+    <md:keyword>linea nigra</md:keyword>
+    <md:keyword>lochia</md:keyword>
+    <md:keyword>maternal change</md:keyword>
+    <md:keyword>meconium</md:keyword>
+    <md:keyword>mesoderm</md:keyword>
+    <md:keyword>morula</md:keyword>
+    <md:keyword>mutation</md:keyword>
+    <md:keyword>neonatal circulatory system</md:keyword>
+    <md:keyword>neural fold</md:keyword>
+    <md:keyword>neural plate</md:keyword>
+    <md:keyword>neural tube</md:keyword>
+    <md:keyword>neurulation</md:keyword>
+    <md:keyword>nonshivering thermogenesis</md:keyword>
+    <md:keyword>notochord</md:keyword>
+    <md:keyword>organogenesis</md:keyword>
+    <md:keyword>parturition</md:keyword>
+    <md:keyword>phenotype</md:keyword>
+    <md:keyword>placenta</md:keyword>
+    <md:keyword>placental cross-section</md:keyword>
+    <md:keyword>placental development</md:keyword>
+    <md:keyword>placental function</md:keyword>
+    <md:keyword>placenta previa</md:keyword>
+    <md:keyword>placentation</md:keyword>
+    <md:keyword>polyspermy</md:keyword>
+    <md:keyword>pre-embryonic development</md:keyword>
+    <md:keyword>primitive streak</md:keyword>
+    <md:keyword>prolactin</md:keyword>
+    <md:keyword>Punnett Square</md:keyword>
+    <md:keyword>quickening</md:keyword>
+    <md:keyword>random segregation</md:keyword>
+    <md:keyword>recessive</md:keyword>
+    <md:keyword>recessive lethal</md:keyword>
+    <md:keyword>sex chromosomes</md:keyword>
+    <md:keyword>sexual differentiation</md:keyword>
+    <md:keyword>shunt</md:keyword>
+    <md:keyword>somite</md:keyword>
+    <md:keyword>sperm transit</md:keyword>
+    <md:keyword>syncytiotrophoblast</md:keyword>
+    <md:keyword>trait</md:keyword>
+    <md:keyword>trimester</md:keyword>
+    <md:keyword>trophoblast</md:keyword>
+    <md:keyword>true labor</md:keyword>
+    <md:keyword>umbilical cord</md:keyword>
+    <md:keyword>uterus size</md:keyword>
+    <md:keyword>vernix caseosa</md:keyword>
+    <md:keyword>Virginia Apgar</md:keyword>
+    <md:keyword>X-linked</md:keyword>
+    <md:keyword>X-linked dominant</md:keyword>
+    <md:keyword>X-linked recessive</md:keyword>
+    <md:keyword>yolk sac</md:keyword>
+    <md:keyword>zona pellucida</md:keyword>
+    <md:keyword>zygote</md:keyword>
+  </md:keywordlist>
+  <md:subjectlist>
+    <md:subject>Science and Technology</md:subject>
+  </md:subjectlist>
+  <md:abstract/>
+  <md:language>en</md:language>
+  <!-- WARNING! The 'metadata' section is read only. Do not edit above.
+       Changes to the metadata section in the source will not be saved. -->
+</metadata>
+
+<content>
+<?cnx.eoc class="summary" title="Chapter Review"?>
+<?cnx.eoc class="interactive-exercise" title="Interactive Link Questions"?>
+<?cnx.eoc class="multiple-choice" title="Review Questions" ?>
+<?cnx.eoc class="free-response" title="Critical Thinking Questions"?>
+
+
+<figure id="fig-ch29_00_01" class="splash"><title>Newborn </title><media id="fs-id1289251" alt="This photograph shows a newborn baby.">
+<image mime-type="image/jpg" src="2900_Photo_of_Neonate-02.jpg" width="500"/>
+</media>
+<caption>A single fertilized egg develops over the span of nine months into an infant consisting of trillions of cells and capable of surviving outside the womb. (credit: “Seattleye”/flickr.com)</caption></figure>
+
+<note id="fs-id1170309446143" class="chapter-objectives">
+<title>Chapter Objectives</title>
+<para id="fs-id1170309509256"> After studying this chapter, you will be able to:
+</para>
+<list id="fs-id1170309491495">
+<item>List and explain the steps involved in fertilization</item>
+<item>Describe the major events in embryonic development</item>
+<item>Describe the major events in fetal development</item>
+<item>Discuss the adaptations of a woman’s body to pregnancy</item>
+<item>Describe the physiologic adjustments that the newborn must make in the first hours of extrauterine life</item>
+<item>Summarize the physiology of lactation</item>
+<item>Classify and describe the different patterns of inheritance</item>
+</list>
+</note>
+
+<para id="fs-id1230654">In approximately nine months, a single cell—a fertilized egg—develops into a fully formed infant consisting of trillions of cells with myriad specialized functions. The dramatic changes of fertilization, embryonic development, and fetal development are followed by remarkable adaptations of the newborn to life outside the womb. An offspring’s normal development depends upon the appropriate synthesis of structural and functional proteins. This, in turn, is governed by the genetic material inherited from the parental egg and sperm, as well as environmental factors.</para>
+
+</content>
+</document>
