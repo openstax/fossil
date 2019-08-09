@@ -25,7 +25,7 @@ class Book extends Component {
     return (
       <div className="innerContent" >
         <style jsx>{styleContent}</style>
-        <h1>{this.props.data.name}</h1> 
+        <h1>{this.props.data.name}</h1>
           <Pages data={this.props.data.pages} />
       </div>
     )

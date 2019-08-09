@@ -3,7 +3,9 @@ import Book from './components/book.js';
 import IndexPage from './components/index_page.js';
 import BookList from './data/bookList.js';
 
-const booksDropdown = {}
+const booksDropdown = {
+  "cursor" : "pointer"
+}
 
 class App extends Component {
   constructor(props){
@@ -43,7 +45,7 @@ class App extends Component {
         </div>
       </div>
     )
-    
+
   }
 }
 
