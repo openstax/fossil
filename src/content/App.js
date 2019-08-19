@@ -40,7 +40,7 @@ class App extends Component {
 
         <div className="right-panel">
           {
-            this.state.book && <Book key={this.state.book.key} data={this.state.book} />
+            <Book key={this.state.book.key} data={this.state.book} />
           }
         </div>
       </div>

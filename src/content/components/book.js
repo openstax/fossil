@@ -30,7 +30,7 @@ class Book extends Component {
           data.map((page, index) => (
             <Page key={index} page={page} />
           ))
-          } 
+        } 
         </div>
       </div>
     )
