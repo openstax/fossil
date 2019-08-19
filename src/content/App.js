@@ -22,7 +22,7 @@ class App extends Component {
     const books = this.state.books;
     return (
       <div className="container">
-
+        <base href="https://archive.cnx.org"/>
         <div className="left-panel">
           <h3>Books</h3>
           <ul style={booksDropdown}>
