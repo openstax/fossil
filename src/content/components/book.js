@@ -26,12 +26,12 @@ class Book extends Component {
       <div className="innerContent" >
         <style jsx>{styleContent}</style>
         <h1>{this.props.data.name}</h1>
-          <div className="pages"> {
-            data.map((page, index) => (
-              <Page key={index} page={page} />
-            ))
+        <div className="pages"> {
+          data.map((page, index) => (
+            <Page key={index} page={page} />
+          ))
           } 
-          </div>
+        </div>
       </div>
     )
   }
