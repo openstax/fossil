@@ -1,5 +1,5 @@
 import React, {Component} from 'react';
-import Pages from './pages.js';
+import Page from './page.js';
 
 
 class Book extends Component {
@@ -26,7 +26,12 @@ class Book extends Component {
       <div className="innerContent" >
         <style jsx>{styleContent}</style>
         <h1>{this.props.data.name}</h1>
-          <Pages data={this.props.data.pages} />
+          <div className="pages"> {
+            data.map((page, index) => (
+              <Page key={index} page={page} />
+            ))
+          } 
+          </div>
       </div>
     )
   }
