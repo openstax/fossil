@@ -25,6 +25,9 @@ code {
 .right-panel {
   position: relative;
   width: 90%;
+  cnx-pi {
+    display: none
+  }
   img {max-width: 800px;}
    .innerContent {
     position: relative;
