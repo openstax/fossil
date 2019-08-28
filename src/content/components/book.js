@@ -18,15 +18,14 @@ class Book extends Component {
   }
 
   render() {
-    const data = this.props.data;
     const style = this.state.styles;
     const styleContent = style.map(s => (s.content));
 
     return (
       <div className="innerContent" >
         <style jsx>{styleContent}</style>
-        <h1>{this.props.data.name}</h1>
-          <Pages data={this.props.data.pages} />
+        <h1>{this.props.bookData.name}</h1>
+          <Pages pageData={this.props.pagesData} />
       </div>
     )
   }

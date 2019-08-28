@@ -1,6 +1,9 @@
-@import url("https://fonts.googleapis.com/css?family=Noto+Sans:400,400i,700,700i|Roboto+Condensed:300,300i,400,400i,700,700i");
+@import url('https://fonts.googleapis.com/css?family=Alegreya:400,700&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Muli:400,700,900&display=swap');
+@import url('https://fonts.googleapis.com/css?family=IBM+Plex+Sans:200,400,500,700&display=swap');
 
-
+    $baseFont: "Alegreya";
+    $sansFont: "IBM Plex Sans", sans-serif;
 
 body {
   margin: 0;
@@ -36,4 +39,107 @@ code {
    }
 }
 
+@function pow($number, $exponent) {
+  $value: 1;
 
+  @if $exponent > 0 {
+    @for $i from 1 through $exponent {
+      $value: $value * $number;
+    }
+  } @else if $exponent < 0 {
+    @for $i from 1 through -$exponent {
+      $value: $value / $number;
+    }
+  }
+
+  @return $value;
+}
+
+@function font-scale($scaleN) {
+  $font-size: 1 * pow(1.2, $scaleN) * 1rem;
+  @return $font-size
+}
+
+@function line-height($scale) {
+  $font-size: 1 * pow(1.2, $scale);
+  $line-height:  (ceil($font-size / 1.5)) *  1.5;
+  @return $line-height * 1rem;
+}
+
+@function v-grid($value) {
+  $v-grid: 1.5 * $value;
+  @return $v-grid * 1rem
+}
+
+* {
+  box-sizing: border-box;
+}
+html {
+  font-size: 12px;
+  line-height: 1.5rem;
+  box-sizing: border-box;
+}
+.scale {
+  columns: auto 3;
+  padding: v-grid(3);
+  h1, h2, h3, h4, h5, h6, h7, p {
+    border-collapse: collapse;
+    margin: 0;
+    padding: 0;
+  }
+  h1{
+    font-size: font-scale(7);
+    line-height: line-height(7);
+    font-family: $sansFont;
+  }
+  h2{
+    font-size: font-scale(6);
+    line-height: line-height(6);
+    font-family: $sansFont;
+  }
+
+  h3{
+    font-size: font-scale(5);
+    line-height: line-height(5);
+    font-family: $sansFont;
+  }
+
+  h4{
+    font-size: font-scale(4);
+    line-height: line-height(4);
+    font-family: $sansFont;
+  }
+   h5{
+    font-size: font-scale(3);
+    line-height: line-height(3);
+    font-family: $sansFont;
+  }
+  h6 {
+    font-size: font-scale(2);
+    line-height: line-height(2);
+    font-family: $sansFont;
+  }
+  .h7 {
+    font-size: font-scale(1);
+    line-height: line-height(1);
+    font-family: $sansFont;
+    margin-bottom: 0;
+  }
+
+
+  p {
+    font-family: $baseFont;
+    margin-bottom: v-grid(1)
+
+  }
+  p.small {
+     font-size: font-scale(-1);
+     line-height: line-height(-1);
+
+  }
+  p.verySmall {
+     font-size: font-scale(-2);
+     line-height: line-height(-2);
+
+  }
+}
