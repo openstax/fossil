@@ -11,7 +11,7 @@ class Book extends Component {
     }
   }
   componentDidMount() {
-    fetch('https://raw.githubusercontent.com/openstax/cnx-recipes/scale/styles/output/_web-styles.json')
+    fetch('https://github.com/openstax/cnx-recipes/blob/web-scale/styles/output/_web-styles.json')
     .then(result => {
       result.json().then(json => this.setState({ styles: json }))
     });
