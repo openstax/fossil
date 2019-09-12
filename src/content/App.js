@@ -8,7 +8,7 @@ import BookList from './data/bookList.js';
 
 const booksDropdown = {
   "cursor" : "pointer"
-}
+};
 
 class App extends Component {
   constructor(props){
@@ -18,9 +18,9 @@ class App extends Component {
       book:[],
       pagesData: [],
       key: "",
-      bookName: ""
-
-    }
+      bookName: "",
+        indexPage: IndexPage,
+    };
     this.handleChange = this.handleChange.bind(this);
   };
   handleChange(book) {
@@ -29,6 +29,7 @@ class App extends Component {
       key: book.key,
       pagesData: book.pages,
       bookName: book.name,
+      indexPage: "",
     });
   }
   render() {
@@ -36,8 +37,8 @@ class App extends Component {
     const book = this.state.book;
     const pagesData =this.state.pagesData;
     const bookName = this.state.bookName;
-    const key = this.state.key
-    ;
+    const key = this.state.key;
+    const indexPage = this.state.indexPage;
     return (
       <div className="container">
         <base href="/"/>
@@ -58,7 +59,7 @@ class App extends Component {
             </ul>
           </div>
           <div className="right-panel">
-            <Route exact path="/"  component={ IndexPage }/>
+            <Route exact path="/"  component={ indexPage  }/>
             <Route path={ bookName } >
                <Book key={ key } bookData={ book } pagesData={ pagesData } />
             </Route>
