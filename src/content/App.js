@@ -1,5 +1,5 @@
 import React, {Component} from 'react';
-import {Route, NavLink, HashRouter} from "react-router-dom";
+import {Route, NavLink, Link,  BrowserRouter, Switch} from "react-router-dom";
 
 import IndexPage from './components/index_page.js';
 import Book from './components/book.js';
@@ -19,9 +19,11 @@ class App extends Component {
       pagesData: [],
       key: "",
       bookName: "",
-        indexPage: IndexPage,
+      indexPage: IndexPage,
     };
     this.handleChange = this.handleChange.bind(this);
+    this.BaseState = this.state
+    
   };
   handleChange(book) {
     this.setState({
@@ -29,9 +31,13 @@ class App extends Component {
       key: book.key,
       pagesData: book.pages,
       bookName: book.name,
-      indexPage: "",
+      indexPage: IndexPage,
     });
   }
+  //TODO add not found component see https://programmingwithmosh.com/react/react-router-add-the-power-of-navigation/
+  //TODO fix paths: how to retreive book with URL (id via url?)
+  //TODO 
+
   render() {
     const books = this.state.books;
     const book = this.state.book;
@@ -39,35 +45,37 @@ class App extends Component {
     const bookName = this.state.bookName;
     const key = this.state.key;
     const indexPage = this.state.indexPage;
+
     return (
       <div className="container">
-        <base href="/"/>
-        <HashRouter>
+        <base href=""/>
+        <BrowserRouter>
           <div className="left-panel">
             <h3>Books</h3>
             <ul style={ booksDropdown }>
-              <li> <a  href="/">Home </a></li>
+              <li> <NavLink to="/"   >Font Scale </NavLink></li>
               {
                 books.map((book, index) => (
                   <li key={ book.key }>
-                    <a onClick={this.handleChange.bind(null, book)} >
+                    <Link to={book.name}  onClick={this.handleChange.bind(null, book)} >
                       {book.name}
-                    </a>
+                  </Link>
                   </li>
                 ))
               }
             </ul>
           </div>
           <div className="right-panel">
-            <Route exact path="/"  component={ indexPage  }/>
-            <Route path={ bookName } >
-               <Book key={ key } bookData={ book } pagesData={ pagesData } />
-            </Route>
+            <Switch>
+              <Route exact  path="/"  component={ indexPage  }/>
+              <Route  path={key} >
+                <Book key={ bookName } bookData={ book } pagesData={ pagesData } />
+               </Route>
+            </Switch>
           </div>
-        </HashRouter>
+        </BrowserRouter>
       </div>
     )
-
   }
 }
 
