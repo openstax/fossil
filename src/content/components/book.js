@@ -1,7 +1,6 @@
 import React, {Component} from 'react';
 import Pages from './pages.js';
 
-
 class Book extends Component {
   constructor (props) {
     super(props);
@@ -23,7 +22,7 @@ class Book extends Component {
 
     return (
       <div className="innerContent" >
-        <style jsx>{styleContent}</style>
+        <style>{styleContent}</style>
         <h1>{this.props.bookData.name}</h1>
           <Pages pageData={this.props.pagesData} />
       </div>

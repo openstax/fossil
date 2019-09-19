@@ -6,7 +6,7 @@ import Book from './components/book.js';
 
 import BookList from './data/bookList.js';
 
-const booksDropdown = {
+const booksDropdown = { 
   "cursor" : "pointer"
 };
 
@@ -26,13 +26,15 @@ class App extends Component {
     
   };
   handleChange(book) {
-    this.setState({
-      book: book,
-      key: book.key,
-      pagesData: book.pages,
-      bookName: book.name,
-      indexPage: IndexPage,
-    });
+    return () => {
+      this.setState({
+        book: book,
+        key: book.key,
+        pagesData: book.pages,
+        bookName: book.name,
+        indexPage: IndexPage,
+      });
+    }
   }
   //TODO add not found component see https://programmingwithmosh.com/react/react-router-add-the-power-of-navigation/
   //TODO fix paths: how to retreive book with URL (id via url?)
@@ -43,12 +45,10 @@ class App extends Component {
     const book = this.state.book;
     const pagesData =this.state.pagesData;
     const bookName = this.state.bookName;
-    const key = this.state.key;
     const indexPage = this.state.indexPage;
 
     return (
       <div className="container">
-        <base href=""/>
         <BrowserRouter>
           <div className="left-panel">
             <h3>Books</h3>
@@ -57,8 +57,8 @@ class App extends Component {
               {
                 books.map((book, index) => (
                   <li key={ book.key }>
-                    <Link to={book.name}  onClick={this.handleChange.bind(null, book)} >
-                      {book.name}
+                    <Link to={ `/book/${book.name}` }  onClick={this.handleChange(book)} >
+                      { book.name }
                   </Link>
                   </li>
                 ))
@@ -67,10 +67,10 @@ class App extends Component {
           </div>
           <div className="right-panel">
             <Switch>
-              <Route exact  path="/"  component={ indexPage  }/>
-              <Route  path={key} >
+              <Route exact path="/"  component={ indexPage  }/>
+              <Route path="/book">
                 <Book key={ bookName } bookData={ book } pagesData={ pagesData } />
-               </Route>
+              </Route>
             </Switch>
           </div>
         </BrowserRouter>

@@ -1,8 +1,4 @@
 import React, {Component} from 'react';
-import Page from './page.js';
-import { tsConstructorType } from '@babel/types';
-
-
 
 class PageContent extends Component {
   constructor (props) {
