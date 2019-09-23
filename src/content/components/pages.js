@@ -1,10 +1,12 @@
-import React, {Component} from 'react';
+import React from 'react';
 import Page from './page.js';
 
 const Pages = (props) => {
+  const pData  = props.pageData;
+  
   return (
     <div>{
-      props.data.map((page, index) => (
+     pData.map((page, index) => (
         <Page key={index} page={page} />
       ))
     } 

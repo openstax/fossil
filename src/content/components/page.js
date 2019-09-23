@@ -1,5 +1,4 @@
-import React, {Component} from 'react';
-import Pages from './pages.js';
+import React from 'react';
 import PageContent from './page_content.js';
 
 const Page = (props) => {
